@@ -1,0 +1,4 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total population between 20-64 by disability status,B23024_001,Disability By Work,American Community Survey,acs/acs5,B23024_001,2021,2020,block group
+Income below povety with disability,B23024_003,Disability By Work,American Community Survey,acs/acs5,B23024_003,2021,2020,block group
+Income above poverty with disability,B23024_018,Disability By Work,American Community Survey,acs/acs5,B23024_018,2021,2020,block group

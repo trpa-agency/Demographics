@@ -1,0 +1,124 @@
+Table,variable,variable_name,File,variable_category
+P001,P0010001,Total,STF301,Population
+P005,P0050001,Total,STF301,Households
+P010,P0100001,Total (Hispanic),STF301,Race
+P012,P0120001,White (Not Hispanic),STF301,Race
+P012,P0120002,Black (Not Hispanic),STF301,Race
+P012,P0120003,"American Indian, Eskimo, or Aleut (Not Hispanic)",STF301,Race
+P012,P0120004,Asian or Pacific Islander (Not Hispanic),STF301,Race
+P012,P0120005,Other race (Not Hispanic),STF301,Race
+P013,P0130001,Under 1 year,STF301,Age
+P013,P0130002,1 and 2 years,STF301,Age
+P013,P0130003,3 and 4 years,STF301,Age
+P013,P0130004,5 years,STF301,Age
+P013,P0130005,6 years,STF301,Age
+P013,P0130006,7 to 9 years,STF301,Age
+P013,P0130007,10 and 11 years,STF301,Age
+P013,P0130008,12 and 13 years,STF301,Age
+P013,P0130009,14 years,STF301,Age
+P013,P0130010,15 years,STF301,Age
+P013,P0130011,16 years,STF301,Age
+P013,P0130012,17 years,STF301,Age
+P013,P0130013,18 years,STF301,Age
+P013,P0130014,19 years,STF301,Age
+P013,P0130015,20 years,STF301,Age
+P013,P0130016,21 years,STF301,Age
+P013,P0130017,22 to 24 years,STF301,Age
+P013,P0130018,25 to 29 years,STF301,Age
+P013,P0130019,30 to 34 years,STF301,Age
+P013,P0130020,35 to 39 years,STF301,Age
+P013,P0130021,40 to 44 years,STF301,Age
+P013,P0130022,45 to 49 years,STF301,Age
+P013,P0130023,50 to 54 years,STF301,Age
+P013,P0130024,55 to 59 years,STF301,Age
+P013,P0130025,60 and 61 years,STF301,Age
+P013,P0130026,62 to 64 years,STF301,Age
+P013,P0130027,65 to 69 years,STF301,Age
+P013,P0130028,70 to 74 years,STF301,Age
+P013,P0130029,75 to 79 years,STF301,Age
+P013,P0130030,80 to 84 years,STF301,Age
+P013,P0130031,85 years and over,STF301,Age
+P050,P0500001,Less than 5 minutes,STF309,Travel Time to Work
+P050,P0500002,5 to 9 minutes,STF309,Travel Time to Work
+P050,P0500003,10 to 14 minutes,STF309,Travel Time to Work
+P050,P0500004,15 to 19 minutes,STF309,Travel Time to Work
+P050,P0500005,20 to 24 minutes,STF309,Travel Time to Work
+P050,P0500006,25 to 29 minutes,STF309,Travel Time to Work
+P050,P0500007,30 to 34 minutes,STF309,Travel Time to Work
+P050,P0500008,35 to 39 minutes,STF309,Travel Time to Work
+P050,P0500009,40 to 44 minutes,STF309,Travel Time to Work
+P050,P0500010,45 to 59 minutes,STF309,Travel Time to Work
+P050,P0500011,60 to 89 minutes,STF309,Travel Time to Work
+P050,P0500012,90 or more minutes,STF309,Travel Time to Work
+P050,P0500013,Worked at home,STF309,Travel Time to Work
+P080,P0800001,"Less than $5,000",STF314,Household Income
+P080,P0800002,"$5,000 to $9,999",STF314,Household Income
+P080,P0800003,"$10,000 to $12,499",STF314,Household Income
+P080,P0800004,"$12,500 to $14,999",STF314,Household Income
+P080,P0800005,"$15,000 to $17,499",STF314,Household Income
+P080,P0800006,"$17,500 to $19,999",STF314,Household Income
+P080,P0800007,"$20,000 to $22,499",STF314,Household Income
+P080,P0800008,"$22,500 to $24,999",STF314,Household Income
+P080,P0800009,"$25,000 to $27,499",STF314,Household Income
+P080,P0800010,"$27,500 to $29,999",STF314,Household Income
+P080,P0800011,"$30,000 to $32,499",STF314,Household Income
+P080,P0800012,"$32,500 to $34,999",STF314,Household Income
+P080,P0800013,"$35,000 to $37,499",STF314,Household Income
+P080,P0800014,"$37,500 to $39,999",STF314,Household Income
+P080,P0800015,"$40,000 to $42,499",STF314,Household Income
+P080,P0800016,"$42,500 to $44,999",STF314,Household Income
+P080,P0800017,"$45,000 to $47,499",STF314,Household Income
+P080,P0800018,"$47,500 to $49,999",STF314,Household Income
+P080,P0800019,"$50,000 to $54,999",STF314,Household Income
+P080,P0800020,"$55,000 to $59,999",STF314,Household Income
+P080,P0800021,"$60,000 to $74,999",STF314,Household Income
+P080,P0800022,"$75,000 to $99,999",STF314,Household Income
+P080,P0800023,"$100,000 to $124,999",STF314,Household Income
+P080,P0800024,"$125,000 to $149,999",STF314,Household Income
+P080,P0800025,"$150,000 or more",STF314,Household Income
+P080A,P080A001,Median household income in 1989,STF314,Household Income (median)
+H001,H0010001,Total,STF327,Housing Units
+H004,H0040001,Occupied,STF327,Housing Units
+H004,H0040002,Vacant,STF327,Housing Units
+H006,H0060003,"For seasonal, recreational, or occasional use: Condo",STF327,Housing Units
+H006,H0060007,"For seasonal, recreational, or occasional use: Not Condo",STF327,Housing Units
+H008,H0080001,Owner occupied,STF327,Housing Units
+H008,H0080002,Renter occupied,STF327,Housing Units
+H043,H0430001,Less than $100,STF330,Rent
+H043,H0430002,$100 to $149,STF330,Rent
+H043,H0430003,$150 to $199,STF330,Rent
+H043,H0430004,$200 to $249,STF330,Rent
+H043,H0430005,$250 to $299,STF330,Rent
+H043,H0430006,$300 to $349,STF330,Rent
+H043,H0430007,$350 to $399,STF330,Rent
+H043,H0430008,$400 to $449,STF330,Rent
+H043,H0430009,$450 to $499,STF330,Rent
+H043,H0430010,$500 to $549,STF330,Rent
+H043,H0430011,$550 to $599,STF330,Rent
+H043,H0430012,$600 to $649,STF330,Rent
+H043,H0430013,$650 to $699,STF330,Rent
+H043,H0430014,$700 to $749,STF330,Rent
+H043,H0430015,$750 to $999,STF330,Rent
+H043,H0430016,"$1,000 or more",STF330,Rent
+H043A,H043A001,Median gross rent,STF330,Rent (Median)
+H061,H0610001,"Less than $15,000",STF333,Home Value
+H061,H0610002,"$15,000 to $19,999",STF333,Home Value
+H061,H0610003,"$20,000 to $24,999",STF333,Home Value
+H061,H0610004,"$25,000 to $29,999",STF333,Home Value
+H061,H0610005,"$30,000 to $34,999",STF333,Home Value
+H061,H0610006,"$35,000 to $39,999",STF333,Home Value
+H061,H0610007,"$40,000 to $44,999",STF333,Home Value
+H061,H0610008,"$45,000 to $49,999",STF333,Home Value
+H061,H0610009,"$50,000 to $59,999",STF333,Home Value
+H061,H0610010,"$60,000 to $74,999",STF333,Home Value
+H061,H0610011,"$75,000 to $99,999",STF333,Home Value
+H061,H0610012,"$100,000 to $124,999",STF333,Home Value
+H061,H0610013,"$125,000 to $149,999",STF333,Home Value
+H061,H0610014,"$150,000 to $174,999",STF333,Home Value
+H061,H0610015,"$175,000 to $199,999",STF333,Home Value
+H061,H0610016,"$200,000 to $249,999",STF333,Home Value
+H061,H0610017,"$250,000 to $299,999",STF333,Home Value
+H061,H0610018,"$300,000 to $399,999",STF333,Home Value
+H061,H0610019,"$400,000 to $499,999",STF333,Home Value
+H061,H0610020,"$500,000 or more",STF333,Home Value
+H061A,H061A001,Median value,STF333,Home Value (Median)

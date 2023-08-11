@@ -1,0 +1,6 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Median Home Value,B25077_001,Home Values,American Community Survey,acs/acs5,B25077_001,2021,2020,block group
+Median Home Value,B25077_001,Home Values,American Community Survey,acs/acs5,B25077_001,2020,2020,block group
+Median Home Value,B25077_001,Home Values,American Community Survey,acs/acs5,B25077_001,2019,2020,block group
+Median Home Value,B25077_001,Home Values,American Community Survey,acs/acs5,B25077_001,2018,2020,block group
+Median Home Value,B25077_001,Home Values,American Community Survey,acs/acs5,B25077_001,2017,2020,block group

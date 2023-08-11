@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Population,P1_001N,Population,dec/dhc,dec/dhc,P1_001N,2020,2020,block
+Total Housing Units,H14_001N,Housing Units,dec/dhc,dec/dhc,H14_001N,2020,2020,block

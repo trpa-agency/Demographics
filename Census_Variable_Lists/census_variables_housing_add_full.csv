@@ -1,0 +1,8 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+"Vacant Housing Units: Seasonal, recreational, or occasional use",B25004_006,Housing Units,acs/acs5,acs/acs5,B25004_006,2021,2020,tract
+"Vacant Housing Units: Seasonal, recreational, or occasional use",B25004_006,Housing Units,acs/acs5,acs/acs5,B25004_006,2020,2020,tract
+Total Housing Units,B25001_001,Housing Units,acs/acs5,acs/acs5,B25001_001,2020,2020,tract
+Total Housing Units: Occupied,B25002_002,Housing Units,acs/acs5,acs/acs5,B25002_002,2020,2020,tract
+Total Housing Units: Vacant,B25002_003,Housing Units,acs/acs5,acs/acs5,B25002_003,2020,2020,tract
+Occupied Housing Units: Owner Occupied,B25003_002,Housing Units,acs/acs5,acs/acs5,B25003_002,2020,2020,tract
+Occupied Housing Units: Renter Occupied,B25003_003,Housing Units,acs/acs5,acs/acs5,B25003_003,2020,2020,tract
