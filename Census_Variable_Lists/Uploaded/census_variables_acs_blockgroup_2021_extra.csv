@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Households,B19001_001,Total Households,American Community Survey,acs/acs5,B19001_001,2021,2020,block group
+Total Households,B19001_001,Total Households,American Community Survey,acs/acs5,B19001_001,2020,2020,block group

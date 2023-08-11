@@ -1,0 +1,42 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Under 5 years,DP1_0002C,Age,Dec,dec/dp,DP1_0002C,2020,2020,tract
+5 to 9,DP1_0003C,Age,Dec,dec/dp,DP1_0003C,2020,2020,tract
+10 to 14,DP1_0004C,Age,Dec,dec/dp,DP1_0004C,2020,2020,tract
+15 to 19,DP1_0005C,Age,Dec,dec/dp,DP1_0005C,2020,2020,tract
+20 to 24,DP1_0006C,Age,Dec,dec/dp,DP1_0006C,2020,2020,tract
+25 to 29,DP1_0007C,Age,Dec,dec/dp,DP1_0007C,2020,2020,tract
+30 to 34,DP1_0008C,Age,Dec,dec/dp,DP1_0008C,2020,2020,tract
+35 to 39,DP1_0009C,Age,Dec,dec/dp,DP1_0009C,2020,2020,tract
+40 to 44,DP1_0010C,Age,Dec,dec/dp,DP1_0010C,2020,2020,tract
+45 to 49,DP1_0011C,Age,Dec,dec/dp,DP1_0011C,2020,2020,tract
+50 to 54,DP1_0012C,Age,Dec,dec/dp,DP1_0012C,2020,2020,tract
+55 to 59,DP1_0013C,Age,Dec,dec/dp,DP1_0013C,2020,2020,tract
+60 to 64,DP1_0014C,Age,Dec,dec/dp,DP1_0014C,2020,2020,tract
+65 to 69,DP1_0015C,Age,Dec,dec/dp,DP1_0015C,2020,2020,tract
+70 to 74,DP1_0016C,Age,Dec,dec/dp,DP1_0016C,2020,2020,tract
+75 to 79,DP1_0017C,Age,Dec,dec/dp,DP1_0017C,2020,2020,tract
+80 to 84,DP1_0018C,Age,Dec,dec/dp,DP1_0018C,2020,2020,tract
+85 years and over,DP1_0019C,Age,Dec,dec/dp,DP1_0019C,2020,2020,tract
+Hispanic or Latino,DP1_0093C,Demographic,Dec,dec/dp,DP1_0093C,2020,2020,tract
+Not Hispanic or Latino,DP1_0094C,Demographic,Dec,dec/dp,DP1_0094C,2020,2020,tract
+Total Housing Units,DP1_0147C,Housing,Dec,dec/dp,DP1_0147C,2020,2020,tract
+Occupied Housing Units,DP1_0148C,Housing,Dec,dec/dp,DP1_0148C,2020,2020,tract
+Vacant Housing Units,DP1_0149C,Housing,Dec,dec/dp,DP1_0149C,2020,2020,tract
+"Seasonal, recreational, or occasional use",DP1_0154C,Housing,Dec,dec/dp,DP1_0154C,2020,2020,tract
+Owner-occupied housing units,DP1_0159C,Housing,Dec,dec/dp,DP1_0159C,2020,2020,tract
+Renter-occupied housing units,DP1_0160C,Housing,Dec,dec/dp,DP1_0160C,2020,2020,tract
+Total Population,DP1_0001C,Population,Dec,dec/dp,DP1_0001C,2020,2020,tract
+White,DP1_0078C,Demographic,Dec,dec/dp,DP1_0078C,2020,2020,tract
+Black or African American,DP1_0079C,Demographic,Dec,dec/dp,DP1_0079C,2020,2020,tract
+American Indian and Alaska Native,DP1_0080C,Demographic,Dec,dec/dp,DP1_0080C,2020,2020,tract
+Asian,DP1_0081C,Demographic,Dec,dec/dp,DP1_0081C,2020,2020,tract
+Native Hawaiian and Other Pacific Islander,DP1_0082C,Demographic,Dec,dec/dp,DP1_0082C,2020,2020,tract
+Some Other Race,DP1_0083C,Demographic,Dec,dec/dp,DP1_0083C,2020,2020,tract
+Two or More Races,DP1_0084C,Demographic,Dec,dec/dp,DP1_0084C,2020,2020,tract
+White (Not Hispanic),DP1_0105C,Demographic,Dec,dec/dp,DP1_0105C,2020,2020,tract
+Black or African American (Not Hispanic),DP1_0106C,Demographic,Dec,dec/dp,DP1_0106C,2020,2020,tract
+American Indian and Alaska Native (Not Hispanic),DP1_0107C,Demographic,Dec,dec/dp,DP1_0107C,2020,2020,tract
+Asian (Not Hispanic),DP1_0108C,Demographic,Dec,dec/dp,DP1_0108C,2020,2020,tract
+Native Hawaiian and Other Pacific Islander (Not Hispanic),DP1_0109C,Demographic,Dec,dec/dp,DP1_0109C,2020,2020,tract
+Some Other Race (Not Hispanic),DP1_0110C,Demographic,Dec,dec/dp,DP1_0110C,2020,2020,tract
+Two or More Races (Not Hispanic),DP1_0111C,Demographic,Dec,dec/dp,DP1_0111C,2020,2020,tract

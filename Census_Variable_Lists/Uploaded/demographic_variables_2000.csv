@@ -1,0 +1,59 @@
+﻿Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total population:  White alone,P007002,Demographic,dec,dec/sf1,P007002,2000,2000,tract
+Total population:  Black or African American alone,P007003,Demographic,dec,dec/sf1,P007003,2000,2000,tract
+Total population:  American Indian and Alaska Native alone,P007004,Demographic,dec,dec/sf1,P007004,2000,2000,tract
+Total population:  Asian alone,P007005,Demographic,dec,dec/sf1,P007005,2000,2000,tract
+Total population:  Native Hawaiian and Other Pacific Islander alone,P007006,Demographic,dec,dec/sf1,P007006,2000,2000,tract
+Total population:  Some other race alone,P007007,Demographic,dec,dec/sf1,P007007,2000,2000,tract
+Total population:  Two or more races,P007008,Demographic,dec,dec/sf1,P007008,2000,2000,tract
+Total population:  Not Hispanic or Latino,P008002,Demographic,dec,dec/sf1,P008002,2000,2000,tract
+Total population:  Not Hispanic or Latino; White alone,P008003,Demographic,dec,dec/sf1,P008003,2000,2000,tract
+Total population:  Not Hispanic or Latino; Black or African American alone,P008004,Demographic,dec,dec/sf1,P008004,2000,2000,tract
+Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,P008005,Demographic,dec,dec/sf1,P008005,2000,2000,tract
+Total population:  Not Hispanic or Latino; Asian alone,P008006,Demographic,dec,dec/sf1,P008006,2000,2000,tract
+Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,P008007,Demographic,dec,dec/sf1,P008007,2000,2000,tract
+Total population:  Not Hispanic or Latino; Some other race alone,P008008,Demographic,dec,dec/sf1,P008008,2000,2000,tract
+Total population:  Not Hispanic or Latino; Two or more races,P008009,Demographic,dec,dec/sf1,P008009,2000,2000,tract
+Total population:  Hispanic or Latino,P008010,Demographic,dec,dec/sf1,P008010,2000,2000,tract
+Total population:  Hispanic or Latino; White alone,P008011,Demographic,dec,dec/sf1,P008011,2000,2000,tract
+Total population:  Hispanic or Latino; Black or African American alone,P008012,Demographic,dec,dec/sf1,P008012,2000,2000,tract
+Total population:  Hispanic or Latino; American Indian and Alaska Native alone,P008013,Demographic,dec,dec/sf1,P008013,2000,2000,tract
+Total population:  Hispanic or Latino; Asian alone,P008014,Demographic,dec,dec/sf1,P008014,2000,2000,tract
+Total population:  Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,P008015,Demographic,dec,dec/sf1,P008015,2000,2000,tract
+Total population:  Hispanic or Latino; Some other race alone,P008016,Demographic,dec,dec/sf1,P008016,2000,2000,tract
+Total population:  Hispanic or Latino; Two or more races,P008017,Demographic,dec,dec/sf1,P008017,2000,2000,tract
+With cash rent,H062002,Gross Rent (Total),dec,dec/sf3,H062002,2000,2000,tract
+Less than $100,H062003,Gross Rent,dec,dec/sf3,H062003,2000,2000,tract
+$100 to $149,H062004,Gross Rent,dec,dec/sf3,H062004,2000,2000,tract
+$150 to $199,H062005,Gross Rent,dec,dec/sf3,H062005,2000,2000,tract
+$200 to $249,H062006,Gross Rent,dec,dec/sf3,H062006,2000,2000,tract
+$250 to $299,H062007,Gross Rent,dec,dec/sf3,H062007,2000,2000,tract
+$300 to $349,H062008,Gross Rent,dec,dec/sf3,H062008,2000,2000,tract
+$350 to $399,H062009,Gross Rent,dec,dec/sf3,H062009,2000,2000,tract
+$400 to $449,H062010,Gross Rent,dec,dec/sf3,H062010,2000,2000,tract
+$450 to $499,H062011,Gross Rent,dec,dec/sf3,H062011,2000,2000,tract
+$500 to $549,H062012,Gross Rent,dec,dec/sf3,H062012,2000,2000,tract
+$550 to $599,H062013,Gross Rent,dec,dec/sf3,H062013,2000,2000,tract
+$600 to $649,H062014,Gross Rent,dec,dec/sf3,H062014,2000,2000,tract
+$650 to $699,H062015,Gross Rent,dec,dec/sf3,H062015,2000,2000,tract
+$700 to $749,H062016,Gross Rent,dec,dec/sf3,H062016,2000,2000,tract
+$750 to $799,H062017,Gross Rent,dec,dec/sf3,H062017,2000,2000,tract
+$800 to $899,H062018,Gross Rent,dec,dec/sf3,H062018,2000,2000,tract
+$900 to $999,H062019,Gross Rent,dec,dec/sf3,H062019,2000,2000,tract
+"$1,000 to $1,249",H062020,Gross Rent,dec,dec/sf3,H062020,2000,2000,tract
+"$1,250 to $1,499",H062021,Gross Rent,dec,dec/sf3,H062021,2000,2000,tract
+"$1,500 to $1,999",H062022,Gross Rent,dec,dec/sf3,H062022,2000,2000,tract
+"$2,000 or more",H062023,Gross Rent,dec,dec/sf3,H062023,2000,2000,tract
+No cash rent,H062024,Gross Rent,dec,dec/sf3,H062024,2000,2000,tract
+Median Gross Rent,H063001,Gross Rent (Median),dec,dec/sf3,H063001,2000,2000,tract
+Less than 10 percent,H069002,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069002,2000,2000,tract
+10 to 14 percent,H069003,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069003,2000,2000,tract
+15 to 19 percent,H069004,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069004,2000,2000,tract
+20 to 24 percent,H069005,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069005,2000,2000,tract
+25 to 29 percent,H069006,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069006,2000,2000,tract
+30 to 34 percent,H069007,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069007,2000,2000,tract
+35 to 39 percent,H069008,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069008,2000,2000,tract
+40 to 49 percent,H069009,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069009,2000,2000,tract
+50 percent or more,H069010,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069010,2000,2000,tract
+Not Computed,H069011,Gross Rent as Percentage of Household Income,dec,dec/sf3,H069011,2000,2000,tract
+Median Gross Rent as a percentage of household income,H070001,Gross Rent as Percentage of Household Income,dec,dec/sf3,H070001,2000,2000,tract

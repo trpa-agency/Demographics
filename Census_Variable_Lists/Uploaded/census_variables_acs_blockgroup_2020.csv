@@ -1,0 +1,53 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total,B19052_001,Employment,American Community Survey,acs/acs5,B19052_001,2020,2020,block group
+With wage or salary income,B19052_002,Employment,American Community Survey,acs/acs5,B19052_002,2020,2020,block group
+No wage or salary income,B19052_003,Employment,American Community Survey,acs/acs5,B19052_003,2020,2020,block group
+"$10,000 to $14,999",B19001_003,Household Income,American Community Survey,acs/acs5,B19001_003,2020,2020,block group
+"$15,000 to $19,999",B19001_004,Household Income,American Community Survey,acs/acs5,B19001_004,2020,2020,block group
+"$20,000 to $24,999",B19001_005,Household Income,American Community Survey,acs/acs5,B19001_005,2020,2020,block group
+"$25,000 to $29,999",B19001_006,Household Income,American Community Survey,acs/acs5,B19001_006,2020,2020,block group
+"$30,000 to $34,999",B19001_007,Household Income,American Community Survey,acs/acs5,B19001_007,2020,2020,block group
+"$35,000 to $39,999",B19001_008,Household Income,American Community Survey,acs/acs5,B19001_008,2020,2020,block group
+"$40,000 to $44,999",B19001_009,Household Income,American Community Survey,acs/acs5,B19001_009,2020,2020,block group
+"$45,000 to $49,999",B19001_010,Household Income,American Community Survey,acs/acs5,B19001_010,2020,2020,block group
+"$50,000 to $59,999",B19001_011,Household Income,American Community Survey,acs/acs5,B19001_011,2020,2020,block group
+"$60,000 to $74,999",B19001_012,Household Income,American Community Survey,acs/acs5,B19001_012,2020,2020,block group
+"$75,000 to $99,999",B19001_013,Household Income,American Community Survey,acs/acs5,B19001_013,2020,2020,block group
+"$100,000 to $124,999",B19001_014,Household Income,American Community Survey,acs/acs5,B19001_014,2020,2020,block group
+"$125,000 to $149,999",B19001_015,Household Income,American Community Survey,acs/acs5,B19001_015,2020,2020,block group
+"$150,000 to $199,999",B19001_016,Household Income,American Community Survey,acs/acs5,B19001_016,2020,2020,block group
+"$200,000 or more",B19001_017,Household Income,American Community Survey,acs/acs5,B19001_017,2020,2020,block group
+"Less than $10,000",B19001_002,Household Income,American Community Survey,acs/acs5,B19001_002,2020,2020,block group
+Median Household Income,B06011_001,Income (Median),American Community Survey,acs/acs5,B06011_001,2020,2020,block group
+Total Household Income,B19001_001,Income (Median),American Community Survey,acs/acs5,B19001_001,2020,2020,block group
+Median home value,B25075_001,Home Value (Median),American Community Survey,acs/acs5,B25075_001,2020,2020,block group
+Median Gross Rent,B25063_001,Demographic,American Community Survey,acs/acs5,B25063_001,2020,2020,block group
+Less than 10%,B25070_002,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_002,2020,2020,block group
+10-14.9%,B25070_003,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_003,2020,2020,block group
+15-19.9%,B25070_004,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_004,2020,2020,block group
+20-24.9%,B25070_005,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_005,2020,2020,block group
+25-29.9%,B25070_006,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_006,2020,2020,block group
+30-34.9%,B25070_007,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_007,2020,2020,block group
+35-39.9%,B25070_008,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_008,2020,2020,block group
+40-49.9%,B25070_009,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_009,2020,2020,block group
+Over 50%,B25070_010,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_010,2020,2020,block group
+Not Computed,B25070_011,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_011,2020,2020,block group
+Total,B08008_001,Workers by Place of Work,American Community Survey,acs/acs5,B08008_001,2020,2020,block group
+Living in a place,B08008_002,Workers by Place of Work,American Community Survey,acs/acs5,B08008_002,2020,2020,block group
+Living in a place: Worked in place of residence,B08008_003,Workers by Place of Work,American Community Survey,acs/acs5,B08008_003,2020,2020,block group
+Living in a place: Worked outside place of residence,B08008_004,Workers by Place of Work,American Community Survey,acs/acs5,B08008_004,2020,2020,block group
+Not living in a place,B08008_005,Workers by Place of Work,American Community Survey,acs/acs5,B08008_005,2020,2020,block group
+Total Household By Vehicle available,B08201_001,Vehicles,American Community Survey,acs/acs5,B08201_001,2020,2020,block group
+No Vehicle,B08201_002,Vehicles,American Community Survey,acs/acs5,B08201_002,2020,2020,block group
+1 Vehicle Available,B08201_003,Vehicles,American Community Survey,acs/acs5,B08201_003,2020,2020,block group
+2 Vehicle Available,B08201_004,Vehicles,American Community Survey,acs/acs5,B08201_004,2020,2020,block group
+3 Vehicle Available,B08201_005,Vehicles,American Community Survey,acs/acs5,B08201_005,2020,2020,block group
+4 or more Vehicle Available,B08201_006,Vehicles,American Community Survey,acs/acs5,B08201_006,2020,2020,block group
+Hispanic or Latino,B03002_012,Demographic,American Community Survey,acs/acs5,B03002_012,2020,2020,block group
+White (Not Hispanic),B03002_003,Demographic,American Community Survey,acs/acs5,B03002_003,2020,2020,block group
+Black or African American (Not Hispanic),B03002_004,Demographic,American Community Survey,acs/acs5,B03002_004,2020,2020,block group
+American Indian and Alaska Native (Not Hispanic),B03002_005,Demographic,American Community Survey,acs/acs5,B03002_005,2020,2020,block group
+Asian (Not Hispanic),B03002_006,Demographic,American Community Survey,acs/acs5,B03002_006,2020,2020,block group
+Native Hawaiian and Other Pacific Islander (Not Hispanic),B03002_007,Demographic,American Community Survey,acs/acs5,B03002_007,2020,2020,block group
+Some Other Race (Not Hispanic),B03002_008,Demographic,American Community Survey,acs/acs5,B03002_008,2020,2020,block group
+Two or More Races (Not Hispanic),B03002_009,Demographic,American Community Survey,acs/acs5,B03002_009,2020,2020,block group

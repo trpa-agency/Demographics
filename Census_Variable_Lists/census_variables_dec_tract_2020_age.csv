@@ -1,0 +1,49 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Male: Total,P12_002N,Age,dec/dhc,dec/dhc,P12_002N,2020,2020,tract
+Male: Under 5 years,P12_003N,Age,dec/dhc,dec/dhc,P12_003N,2020,2020,tract
+Male: 5 to 9 years,P12_004N,Age,dec/dhc,dec/dhc,P12_004N,2020,2020,tract
+Male: 10 to 14 years,P12_005N,Age,dec/dhc,dec/dhc,P12_005N,2020,2020,tract
+Male: 15 to 17 years,P12_006N,Age,dec/dhc,dec/dhc,P12_006N,2020,2020,tract
+Male: 18 and 19 years,P12_007N,Age,dec/dhc,dec/dhc,P12_007N,2020,2020,tract
+Male: 20 years,P12_008N,Age,dec/dhc,dec/dhc,P12_008N,2020,2020,tract
+Male: 21 years,P12_009N,Age,dec/dhc,dec/dhc,P12_009N,2020,2020,tract
+Male: 22 to 24 years,P12_010N,Age,dec/dhc,dec/dhc,P12_010N,2020,2020,tract
+Male: 25 to 29 years,P12_011N,Age,dec/dhc,dec/dhc,P12_011N,2020,2020,tract
+Male: 30 to 34 years,P12_012N,Age,dec/dhc,dec/dhc,P12_012N,2020,2020,tract
+Male: 35 to 39 years,P12_013N,Age,dec/dhc,dec/dhc,P12_013N,2020,2020,tract
+Male: 40 to 44 years,P12_014N,Age,dec/dhc,dec/dhc,P12_014N,2020,2020,tract
+Male: 45 to 49 years,P12_015N,Age,dec/dhc,dec/dhc,P12_015N,2020,2020,tract
+Male: 50 to 54 years,P12_016N,Age,dec/dhc,dec/dhc,P12_016N,2020,2020,tract
+Male: 55 to 59 years,P12_017N,Age,dec/dhc,dec/dhc,P12_017N,2020,2020,tract
+Male: 60 and 61 years,P12_018N,Age,dec/dhc,dec/dhc,P12_018N,2020,2020,tract
+Male: 62 to 64 years,P12_019N,Age,dec/dhc,dec/dhc,P12_019N,2020,2020,tract
+Male: 65 and 66 years,P12_020N,Age,dec/dhc,dec/dhc,P12_020N,2020,2020,tract
+Male: 67 to 69 years,P12_021N,Age,dec/dhc,dec/dhc,P12_021N,2020,2020,tract
+Male: 70 to 74 years,P12_022N,Age,dec/dhc,dec/dhc,P12_022N,2020,2020,tract
+Male: 75 to 79 years,P12_023N,Age,dec/dhc,dec/dhc,P12_023N,2020,2020,tract
+Male: 80 to 84 years,P12_024N,Age,dec/dhc,dec/dhc,P12_024N,2020,2020,tract
+Male: 85 years and over,P12_025N,Age,dec/dhc,dec/dhc,P12_025N,2020,2020,tract
+Female: Total,P12_026N,Age,dec/dhc,dec/dhc,P12_026N,2020,2020,tract
+Female: Under 5 years,P12_027N,Age,dec/dhc,dec/dhc,P12_027N,2020,2020,tract
+Female: 5 to 9 years,P12_028N,Age,dec/dhc,dec/dhc,P12_028N,2020,2020,tract
+Female: 10 to 14 years,P12_029N,Age,dec/dhc,dec/dhc,P12_029N,2020,2020,tract
+Female: 15 to 17 years,P12_030N,Age,dec/dhc,dec/dhc,P12_030N,2020,2020,tract
+Female: 18 and 19 years,P12_031N,Age,dec/dhc,dec/dhc,P12_031N,2020,2020,tract
+Female: 20 years,P12_032N,Age,dec/dhc,dec/dhc,P12_032N,2020,2020,tract
+Female: 21 years,P12_033N,Age,dec/dhc,dec/dhc,P12_033N,2020,2020,tract
+Female: 22 to 24 years,P12_034N,Age,dec/dhc,dec/dhc,P12_034N,2020,2020,tract
+Female: 25 to 29 years,P12_035N,Age,dec/dhc,dec/dhc,P12_035N,2020,2020,tract
+Female: 30 to 34 years,P12_036N,Age,dec/dhc,dec/dhc,P12_036N,2020,2020,tract
+Female: 35 to 39 years,P12_037N,Age,dec/dhc,dec/dhc,P12_037N,2020,2020,tract
+Female: 40 to 44 years,P12_038N,Age,dec/dhc,dec/dhc,P12_038N,2020,2020,tract
+Female: 45 to 49 years,P12_039N,Age,dec/dhc,dec/dhc,P12_039N,2020,2020,tract
+Female: 50 to 54 years,P12_040N,Age,dec/dhc,dec/dhc,P12_040N,2020,2020,tract
+Female: 55 to 59 years,P12_041N,Age,dec/dhc,dec/dhc,P12_041N,2020,2020,tract
+Female: 60 and 61 years,P12_042N,Age,dec/dhc,dec/dhc,P12_042N,2020,2020,tract
+Female: 62 to 64 years,P12_043N,Age,dec/dhc,dec/dhc,P12_043N,2020,2020,tract
+Female: 65 and 66 years,P12_044N,Age,dec/dhc,dec/dhc,P12_044N,2020,2020,tract
+Female: 67 to 69 years,P12_045N,Age,dec/dhc,dec/dhc,P12_045N,2020,2020,tract
+Female: 70 to 74 years,P12_046N,Age,dec/dhc,dec/dhc,P12_046N,2020,2020,tract
+Female: 75 to 79 years,P12_047N,Age,dec/dhc,dec/dhc,P12_047N,2020,2020,tract
+Female: 80 to 84 years,P12_048N,Age,dec/dhc,dec/dhc,P12_048N,2020,2020,tract
+Female: 85 years and over,P12_049N,Age,dec/dhc,dec/dhc,P12_049N,2020,2020,tract
