@@ -1,0 +1,32 @@
+variable_code,Granular Category,Census Category
+P0130001,Under 1 year,Under 5
+P0130002,1 and 2 years,Under 5
+P0130003,3 and 4 years,Under 5
+P0130004,5 years,5 to 9
+P0130005,6 years,5 to 9
+P0130006,7 to 9 years,5 to 9
+P0130007,10 and 11 years,10 to 14
+P0130008,12 and 13 years,10 to 14
+P0130009,14 years,10 to 14
+P0130010,15 years,15 to 19
+P0130011,16 years,15 to 19
+P0130012,17 years,15 to 19
+P0130013,18 years,15 to 19
+P0130014,19 years,15 to 19
+P0130015,20 years,20 to 24
+P0130016,21 years,20 to 24
+P0130017,22 to 24 years,20 to 24
+P0130018,25 to 29 years,25 to 29
+P0130019,30 to 34 years,30 to 34
+P0130020,35 to 39 years,35 to 39
+P0130021,40 to 44 years,40 to 44
+P0130022,45 to 49 years,45 to 49
+P0130023,50 to 54 years,50 to 54
+P0130024,55 to 59 years,55 to 59
+P0130025,60 and 61 years,60 to 64
+P0130026,62 to 64 years,60 to 64
+P0130027,65 to 69 years,65 to 69
+P0130028,70 to 74 years,70 to 74
+P0130029,75 to 79 years,75 to 79
+P0130030,80 to 84 years,80 to 84
+P0130031,85 years and over,Over 85
