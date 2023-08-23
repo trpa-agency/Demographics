@@ -1,49 +1,49 @@
 Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Male: Total,P012002,Age,dec/sf1,dec/sf1,P012002,2000,2000,tract
-Male: Under 5 years,P012003,Age,dec/sf1,dec/sf1,P012003,2000,2000,tract
-Male: 5 to 9 years,P012004,Age,dec/sf1,dec/sf1,P012004,2000,2000,tract
-Male: 10 to 14 years,P012005,Age,dec/sf1,dec/sf1,P012005,2000,2000,tract
-Male: 15 to 17 years,P012006,Age,dec/sf1,dec/sf1,P012006,2000,2000,tract
-Male: 18 and 19 years,P012007,Age,dec/sf1,dec/sf1,P012007,2000,2000,tract
-Male: 20 years,P012008,Age,dec/sf1,dec/sf1,P012008,2000,2000,tract
-Male: 21 years,P012009,Age,dec/sf1,dec/sf1,P012009,2000,2000,tract
-Male: 22 to 24 years,P012010,Age,dec/sf1,dec/sf1,P012010,2000,2000,tract
-Male: 25 to 29 years,P012011,Age,dec/sf1,dec/sf1,P012011,2000,2000,tract
-Male: 30 to 34 years,P012012,Age,dec/sf1,dec/sf1,P012012,2000,2000,tract
-Male: 35 to 39 years,P012013,Age,dec/sf1,dec/sf1,P012013,2000,2000,tract
-Male: 40 to 44 years,P012014,Age,dec/sf1,dec/sf1,P012014,2000,2000,tract
-Male: 45 to 49 years,P012015,Age,dec/sf1,dec/sf1,P012015,2000,2000,tract
-Male: 50 to 54 years,P012016,Age,dec/sf1,dec/sf1,P012016,2000,2000,tract
-Male: 55 to 59 years,P012017,Age,dec/sf1,dec/sf1,P012017,2000,2000,tract
-Male: 60 and 61 years,P012018,Age,dec/sf1,dec/sf1,P012018,2000,2000,tract
-Male: 62 to 64 years,P012019,Age,dec/sf1,dec/sf1,P012019,2000,2000,tract
-Male: 65 and 66 years,P012020,Age,dec/sf1,dec/sf1,P012020,2000,2000,tract
-Male: 67 to 69 years,P012021,Age,dec/sf1,dec/sf1,P012021,2000,2000,tract
-Male: 70 to 74 years,P012022,Age,dec/sf1,dec/sf1,P012022,2000,2000,tract
-Male: 75 to 79 years,P012023,Age,dec/sf1,dec/sf1,P012023,2000,2000,tract
-Male: 80 to 84 years,P012024,Age,dec/sf1,dec/sf1,P012024,2000,2000,tract
-Male: 85 years and over,P012025,Age,dec/sf1,dec/sf1,P012025,2000,2000,tract
-Female: Total,P012026,Age,dec/sf1,dec/sf1,P012026,2000,2000,tract
-Female: Under 5 years,P012027,Age,dec/sf1,dec/sf1,P012027,2000,2000,tract
-Female: 5 to 9 years,P012028,Age,dec/sf1,dec/sf1,P012028,2000,2000,tract
-Female: 10 to 14 years,P012029,Age,dec/sf1,dec/sf1,P012029,2000,2000,tract
-Female: 15 to 17 years,P012030,Age,dec/sf1,dec/sf1,P012030,2000,2000,tract
-Female: 18 and 19 years,P012031,Age,dec/sf1,dec/sf1,P012031,2000,2000,tract
-Female: 20 years,P012032,Age,dec/sf1,dec/sf1,P012032,2000,2000,tract
-Female: 21 years,P012033,Age,dec/sf1,dec/sf1,P012033,2000,2000,tract
-Female: 22 to 24 years,P012034,Age,dec/sf1,dec/sf1,P012034,2000,2000,tract
-Female: 25 to 29 years,P012035,Age,dec/sf1,dec/sf1,P012035,2000,2000,tract
-Female: 30 to 34 years,P012036,Age,dec/sf1,dec/sf1,P012036,2000,2000,tract
-Female: 35 to 39 years,P012037,Age,dec/sf1,dec/sf1,P012037,2000,2000,tract
-Female: 40 to 44 years,P012038,Age,dec/sf1,dec/sf1,P012038,2000,2000,tract
-Female: 45 to 49 years,P012039,Age,dec/sf1,dec/sf1,P012039,2000,2000,tract
-Female: 50 to 54 years,P012040,Age,dec/sf1,dec/sf1,P012040,2000,2000,tract
-Female: 55 to 59 years,P012041,Age,dec/sf1,dec/sf1,P012041,2000,2000,tract
-Female: 60 and 61 years,P012042,Age,dec/sf1,dec/sf1,P012042,2000,2000,tract
-Female: 62 to 64 years,P012043,Age,dec/sf1,dec/sf1,P012043,2000,2000,tract
-Female: 65 and 66 years,P012044,Age,dec/sf1,dec/sf1,P012044,2000,2000,tract
-Female: 67 to 69 years,P012045,Age,dec/sf1,dec/sf1,P012045,2000,2000,tract
-Female: 70 to 74 years,P012046,Age,dec/sf1,dec/sf1,P012046,2000,2000,tract
-Female: 75 to 79 years,P012047,Age,dec/sf1,dec/sf1,P012047,2000,2000,tract
-Female: 80 to 84 years,P012048,Age,dec/sf1,dec/sf1,P012048,2000,2000,tract
-Female: 85 years and over,P012049,Age,dec/sf1,dec/sf1,P012049,2000,2000,tract
+Male: Total,P012002,Age,dec/sf1,dec/sf1,P012002,2010,2010,tract
+Male: Under 5 years,P012003,Age,dec/sf1,dec/sf1,P012003,2010,2010,tract
+Male: 5 to 9 years,P012004,Age,dec/sf1,dec/sf1,P012004,2010,2010,tract
+Male: 10 to 14 years,P012005,Age,dec/sf1,dec/sf1,P012005,2010,2010,tract
+Male: 15 to 17 years,P012006,Age,dec/sf1,dec/sf1,P012006,2010,2010,tract
+Male: 18 and 19 years,P012007,Age,dec/sf1,dec/sf1,P012007,2010,2010,tract
+Male: 20 years,P012008,Age,dec/sf1,dec/sf1,P012008,2010,2010,tract
+Male: 21 years,P012009,Age,dec/sf1,dec/sf1,P012009,2010,2010,tract
+Male: 22 to 24 years,P012010,Age,dec/sf1,dec/sf1,P012010,2010,2010,tract
+Male: 25 to 29 years,P012011,Age,dec/sf1,dec/sf1,P012011,2010,2010,tract
+Male: 30 to 34 years,P012012,Age,dec/sf1,dec/sf1,P012012,2010,2010,tract
+Male: 35 to 39 years,P012013,Age,dec/sf1,dec/sf1,P012013,2010,2010,tract
+Male: 40 to 44 years,P012014,Age,dec/sf1,dec/sf1,P012014,2010,2010,tract
+Male: 45 to 49 years,P012015,Age,dec/sf1,dec/sf1,P012015,2010,2010,tract
+Male: 50 to 54 years,P012016,Age,dec/sf1,dec/sf1,P012016,2010,2010,tract
+Male: 55 to 59 years,P012017,Age,dec/sf1,dec/sf1,P012017,2010,2010,tract
+Male: 60 and 61 years,P012018,Age,dec/sf1,dec/sf1,P012018,2010,2010,tract
+Male: 62 to 64 years,P012019,Age,dec/sf1,dec/sf1,P012019,2010,2010,tract
+Male: 65 and 66 years,P012020,Age,dec/sf1,dec/sf1,P012020,2010,2010,tract
+Male: 67 to 69 years,P012021,Age,dec/sf1,dec/sf1,P012021,2010,2010,tract
+Male: 70 to 74 years,P012022,Age,dec/sf1,dec/sf1,P012022,2010,2010,tract
+Male: 75 to 79 years,P012023,Age,dec/sf1,dec/sf1,P012023,2010,2010,tract
+Male: 80 to 84 years,P012024,Age,dec/sf1,dec/sf1,P012024,2010,2010,tract
+Male: 85 years and over,P012025,Age,dec/sf1,dec/sf1,P012025,2010,2010,tract
+Female: Total,P012026,Age,dec/sf1,dec/sf1,P012026,2010,2010,tract
+Female: Under 5 years,P012027,Age,dec/sf1,dec/sf1,P012027,2010,2010,tract
+Female: 5 to 9 years,P012028,Age,dec/sf1,dec/sf1,P012028,2010,2010,tract
+Female: 10 to 14 years,P012029,Age,dec/sf1,dec/sf1,P012029,2010,2010,tract
+Female: 15 to 17 years,P012030,Age,dec/sf1,dec/sf1,P012030,2010,2010,tract
+Female: 18 and 19 years,P012031,Age,dec/sf1,dec/sf1,P012031,2010,2010,tract
+Female: 20 years,P012032,Age,dec/sf1,dec/sf1,P012032,2010,2010,tract
+Female: 21 years,P012033,Age,dec/sf1,dec/sf1,P012033,2010,2010,tract
+Female: 22 to 24 years,P012034,Age,dec/sf1,dec/sf1,P012034,2010,2010,tract
+Female: 25 to 29 years,P012035,Age,dec/sf1,dec/sf1,P012035,2010,2010,tract
+Female: 30 to 34 years,P012036,Age,dec/sf1,dec/sf1,P012036,2010,2010,tract
+Female: 35 to 39 years,P012037,Age,dec/sf1,dec/sf1,P012037,2010,2010,tract
+Female: 40 to 44 years,P012038,Age,dec/sf1,dec/sf1,P012038,2010,2010,tract
+Female: 45 to 49 years,P012039,Age,dec/sf1,dec/sf1,P012039,2010,2010,tract
+Female: 50 to 54 years,P012040,Age,dec/sf1,dec/sf1,P012040,2010,2010,tract
+Female: 55 to 59 years,P012041,Age,dec/sf1,dec/sf1,P012041,2010,2010,tract
+Female: 60 and 61 years,P012042,Age,dec/sf1,dec/sf1,P012042,2010,2010,tract
+Female: 62 to 64 years,P012043,Age,dec/sf1,dec/sf1,P012043,2010,2010,tract
+Female: 65 and 66 years,P012044,Age,dec/sf1,dec/sf1,P012044,2010,2010,tract
+Female: 67 to 69 years,P012045,Age,dec/sf1,dec/sf1,P012045,2010,2010,tract
+Female: 70 to 74 years,P012046,Age,dec/sf1,dec/sf1,P012046,2010,2010,tract
+Female: 75 to 79 years,P012047,Age,dec/sf1,dec/sf1,P012047,2010,2010,tract
+Female: 80 to 84 years,P012048,Age,dec/sf1,dec/sf1,P012048,2010,2010,tract
+Female: 85 years and over,P012049,Age,dec/sf1,dec/sf1,P012049,2010,2010,tract
