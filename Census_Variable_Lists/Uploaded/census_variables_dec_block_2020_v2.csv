@@ -1,0 +1,2 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Housing Units,H1_001N,Housing Units,dec/dhc,dec/dhc,H1_001N,2020,2020,block

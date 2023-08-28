@@ -1,0 +1,6 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+No Internet Access,B28002_013,Internet Access,acs/acs5,acs/acs5,B28002_013,2021,2020,block group
+Total households (Internet),B28002_001,Internet Access,acs/acs5,acs/acs5,B28002_001,2021,2020,block group
+Total households (Computer),B28001_001,TYPES OF COMPUTERS IN HOUSEHOLD,acs/acs5,acs/acs5,B28001_001,2021,2020,block group
+Has one or more types of computing devices:,B28001_002,TYPES OF COMPUTERS IN HOUSEHOLD,acs/acs5,acs/acs5,B28001_002,2021,2020,block group
+No Computer,B28001_011,TYPES OF COMPUTERS IN HOUSEHOLD,acs/acs5,acs/acs5,B28001_011,2021,2020,block group

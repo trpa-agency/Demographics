@@ -1,6 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Occupied Housing Units: Owner Occupied,H14_002N,Housing Units,dec/dhc,dec/dhc,H14_002N,2020,2020,block
-Occupied Housing Units: Renter Occupied,H14_036N,Housing Units,dec/dhc,dec/dhc,H14_036N,2020,2020,block
-Total Housing Units: Vacant,H3_003N,Housing Units,dec/dhc,dec/dhc,H3_003N,2020,2020,block
-Total Housing Units: Occupied,H3_002N,Housing Units,dec/dhc,dec/dhc,H3_002N,2020,2020,block
-"Vacant Housing Units: Seasonal, recreational, or occasional use",H5_006N,Housing Units,dec/dhc,dec/dhc,H5_006N,2020,2020,block

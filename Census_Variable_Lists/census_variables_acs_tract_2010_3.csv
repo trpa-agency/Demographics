@@ -1,4 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-"$100,000 to $124,999",B19001_014,Household Income,American Community Survey,acs/acs5,B19001_014,2010,2010,tract
-"$125,000 to $149,999",B19001_015,Household Income,American Community Survey,acs/acs5,B19001_015,2010,2010,tract
-"$150,000 to $199,999",B19001_016,Household Income,American Community Survey,acs/acs5,B19001_016,2010,2010,tract

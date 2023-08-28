@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Occupied Housing Units: Owner Occupied,H014002,Housing Units,dec/sf1,dec/sf1,H014002,2010,2010,tract
+"Vacant Housing Units: Seasonal, recreational, or occasional use",H005005,Housing Units,dec/sf1,dec/sf1,H005005,2000,2000,tract
