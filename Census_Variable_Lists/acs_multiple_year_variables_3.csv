@@ -1,0 +1,6 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+"$50,000 to $59,999",B19001_011,Household Income,American Community Survey,acs/acs5,B19001_011,2020,2020,tract
+"$60,000 to $74,999",B19001_012,Household Income,American Community Survey,acs/acs5,B19001_012,2020,2020,tract
+"$75,000 to $99,999",B19001_013,Household Income,American Community Survey,acs/acs5,B19001_013,2020,2020,tract
+"$100,000 to $124,999",B19001_014,Household Income,American Community Survey,acs/acs5,B19001_014,2020,2020,tract
+"$125,000 to $149,999",B19001_015,Household Income,American Community Survey,acs/acs5,B19001_015,2020,2020,tract
