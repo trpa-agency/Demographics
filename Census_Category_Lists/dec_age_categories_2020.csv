@@ -1,49 +1,49 @@
-﻿variable_code,Granular Category,Census Category,Broad Category,Gender,Census Category with Sex
-P12_002N,Male: Total,Total,Total,Male,Total: Male
-P12_003N,Male: Under 5 years,Under 5,Under 18,Male,Under 5: Male
-P12_004N,Male: 5 to 9 years,5 to 9,Under 18,Male,5 to 9: Male
-P12_005N,Male: 10 to 14 years,10 to 14,Under 18,Male,10 to 14: Male
-P12_006N,Male: 15 to 17 years,15 to 19,Under 18,Male,15 to 19: Male
-P12_007N,Male: 18 and 19 years,15 to 19,18 to 24,Male,15 to 19: Male
-P12_008N,Male: 20 years,20 to 24,18 to 24,Male,20 to 24: Male
-P12_009N,Male: 21 years,20 to 24,18 to 24,Male,20 to 24: Male
-P12_010N,Male: 22 to 24 years,20 to 24,18 to 24,Male,20 to 24: Male
-P12_011N,Male: 25 to 29 years,25 to 29,25 to 34,Male,25 to 29: Male
-P12_012N,Male: 30 to 34 years,30 to 34,25 to 34,Male,30 to 34: Male
-P12_013N,Male: 35 to 39 years,35 to 39,35 to 44,Male,35 to 39: Male
-P12_014N,Male: 40 to 44 years,40 to 44,35 to 44,Male,40 to 44: Male
-P12_015N,Male: 45 to 49 years,45 to 49,45 to 54,Male,45 to 49: Male
-P12_016N,Male: 50 to 54 years,50 to 54,45 to 54,Male,50 to 54: Male
-P12_017N,Male: 55 to 59 years,55 to 59,55 to 64,Male,55 to 59: Male
-P12_018N,Male: 60 and 61 years,60 to 64,55 to 64,Male,60 to 64: Male
-P12_019N,Male: 62 to 64 years,60 to 64,55 to 64,Male,60 to 64: Male
-P12_020N,Male: 65 and 66 years,65 to 69,65 to 74,Male,65 to 69: Male
-P12_021N,Male: 67 to 69 years,65 to 69,65 to 74,Male,65 to 69: Male
-P12_022N,Male: 70 to 74 years,70 to 74,65 to 74,Male,70 to 74: Male
-P12_023N,Male: 75 to 79 years,75 to 79,Over 75,Male,75 to 79: Male
-P12_024N,Male: 80 to 84 years,80 to 84,Over 75,Male,80 to 84: Male
-P12_025N,Male: 85 years and over,Over 85,Over 75,Male,Over 85: Male
-P12_026N,Female: Total,Total,Total,Female,Total: Female
-P12_027N,Female: Under 5 years,Under 5,Under 18,Female,Under 5: Female
-P12_028N,Female: 5 to 9 years,5 to 9,Under 18,Female,5 to 9: Female
-P12_029N,Female: 10 to 14 years,10 to 14,Under 18,Female,10 to 14: Female
-P12_030N,Female: 15 to 17 years,15 to 19,Under 18,Female,15 to 19: Female
-P12_031N,Female: 18 and 19 years,15 to 19,18 to 24,Female,15 to 19: Female
-P12_032N,Female: 20 years,20 to 24,18 to 24,Female,20 to 24: Female
-P12_033N,Female: 21 years,20 to 24,18 to 24,Female,20 to 24: Female
-P12_034N,Female: 22 to 24 years,20 to 24,18 to 24,Female,20 to 24: Female
-P12_035N,Female: 25 to 29 years,25 to 29,25 to 34,Female,25 to 29: Female
-P12_036N,Female: 30 to 34 years,30 to 34,25 to 34,Female,30 to 34: Female
-P12_037N,Female: 35 to 39 years,35 to 39,35 to 44,Female,35 to 39: Female
-P12_038N,Female: 40 to 44 years,40 to 44,35 to 44,Female,40 to 44: Female
-P12_039N,Female: 45 to 49 years,45 to 49,45 to 54,Female,45 to 49: Female
-P12_040N,Female: 50 to 54 years,50 to 54,45 to 54,Female,50 to 54: Female
-P12_041N,Female: 55 to 59 years,55 to 59,55 to 64,Female,55 to 59: Female
-P12_042N,Female: 60 and 61 years,60 to 64,55 to 64,Female,60 to 64: Female
-P12_043N,Female: 62 to 64 years,60 to 64,55 to 64,Female,60 to 64: Female
-P12_044N,Female: 65 and 66 years,65 to 69,65 to 74,Female,65 to 69: Female
-P12_045N,Female: 67 to 69 years,65 to 69,65 to 74,Female,65 to 69: Female
-P12_046N,Female: 70 to 74 years,70 to 74,65 to 74,Female,70 to 74: Female
-P12_047N,Female: 75 to 79 years,75 to 79,Over 75,Female,75 to 79: Female
-P12_048N,Female: 80 to 84 years,80 to 84,Over 75,Female,80 to 84: Female
-P12_049N,Female: 85 years and over,Over 85,Over 75,Female,Over 85: Female
+﻿variable_code,Granular Category,Census Category,Broad Category,Gender,Census Category with Sex,Ten Year Category,Three Categories
+P12_002N,Male: Total,Total,Total,Male,Total: Male,Total,Total
+P12_003N,Male: Under 5 years,Under 5,Under 18,Male,Under 5: Male,Under 10,Under 30
+P12_004N,Male: 5 to 9 years,5 to 9,Under 18,Male,5 to 9: Male,Under 10,Under 30
+P12_005N,Male: 10 to 14 years,10 to 14,Under 18,Male,10 to 14: Male,10 to 19,Under 30
+P12_006N,Male: 15 to 17 years,15 to 19,Under 18,Male,15 to 19: Male,10 to 19,Under 30
+P12_007N,Male: 18 and 19 years,15 to 19,18 to 24,Male,15 to 19: Male,10 to 19,Under 30
+P12_008N,Male: 20 years,20 to 24,18 to 24,Male,20 to 24: Male,20 to 29,Under 30
+P12_009N,Male: 21 years,20 to 24,18 to 24,Male,20 to 24: Male,20 to 29,Under 30
+P12_010N,Male: 22 to 24 years,20 to 24,18 to 24,Male,20 to 24: Male,20 to 29,Under 30
+P12_011N,Male: 25 to 29 years,25 to 29,25 to 34,Male,25 to 29: Male,20 to 29,Under 30
+P12_012N,Male: 30 to 34 years,30 to 34,25 to 34,Male,30 to 34: Male,30 to 39,30 to 54
+P12_013N,Male: 35 to 39 years,35 to 39,35 to 44,Male,35 to 39: Male,30 to 39,30 to 54
+P12_014N,Male: 40 to 44 years,40 to 44,35 to 44,Male,40 to 44: Male,40 to 49,30 to 54
+P12_015N,Male: 45 to 49 years,45 to 49,45 to 54,Male,45 to 49: Male,40 to 49,30 to 54
+P12_016N,Male: 50 to 54 years,50 to 54,45 to 54,Male,50 to 54: Male,50 to 59,30 to 54
+P12_017N,Male: 55 to 59 years,55 to 59,55 to 64,Male,55 to 59: Male,50 to 59,Over 55
+P12_018N,Male: 60 and 61 years,60 to 64,55 to 64,Male,60 to 64: Male,60 to 69,Over 55
+P12_019N,Male: 62 to 64 years,60 to 64,55 to 64,Male,60 to 64: Male,60 to 69,Over 55
+P12_020N,Male: 65 and 66 years,65 to 69,65 to 74,Male,65 to 69: Male,60 to 69,Over 55
+P12_021N,Male: 67 to 69 years,65 to 69,65 to 74,Male,65 to 69: Male,60 to 69,Over 55
+P12_022N,Male: 70 to 74 years,70 to 74,65 to 74,Male,70 to 74: Male,70 to 79,Over 55
+P12_023N,Male: 75 to 79 years,75 to 79,Over 75,Male,75 to 79: Male,70 to 79,Over 55
+P12_024N,Male: 80 to 84 years,80 to 84,Over 75,Male,80 to 84: Male,Over 80,Over 55
+P12_025N,Male: 85 years and over,Over 85,Over 75,Male,Over 85: Male,Over 80,Over 55
+P12_026N,Female: Total,Total,Total,Female,Total: Female,Total,Total
+P12_027N,Female: Under 5 years,Under 5,Under 18,Female,Under 5: Female,Under 10,Under 30
+P12_028N,Female: 5 to 9 years,5 to 9,Under 18,Female,5 to 9: Female,Under 10,Under 30
+P12_029N,Female: 10 to 14 years,10 to 14,Under 18,Female,10 to 14: Female,10 to 19,Under 30
+P12_030N,Female: 15 to 17 years,15 to 19,Under 18,Female,15 to 19: Female,10 to 19,Under 30
+P12_031N,Female: 18 and 19 years,15 to 19,18 to 24,Female,15 to 19: Female,10 to 19,Under 30
+P12_032N,Female: 20 years,20 to 24,18 to 24,Female,20 to 24: Female,20 to 29,Under 30
+P12_033N,Female: 21 years,20 to 24,18 to 24,Female,20 to 24: Female,20 to 29,Under 30
+P12_034N,Female: 22 to 24 years,20 to 24,18 to 24,Female,20 to 24: Female,20 to 29,Under 30
+P12_035N,Female: 25 to 29 years,25 to 29,25 to 34,Female,25 to 29: Female,20 to 29,Under 30
+P12_036N,Female: 30 to 34 years,30 to 34,25 to 34,Female,30 to 34: Female,30 to 39,30 to 54
+P12_037N,Female: 35 to 39 years,35 to 39,35 to 44,Female,35 to 39: Female,30 to 39,30 to 54
+P12_038N,Female: 40 to 44 years,40 to 44,35 to 44,Female,40 to 44: Female,40 to 49,30 to 54
+P12_039N,Female: 45 to 49 years,45 to 49,45 to 54,Female,45 to 49: Female,40 to 49,30 to 54
+P12_040N,Female: 50 to 54 years,50 to 54,45 to 54,Female,50 to 54: Female,50 to 59,30 to 54
+P12_041N,Female: 55 to 59 years,55 to 59,55 to 64,Female,55 to 59: Female,50 to 59,Over 55
+P12_042N,Female: 60 and 61 years,60 to 64,55 to 64,Female,60 to 64: Female,60 to 69,Over 55
+P12_043N,Female: 62 to 64 years,60 to 64,55 to 64,Female,60 to 64: Female,60 to 69,Over 55
+P12_044N,Female: 65 and 66 years,65 to 69,65 to 74,Female,65 to 69: Female,60 to 69,Over 55
+P12_045N,Female: 67 to 69 years,65 to 69,65 to 74,Female,65 to 69: Female,60 to 69,Over 55
+P12_046N,Female: 70 to 74 years,70 to 74,65 to 74,Female,70 to 74: Female,70 to 79,Over 55
+P12_047N,Female: 75 to 79 years,75 to 79,Over 75,Female,75 to 79: Female,70 to 79,Over 55
+P12_048N,Female: 80 to 84 years,80 to 84,Over 75,Female,80 to 84: Female,Over 80,Over 55
+P12_049N,Female: 85 years and over,Over 85,Over 75,Female,Over 85: Female,Over 80,Over 55
