@@ -1,311 +1,311 @@
-Table,variable,variable_name,File,variable_category,,census_category
-P001,P014A001,Under 1 year: White males,STF305,Population by Sex,,Under 5: Male
-P005,P014A002,1 and 2 years: White males,STF305,Population by Sex,,Under 5: Male
-P010,P014A003,3 and 4 years: White males,STF305,Population by Sex,,Under 5: Male
-P012,P014A004,5 years: White males,STF305,Population by Sex,,5 to 9: Male
-P012,P014A005,6 years: White males,STF305,Population by Sex,,5 to 9: Male
-P012,P014A006,7 to 9 years: White males,STF305,Population by Sex,,5 to 9: Male
-P012,P014A007,10 and 11 years: White males,STF305,Population by Sex,,10 to 14: Male
-P012,P014A008,12 and 13 years: White males,STF305,Population by Sex,,10 to 14: Male
-P013,P014A009,14 years: White males,STF305,Population by Sex,,10 to 14: Male
-P013,P014A010,15 years: White males,STF305,Population by Sex,,15 to 19: Male
-P013,P014A011,16 years: White males,STF305,Population by Sex,,15 to 19: Male
-P013,P014A012,17 years: White males,STF305,Population by Sex,,15 to 19: Male
-P013,P014A013,18 years: White males,STF305,Population by Sex,,15 to 19: Male
-P013,P014A014,19 years: White males,STF305,Population by Sex,,15 to 19: Male
-P013,P014A015,20 years: White males,STF305,Population by Sex,,20 to 24: Male
-P013,P014A016,21 years: White males,STF305,Population by Sex,,20 to 24: Male
-P013,P014A017,22 to 24 years: White males,STF305,Population by Sex,,20 to 24: Male
-P013,P014A018,25 to 29 years: White males,STF305,Population by Sex,,25 to 29: Male
-P013,P014A019,30 to 34 years: White males,STF305,Population by Sex,,30 to 34: Male
-P013,P014A020,35 to 39 years: White males,STF305,Population by Sex,,35 to 39: Male
-P013,P014A021,40 to 44 years: White males,STF305,Population by Sex,,40 to 44: Male
-P013,P014A022,45 to 49 years: White males,STF305,Population by Sex,,45 to 49: Male
-P013,P014A023,50 to 54 years: White males,STF305,Population by Sex,,50 to 54: Male
-P013,P014A024,55 to 59 years: White males,STF305,Population by Sex,,55 to 59: Male
-P013,P014A025,60 and 61 years: White males,STF305,Population by Sex,,60 to 64: Male
-P013,P014A026,62 to 64 years: White males,STF305,Population by Sex,,60 to 64: Male
-P013,P014A027,65 to 69 years: White males,STF305,Population by Sex,,65 to 69: Male
-P013,P014A028,70 to 74 years: White males,STF305,Population by Sex,,70 to 74: Male
-P013,P014A029,75 to 79 years: White males,STF305,Population by Sex,,75 to 79: Male
-P013,P014A030,80 to 84 years: White males,STF305,Population by Sex,,80 to 84: Male
-P013,P014A031,85 years and over: White males,STF305,Population by Sex,,Over 85: Male
-P013,P014B001,Under 1 year: White females,STF305,Population by Sex,,Under 5: Female
-P013,P014B002,1 and 2 years: White females,STF305,Population by Sex,,Under 5: Female
-P013,P014B003,3 and 4 years: White females,STF305,Population by Sex,,Under 5: Female
-P013,P014B004,5 years: White females,STF305,Population by Sex,,5 to 9: Female
-P013,P014B005,6 years: White females,STF305,Population by Sex,,5 to 9: Female
-P013,P014B006,7 to 9 years: White females,STF305,Population by Sex,,5 to 9: Female
-P013,P014B007,10 and 11 years: White females,STF305,Population by Sex,,10 to 14: Female
-P013,P014B008,12 and 13 years: White females,STF305,Population by Sex,,10 to 14: Female
-P050,P014B009,14 years: White females,STF305,Population by Sex,,10 to 14: Female
-P050,P014B010,15 years: White females,STF305,Population by Sex,,15 to 19: Female
-P050,P014B011,16 years: White females,STF305,Population by Sex,,15 to 19: Female
-P050,P014B012,17 years: White females,STF305,Population by Sex,,15 to 19: Female
-P050,P014B013,18 years: White females,STF305,Population by Sex,,15 to 19: Female
-P050,P014B014,19 years: White females,STF305,Population by Sex,,15 to 19: Female
-P050,P014B015,20 years: White females,STF305,Population by Sex,,20 to 24: Female
-P050,P014B016,21 years: White females,STF305,Population by Sex,,20 to 24: Female
-P050,P014B017,22 to 24 years: White females,STF305,Population by Sex,,20 to 24: Female
-P050,P014B018,25 to 29 years: White females,STF305,Population by Sex,,25 to 29: Female
-P050,P014B019,30 to 34 years: White females,STF305,Population by Sex,,30 to 34: Female
-P050,P014B020,35 to 39 years: White females,STF305,Population by Sex,,35 to 39: Female
-P050,P014B021,40 to 44 years: White females,STF305,Population by Sex,,40 to 44: Female
-P080,P014B022,45 to 49 years: White females,STF305,Population by Sex,,45 to 49: Female
-P080,P014B023,50 to 54 years: White females,STF305,Population by Sex,,50 to 54: Female
-P080,P014B024,55 to 59 years: White females,STF305,Population by Sex,,55 to 59: Female
-P080,P014B025,60 and 61 years: White females,STF305,Population by Sex,,60 to 64: Female
-P080,P014B026,62 to 64 years: White females,STF305,Population by Sex,,60 to 64: Female
-P080,P014B027,65 to 69 years: White females,STF305,Population by Sex,,65 to 69: Female
-P080,P014B028,70 to 74 years: White females,STF305,Population by Sex,,70 to 74: Female
-P080,P014B029,75 to 79 years: White females,STF305,Population by Sex,,75 to 79: Female
-P080,P014B030,80 to 84 years: White females,STF305,Population by Sex,,80 to 84: Female
-P080,P014B031,85 years and over: White females,STF305,Population by Sex,,Over 85: Female
-P080,P014C001,Under 1 year: Black males,STF305,Population by Sex,,Under 5: Male
-P080,P014C002,1 and 2 years: Black males,STF305,Population by Sex,,Under 5: Male
-P080,P014C003,3 and 4 years: Black males,STF305,Population by Sex,,Under 5: Male
-P080,P014C004,5 years: Black males,STF305,Population by Sex,,5 to 9: Male
-P080,P014C005,6 years: Black males,STF305,Population by Sex,,5 to 9: Male
-P080,P014C006,7 to 9 years: Black males,STF305,Population by Sex,,5 to 9: Male
-P080,P014C007,10 and 11 years: Black males,STF305,Population by Sex,,10 to 14: Male
-P080,P014C008,12 and 13 years: Black males,STF305,Population by Sex,,10 to 14: Male
-P080,P014C009,14 years: Black males,STF305,Population by Sex,,10 to 14: Male
-P080,P014C010,15 years: Black males,STF305,Population by Sex,,15 to 19: Male
-P080,P014C011,16 years: Black males,STF305,Population by Sex,,15 to 19: Male
-P080,P014C012,17 years: Black males,STF305,Population by Sex,,15 to 19: Male
-P080,P014C013,18 years: Black males,STF305,Population by Sex,,15 to 19: Male
-P080,P014C014,19 years: Black males,STF305,Population by Sex,,15 to 19: Male
-P080,P014C015,20 years: Black males,STF305,Population by Sex,,20 to 24: Male
-P080A,P014C016,21 years: Black males,STF305,Population by Sex,,20 to 24: Male
-H001,P014C017,22 to 24 years: Black males,STF305,Population by Sex,,20 to 24: Male
-H004,P014C018,25 to 29 years: Black males,STF305,Population by Sex,,25 to 29: Male
-H004,P014C019,30 to 34 years: Black males,STF305,Population by Sex,,30 to 34: Male
-H006,P014C020,35 to 39 years: Black males,STF305,Population by Sex,,35 to 39: Male
-H006,P014C021,40 to 44 years: Black males,STF305,Population by Sex,,40 to 44: Male
-H008,P014C022,45 to 49 years: Black males,STF305,Population by Sex,,45 to 49: Male
-H008,P014C023,50 to 54 years: Black males,STF305,Population by Sex,,50 to 54: Male
-H043,P014C024,55 to 59 years: Black males,STF305,Population by Sex,,55 to 59: Male
-H043,P014C025,60 and 61 years: Black males,STF305,Population by Sex,,60 to 64: Male
-H043,P014C026,62 to 64 years: Black males,STF305,Population by Sex,,60 to 64: Male
-H043,P014C027,65 to 69 years: Black males,STF305,Population by Sex,,65 to 69: Male
-H043,P014C028,70 to 74 years: Black males,STF305,Population by Sex,,70 to 74: Male
-H043,P014C029,75 to 79 years: Black males,STF305,Population by Sex,,75 to 79: Male
-H043,P014C030,80 to 84 years: Black males,STF305,Population by Sex,,80 to 84: Male
-H043,P014C031,85 years and over: Black males,STF305,Population by Sex,,Over 85: Male
-H043,P014D001,Under 1 year: Black females,STF305,Population by Sex,,Under 5: Female
-H043,P014D002,1 and 2 years: Black females,STF305,Population by Sex,,Under 5: Female
-H043,P014D003,3 and 4 years: Black females,STF305,Population by Sex,,Under 5: Female
-H043,P014D004,5 years: Black females,STF305,Population by Sex,,5 to 9: Female
-H043,P014D005,6 years: Black females,STF305,Population by Sex,,5 to 9: Female
-H043,P014D006,7 to 9 years: Black females,STF305,Population by Sex,,5 to 9: Female
-H043,P014D007,10 and 11 years: Black females,STF305,Population by Sex,,10 to 14: Female
-H043,P014D008,12 and 13 years: Black females,STF305,Population by Sex,,10 to 14: Female
-H043A,P014D009,14 years: Black females,STF305,Population by Sex,,10 to 14: Female
-H061,P014D010,15 years: Black females,STF305,Population by Sex,,15 to 19: Female
-H061,P014D011,16 years: Black females,STF305,Population by Sex,,15 to 19: Female
-H061,P014D012,17 years: Black females,STF305,Population by Sex,,15 to 19: Female
-H061,P014D013,18 years: Black females,STF305,Population by Sex,,15 to 19: Female
-H061,P014D014,19 years: Black females,STF305,Population by Sex,,15 to 19: Female
-H061,P014D015,20 years: Black females,STF305,Population by Sex,,20 to 24: Female
-H061,P014D016,21 years: Black females,STF305,Population by Sex,,20 to 24: Female
-H061,P014D017,22 to 24 years: Black females,STF305,Population by Sex,,20 to 24: Female
-H061,P014D018,25 to 29 years: Black females,STF305,Population by Sex,,25 to 29: Female
-H061,P014D019,30 to 34 years: Black females,STF305,Population by Sex,,30 to 34: Female
-H061,P014D020,35 to 39 years: Black females,STF305,Population by Sex,,35 to 39: Female
-H061,P014D021,40 to 44 years: Black females,STF305,Population by Sex,,40 to 44: Female
-H061,P014D022,45 to 49 years: Black females,STF305,Population by Sex,,45 to 49: Female
-H061,P014D023,50 to 54 years: Black females,STF305,Population by Sex,,50 to 54: Female
-H061,P014D024,55 to 59 years: Black females,STF305,Population by Sex,,55 to 59: Female
-H061,P014D025,60 and 61 years: Black females,STF305,Population by Sex,,60 to 64: Female
-H061,P014D026,62 to 64 years: Black females,STF305,Population by Sex,,60 to 64: Female
-H061,P014D027,65 to 69 years: Black females,STF305,Population by Sex,,65 to 69: Female
-H061,P014D028,70 to 74 years: Black females,STF305,Population by Sex,,70 to 74: Female
-H061,P014D029,75 to 79 years: Black females,STF305,Population by Sex,,75 to 79: Female
-H061,P014D030,80 to 84 years: Black females,STF305,Population by Sex,,80 to 84: Female
-H061,P014D031,85 years and over: Black females,STF305,Population by Sex,,Over 85: Female
-H061,P014E001,Under 1 year: American Indian males,STF305,Population by Sex,,Under 5: Male
-H061,P014E002,1 and 2 years: American Indian males,STF305,Population by Sex,,Under 5: Male
-H061,P014E003,3 and 4 years: American Indian males,STF305,Population by Sex,,Under 5: Male
-H061,P014E004,5 years: American Indian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014E005,6 years: American Indian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014E006,7 to 9 years: American Indian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014E007,10 and 11 years: American Indian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014E008,12 and 13 years: American Indian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014E009,14 years: American Indian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014E010,15 years: American Indian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014E011,16 years: American Indian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014E012,17 years: American Indian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014E013,18 years: American Indian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014E014,19 years: American Indian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014E015,20 years: American Indian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014E016,21 years: American Indian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014E017,22 to 24 years: American Indian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014E018,25 to 29 years: American Indian males,STF305,Population by Sex,,25 to 29: Male
-H061,P014E019,30 to 34 years: American Indian males,STF305,Population by Sex,,30 to 34: Male
-H061,P014E020,35 to 39 years: American Indian males,STF305,Population by Sex,,35 to 39: Male
-H061,P014E021,40 to 44 years: American Indian males,STF305,Population by Sex,,40 to 44: Male
-H061,P014E022,45 to 49 years: American Indian males,STF305,Population by Sex,,45 to 49: Male
-H061,P014E023,50 to 54 years: American Indian males,STF305,Population by Sex,,50 to 54: Male
-H061,P014E024,55 to 59 years: American Indian males,STF305,Population by Sex,,55 to 59: Male
-H061,P014E025,60 and 61 years: American Indian males,STF305,Population by Sex,,60 to 64: Male
-H061,P014E026,62 to 64 years: American Indian males,STF305,Population by Sex,,60 to 64: Male
-H061,P014E027,65 to 69 years: American Indian males,STF305,Population by Sex,,65 to 69: Male
-H061,P014E028,70 to 74 years: American Indian males,STF305,Population by Sex,,70 to 74: Male
-H061,P014E029,75 to 79 years: American Indian males,STF305,Population by Sex,,75 to 79: Male
-H061,P014E030,80 to 84 years: American Indian males,STF305,Population by Sex,,80 to 84: Male
-H061,P014E031,85 years and over: American Indian males,STF305,Population by Sex,,Over 85: Male
-H061,P014F001,Under 1 year: American Indian females,STF305,Population by Sex,,Under 5: Female
-H061,P014F002,1 and 2 years: American Indian females,STF305,Population by Sex,,Under 5: Female
-H061,P014F003,3 and 4 years: American Indian females,STF305,Population by Sex,,Under 5: Female
-H061,P014F004,5 years: American Indian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014F005,6 years: American Indian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014F006,7 to 9 years: American Indian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014F007,10 and 11 years: American Indian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014F008,12 and 13 years: American Indian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014F009,14 years: American Indian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014F010,15 years: American Indian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014F011,16 years: American Indian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014F012,17 years: American Indian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014F013,18 years: American Indian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014F014,19 years: American Indian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014F015,20 years: American Indian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014F016,21 years: American Indian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014F017,22 to 24 years: American Indian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014F018,25 to 29 years: American Indian females,STF305,Population by Sex,,25 to 29: Female
-H061,P014F019,30 to 34 years: American Indian females,STF305,Population by Sex,,30 to 34: Female
-H061,P014F020,35 to 39 years: American Indian females,STF305,Population by Sex,,35 to 39: Female
-H061,P014F021,40 to 44 years: American Indian females,STF305,Population by Sex,,40 to 44: Female
-H061,P014F022,45 to 49 years: American Indian females,STF305,Population by Sex,,45 to 49: Female
-H061,P014F023,50 to 54 years: American Indian females,STF305,Population by Sex,,50 to 54: Female
-H061,P014F024,55 to 59 years: American Indian females,STF305,Population by Sex,,55 to 59: Female
-H061,P014F025,60 and 61 years: American Indian females,STF305,Population by Sex,,60 to 64: Female
-H061,P014F026,62 to 64 years: American Indian females,STF305,Population by Sex,,60 to 64: Female
-H061,P014F027,65 to 69 years: American Indian females,STF305,Population by Sex,,65 to 69: Female
-H061,P014F028,70 to 74 years: American Indian females,STF305,Population by Sex,,70 to 74: Female
-H061,P014F029,75 to 79 years: American Indian females,STF305,Population by Sex,,75 to 79: Female
-H061,P014F030,80 to 84 years: American Indian females,STF305,Population by Sex,,80 to 84: Female
-H061,P014F031,85 years and over: American Indian females,STF305,Population by Sex,,Over 85: Female
-H061,P014G001,Under 1 year: Asian males,STF305,Population by Sex,,Under 5: Male
-H061,P014G002,1 and 2 years: Asian males,STF305,Population by Sex,,Under 5: Male
-H061,P014G003,3 and 4 years: Asian males,STF305,Population by Sex,,Under 5: Male
-H061,P014G004,5 years: Asian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014G005,6 years: Asian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014G006,7 to 9 years: Asian males,STF305,Population by Sex,,5 to 9: Male
-H061,P014G007,10 and 11 years: Asian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014G008,12 and 13 years: Asian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014G009,14 years: Asian males,STF305,Population by Sex,,10 to 14: Male
-H061,P014G010,15 years: Asian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014G011,16 years: Asian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014G012,17 years: Asian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014G013,18 years: Asian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014G014,19 years: Asian males,STF305,Population by Sex,,15 to 19: Male
-H061,P014G015,20 years: Asian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014G016,21 years: Asian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014G017,22 to 24 years: Asian males,STF305,Population by Sex,,20 to 24: Male
-H061,P014G018,25 to 29 years: Asian males,STF305,Population by Sex,,25 to 29: Male
-H061,P014G019,30 to 34 years: Asian males,STF305,Population by Sex,,30 to 34: Male
-H061,P014G020,35 to 39 years: Asian males,STF305,Population by Sex,,35 to 39: Male
-H061,P014G021,40 to 44 years: Asian males,STF305,Population by Sex,,40 to 44: Male
-H061,P014G022,45 to 49 years: Asian males,STF305,Population by Sex,,45 to 49: Male
-H061,P014G023,50 to 54 years: Asian males,STF305,Population by Sex,,50 to 54: Male
-H061,P014G024,55 to 59 years: Asian males,STF305,Population by Sex,,55 to 59: Male
-H061,P014G025,60 and 61 years: Asian males,STF305,Population by Sex,,60 to 64: Male
-H061,P014G026,62 to 64 years: Asian males,STF305,Population by Sex,,60 to 64: Male
-H061,P014G027,65 to 69 years: Asian males,STF305,Population by Sex,,65 to 69: Male
-H061,P014G028,70 to 74 years: Asian males,STF305,Population by Sex,,70 to 74: Male
-H061,P014G029,75 to 79 years: Asian males,STF305,Population by Sex,,75 to 79: Male
-H061,P014G030,80 to 84 years: Asian males,STF305,Population by Sex,,80 to 84: Male
-H061,P014G031,85 years and over: Asian males,STF305,Population by Sex,,Over 85: Male
-H061,P014H001,Under 1 year: Asian females,STF305,Population by Sex,,Under 5: Female
-H061,P014H002,1 and 2 years: Asian females,STF305,Population by Sex,,Under 5: Female
-H061,P014H003,3 and 4 years: Asian females,STF305,Population by Sex,,Under 5: Female
-H061,P014H004,5 years: Asian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014H005,6 years: Asian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014H006,7 to 9 years: Asian females,STF305,Population by Sex,,5 to 9: Female
-H061,P014H007,10 and 11 years: Asian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014H008,12 and 13 years: Asian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014H009,14 years: Asian females,STF305,Population by Sex,,10 to 14: Female
-H061,P014H010,15 years: Asian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014H011,16 years: Asian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014H012,17 years: Asian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014H013,18 years: Asian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014H014,19 years: Asian females,STF305,Population by Sex,,15 to 19: Female
-H061,P014H015,20 years: Asian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014H016,21 years: Asian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014H017,22 to 24 years: Asian females,STF305,Population by Sex,,20 to 24: Female
-H061,P014H018,25 to 29 years: Asian females,STF305,Population by Sex,,25 to 29: Female
-H061,P014H019,30 to 34 years: Asian females,STF305,Population by Sex,,30 to 34: Female
-H061,P014H020,35 to 39 years: Asian females,STF305,Population by Sex,,35 to 39: Female
-H061,P014H021,40 to 44 years: Asian females,STF305,Population by Sex,,40 to 44: Female
-H061,P014H022,45 to 49 years: Asian females,STF305,Population by Sex,,45 to 49: Female
-H061,P014H023,50 to 54 years: Asian females,STF305,Population by Sex,,50 to 54: Female
-H061,P014H024,55 to 59 years: Asian females,STF305,Population by Sex,,55 to 59: Female
-H061,P014H025,60 and 61 years: Asian females,STF305,Population by Sex,,60 to 64: Female
-H061,P014H026,62 to 64 years: Asian females,STF305,Population by Sex,,60 to 64: Female
-H061,P014H027,65 to 69 years: Asian females,STF305,Population by Sex,,65 to 69: Female
-H061,P014H028,70 to 74 years: Asian females,STF305,Population by Sex,,70 to 74: Female
-H061,P014H029,75 to 79 years: Asian females,STF305,Population by Sex,,75 to 79: Female
-H061,P014H030,80 to 84 years: Asian females,STF305,Population by Sex,,80 to 84: Female
-H061,P014H031,85 years and over: Asian females,STF305,Population by Sex,,Over 85: Female
-H061,P014I001,Under 1 year: Other race males,STF305,Population by Sex,,Under 5: Male
-H061,P014I002,1 and 2 years: Other race males,STF305,Population by Sex,,Under 5: Male
-H061,P014I003,3 and 4 years: Other race males,STF305,Population by Sex,,Under 5: Male
-H061,P014I004,5 years: Other race males,STF305,Population by Sex,,5 to 9: Male
-H061,P014I005,6 years: Other race males,STF305,Population by Sex,,5 to 9: Male
-H061,P014I006,7 to 9 years: Other race males,STF305,Population by Sex,,5 to 9: Male
-H061,P014I007,10 and 11 years: Other race males,STF305,Population by Sex,,10 to 14: Male
-H061,P014I008,12 and 13 years: Other race males,STF305,Population by Sex,,10 to 14: Male
-H061,P014I009,14 years: Other race males,STF305,Population by Sex,,10 to 14: Male
-H061,P014I010,15 years: Other race males,STF305,Population by Sex,,15 to 19: Male
-H061,P014I011,16 years: Other race males,STF305,Population by Sex,,15 to 19: Male
-H061,P014I012,17 years: Other race males,STF305,Population by Sex,,15 to 19: Male
-H061,P014I013,18 years: Other race males,STF305,Population by Sex,,15 to 19: Male
-H061,P014I014,19 years: Other race males,STF305,Population by Sex,,15 to 19: Male
-H061,P014I015,20 years: Other race males,STF305,Population by Sex,,20 to 24: Male
-H061,P014I016,21 years: Other race males,STF305,Population by Sex,,20 to 24: Male
-H061,P014I017,22 to 24 years: Other race males,STF305,Population by Sex,,20 to 24: Male
-H061,P014I018,25 to 29 years: Other race males,STF305,Population by Sex,,25 to 29: Male
-H061,P014I019,30 to 34 years: Other race males,STF305,Population by Sex,,30 to 34: Male
-H061,P014I020,35 to 39 years: Other race males,STF305,Population by Sex,,35 to 39: Male
-H061,P014I021,40 to 44 years: Other race males,STF305,Population by Sex,,40 to 44: Male
-H061,P014I022,45 to 49 years: Other race males,STF305,Population by Sex,,45 to 49: Male
-H061,P014I023,50 to 54 years: Other race males,STF305,Population by Sex,,50 to 54: Male
-H061,P014I024,55 to 59 years: Other race males,STF305,Population by Sex,,55 to 59: Male
-H061,P014I025,60 and 61 years: Other race males,STF305,Population by Sex,,60 to 64: Male
-H061,P014I026,62 to 64 years: Other race males,STF305,Population by Sex,,60 to 64: Male
-H061,P014I027,65 to 69 years: Other race males,STF305,Population by Sex,,65 to 69: Male
-H061,P014I028,70 to 74 years: Other race males,STF305,Population by Sex,,70 to 74: Male
-H061,P014I029,75 to 79 years: Other race males,STF305,Population by Sex,,75 to 79: Male
-H061,P014I030,80 to 84 years: Other race males,STF305,Population by Sex,,80 to 84: Male
-H061,P014I031,85 years and over: Other race males,STF305,Population by Sex,,Over 85: Male
-H061,P014J001,Under 1 year: Other race females,STF305,Population by Sex,,Under 5: Female
-H061,P014J002,1 and 2 years: Other race females,STF305,Population by Sex,,Under 5: Female
-H061,P014J003,3 and 4 years: Other race females,STF305,Population by Sex,,Under 5: Female
-H061,P014J004,5 years: Other race females,STF305,Population by Sex,,5 to 9: Female
-H061,P014J005,6 years: Other race females,STF305,Population by Sex,,5 to 9: Female
-H061,P014J006,7 to 9 years: Other race females,STF305,Population by Sex,,5 to 9: Female
-H061,P014J007,10 and 11 years: Other race females,STF305,Population by Sex,,10 to 14: Female
-H061,P014J008,12 and 13 years: Other race females,STF305,Population by Sex,,10 to 14: Female
-H061,P014J009,14 years: Other race females,STF305,Population by Sex,,10 to 14: Female
-H061,P014J010,15 years: Other race females,STF305,Population by Sex,,15 to 19: Female
-H061,P014J011,16 years: Other race females,STF305,Population by Sex,,15 to 19: Female
-H061,P014J012,17 years: Other race females,STF305,Population by Sex,,15 to 19: Female
-H061,P014J013,18 years: Other race females,STF305,Population by Sex,,15 to 19: Female
-H061,P014J014,19 years: Other race females,STF305,Population by Sex,,15 to 19: Female
-H061,P014J015,20 years: Other race females,STF305,Population by Sex,,20 to 24: Female
-H061,P014J016,21 years: Other race females,STF305,Population by Sex,,20 to 24: Female
-H061,P014J017,22 to 24 years: Other race females,STF305,Population by Sex,,20 to 24: Female
-H061,P014J018,25 to 29 years: Other race females,STF305,Population by Sex,,25 to 29: Female
-H061,P014J019,30 to 34 years: Other race females,STF305,Population by Sex,,30 to 34: Female
-H061,P014J020,35 to 39 years: Other race females,STF305,Population by Sex,,35 to 39: Female
-H061,P014J021,40 to 44 years: Other race females,STF305,Population by Sex,,40 to 44: Female
-H061,P014J022,45 to 49 years: Other race females,STF305,Population by Sex,,45 to 49: Female
-H061,P014J023,50 to 54 years: Other race females,STF305,Population by Sex,,50 to 54: Female
-H061,P014J024,55 to 59 years: Other race females,STF305,Population by Sex,,55 to 59: Female
-H061,P014J025,60 and 61 years: Other race females,STF305,Population by Sex,,60 to 64: Female
-H061,P014J026,62 to 64 years: Other race females,STF305,Population by Sex,,60 to 64: Female
-H061,P014J027,65 to 69 years: Other race females,STF305,Population by Sex,,65 to 69: Female
-H061,P014J028,70 to 74 years: Other race females,STF305,Population by Sex,,70 to 74: Female
-H061,P014J029,75 to 79 years: Other race females,STF305,Population by Sex,,75 to 79: Female
-H061,P014J030,80 to 84 years: Other race females,STF305,Population by Sex,,80 to 84: Female
-H061,P014J031,85 years and over: Other race females,STF305,Population by Sex,,Over 85: Female
+Table,variable,variable_name,File,variable_category,,census_category,census_category_nosex
+P001,P014A001,Under 1 year: White males,STF305,Population by Sex,,Under 5: Male,Under 5
+P005,P014A002,1 and 2 years: White males,STF305,Population by Sex,,Under 5: Male,Under 5
+P010,P014A003,3 and 4 years: White males,STF305,Population by Sex,,Under 5: Male,Under 5
+P012,P014A004,5 years: White males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P012,P014A005,6 years: White males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P012,P014A006,7 to 9 years: White males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P012,P014A007,10 and 11 years: White males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P012,P014A008,12 and 13 years: White males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P013,P014A009,14 years: White males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P013,P014A010,15 years: White males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P013,P014A011,16 years: White males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P013,P014A012,17 years: White males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P013,P014A013,18 years: White males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P013,P014A014,19 years: White males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P013,P014A015,20 years: White males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+P013,P014A016,21 years: White males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+P013,P014A017,22 to 24 years: White males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+P013,P014A018,25 to 29 years: White males,STF305,Population by Sex,,25 to 29: Male,25 to 29
+P013,P014A019,30 to 34 years: White males,STF305,Population by Sex,,30 to 34: Male,30 to 34
+P013,P014A020,35 to 39 years: White males,STF305,Population by Sex,,35 to 39: Male,35 to 39
+P013,P014A021,40 to 44 years: White males,STF305,Population by Sex,,40 to 44: Male,40 to 44
+P013,P014A022,45 to 49 years: White males,STF305,Population by Sex,,45 to 49: Male,45 to 49
+P013,P014A023,50 to 54 years: White males,STF305,Population by Sex,,50 to 54: Male,50 to 54
+P013,P014A024,55 to 59 years: White males,STF305,Population by Sex,,55 to 59: Male,55 to 59
+P013,P014A025,60 and 61 years: White males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+P013,P014A026,62 to 64 years: White males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+P013,P014A027,65 to 69 years: White males,STF305,Population by Sex,,65 to 69: Male,65 to 69
+P013,P014A028,70 to 74 years: White males,STF305,Population by Sex,,70 to 74: Male,70 to 74
+P013,P014A029,75 to 79 years: White males,STF305,Population by Sex,,75 to 79: Male,75 to 79
+P013,P014A030,80 to 84 years: White males,STF305,Population by Sex,,80 to 84: Male,80 to 84
+P013,P014A031,85 years and over: White males,STF305,Population by Sex,,Over 85: Male,Over 85
+P013,P014B001,Under 1 year: White females,STF305,Population by Sex,,Under 5: Female,Under 5
+P013,P014B002,1 and 2 years: White females,STF305,Population by Sex,,Under 5: Female,Under 5
+P013,P014B003,3 and 4 years: White females,STF305,Population by Sex,,Under 5: Female,Under 5
+P013,P014B004,5 years: White females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+P013,P014B005,6 years: White females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+P013,P014B006,7 to 9 years: White females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+P013,P014B007,10 and 11 years: White females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+P013,P014B008,12 and 13 years: White females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+P050,P014B009,14 years: White females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+P050,P014B010,15 years: White females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+P050,P014B011,16 years: White females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+P050,P014B012,17 years: White females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+P050,P014B013,18 years: White females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+P050,P014B014,19 years: White females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+P050,P014B015,20 years: White females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+P050,P014B016,21 years: White females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+P050,P014B017,22 to 24 years: White females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+P050,P014B018,25 to 29 years: White females,STF305,Population by Sex,,25 to 29: Female,25 to 29
+P050,P014B019,30 to 34 years: White females,STF305,Population by Sex,,30 to 34: Female,30 to 34
+P050,P014B020,35 to 39 years: White females,STF305,Population by Sex,,35 to 39: Female,35 to 39
+P050,P014B021,40 to 44 years: White females,STF305,Population by Sex,,40 to 44: Female,40 to 44
+P080,P014B022,45 to 49 years: White females,STF305,Population by Sex,,45 to 49: Female,45 to 49
+P080,P014B023,50 to 54 years: White females,STF305,Population by Sex,,50 to 54: Female,50 to 54
+P080,P014B024,55 to 59 years: White females,STF305,Population by Sex,,55 to 59: Female,55 to 59
+P080,P014B025,60 and 61 years: White females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+P080,P014B026,62 to 64 years: White females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+P080,P014B027,65 to 69 years: White females,STF305,Population by Sex,,65 to 69: Female,65 to 69
+P080,P014B028,70 to 74 years: White females,STF305,Population by Sex,,70 to 74: Female,70 to 74
+P080,P014B029,75 to 79 years: White females,STF305,Population by Sex,,75 to 79: Female,75 to 79
+P080,P014B030,80 to 84 years: White females,STF305,Population by Sex,,80 to 84: Female,80 to 84
+P080,P014B031,85 years and over: White females,STF305,Population by Sex,,Over 85: Female,Over 85
+P080,P014C001,Under 1 year: Black males,STF305,Population by Sex,,Under 5: Male,Under 5
+P080,P014C002,1 and 2 years: Black males,STF305,Population by Sex,,Under 5: Male,Under 5
+P080,P014C003,3 and 4 years: Black males,STF305,Population by Sex,,Under 5: Male,Under 5
+P080,P014C004,5 years: Black males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P080,P014C005,6 years: Black males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P080,P014C006,7 to 9 years: Black males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+P080,P014C007,10 and 11 years: Black males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P080,P014C008,12 and 13 years: Black males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P080,P014C009,14 years: Black males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+P080,P014C010,15 years: Black males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P080,P014C011,16 years: Black males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P080,P014C012,17 years: Black males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P080,P014C013,18 years: Black males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P080,P014C014,19 years: Black males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+P080,P014C015,20 years: Black males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+P080A,P014C016,21 years: Black males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H001,P014C017,22 to 24 years: Black males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H004,P014C018,25 to 29 years: Black males,STF305,Population by Sex,,25 to 29: Male,25 to 29
+H004,P014C019,30 to 34 years: Black males,STF305,Population by Sex,,30 to 34: Male,30 to 34
+H006,P014C020,35 to 39 years: Black males,STF305,Population by Sex,,35 to 39: Male,35 to 39
+H006,P014C021,40 to 44 years: Black males,STF305,Population by Sex,,40 to 44: Male,40 to 44
+H008,P014C022,45 to 49 years: Black males,STF305,Population by Sex,,45 to 49: Male,45 to 49
+H008,P014C023,50 to 54 years: Black males,STF305,Population by Sex,,50 to 54: Male,50 to 54
+H043,P014C024,55 to 59 years: Black males,STF305,Population by Sex,,55 to 59: Male,55 to 59
+H043,P014C025,60 and 61 years: Black males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H043,P014C026,62 to 64 years: Black males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H043,P014C027,65 to 69 years: Black males,STF305,Population by Sex,,65 to 69: Male,65 to 69
+H043,P014C028,70 to 74 years: Black males,STF305,Population by Sex,,70 to 74: Male,70 to 74
+H043,P014C029,75 to 79 years: Black males,STF305,Population by Sex,,75 to 79: Male,75 to 79
+H043,P014C030,80 to 84 years: Black males,STF305,Population by Sex,,80 to 84: Male,80 to 84
+H043,P014C031,85 years and over: Black males,STF305,Population by Sex,,Over 85: Male,Over 85
+H043,P014D001,Under 1 year: Black females,STF305,Population by Sex,,Under 5: Female,Under 5
+H043,P014D002,1 and 2 years: Black females,STF305,Population by Sex,,Under 5: Female,Under 5
+H043,P014D003,3 and 4 years: Black females,STF305,Population by Sex,,Under 5: Female,Under 5
+H043,P014D004,5 years: Black females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H043,P014D005,6 years: Black females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H043,P014D006,7 to 9 years: Black females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H043,P014D007,10 and 11 years: Black females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H043,P014D008,12 and 13 years: Black females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H043A,P014D009,14 years: Black females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014D010,15 years: Black females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014D011,16 years: Black females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014D012,17 years: Black females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014D013,18 years: Black females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014D014,19 years: Black females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014D015,20 years: Black females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014D016,21 years: Black females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014D017,22 to 24 years: Black females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014D018,25 to 29 years: Black females,STF305,Population by Sex,,25 to 29: Female,25 to 29
+H061,P014D019,30 to 34 years: Black females,STF305,Population by Sex,,30 to 34: Female,30 to 34
+H061,P014D020,35 to 39 years: Black females,STF305,Population by Sex,,35 to 39: Female,35 to 39
+H061,P014D021,40 to 44 years: Black females,STF305,Population by Sex,,40 to 44: Female,40 to 44
+H061,P014D022,45 to 49 years: Black females,STF305,Population by Sex,,45 to 49: Female,45 to 49
+H061,P014D023,50 to 54 years: Black females,STF305,Population by Sex,,50 to 54: Female,50 to 54
+H061,P014D024,55 to 59 years: Black females,STF305,Population by Sex,,55 to 59: Female,55 to 59
+H061,P014D025,60 and 61 years: Black females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014D026,62 to 64 years: Black females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014D027,65 to 69 years: Black females,STF305,Population by Sex,,65 to 69: Female,65 to 69
+H061,P014D028,70 to 74 years: Black females,STF305,Population by Sex,,70 to 74: Female,70 to 74
+H061,P014D029,75 to 79 years: Black females,STF305,Population by Sex,,75 to 79: Female,75 to 79
+H061,P014D030,80 to 84 years: Black females,STF305,Population by Sex,,80 to 84: Female,80 to 84
+H061,P014D031,85 years and over: Black females,STF305,Population by Sex,,Over 85: Female,Over 85
+H061,P014E001,Under 1 year: American Indian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014E002,1 and 2 years: American Indian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014E003,3 and 4 years: American Indian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014E004,5 years: American Indian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014E005,6 years: American Indian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014E006,7 to 9 years: American Indian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014E007,10 and 11 years: American Indian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014E008,12 and 13 years: American Indian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014E009,14 years: American Indian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014E010,15 years: American Indian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014E011,16 years: American Indian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014E012,17 years: American Indian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014E013,18 years: American Indian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014E014,19 years: American Indian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014E015,20 years: American Indian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014E016,21 years: American Indian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014E017,22 to 24 years: American Indian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014E018,25 to 29 years: American Indian males,STF305,Population by Sex,,25 to 29: Male,25 to 29
+H061,P014E019,30 to 34 years: American Indian males,STF305,Population by Sex,,30 to 34: Male,30 to 34
+H061,P014E020,35 to 39 years: American Indian males,STF305,Population by Sex,,35 to 39: Male,35 to 39
+H061,P014E021,40 to 44 years: American Indian males,STF305,Population by Sex,,40 to 44: Male,40 to 44
+H061,P014E022,45 to 49 years: American Indian males,STF305,Population by Sex,,45 to 49: Male,45 to 49
+H061,P014E023,50 to 54 years: American Indian males,STF305,Population by Sex,,50 to 54: Male,50 to 54
+H061,P014E024,55 to 59 years: American Indian males,STF305,Population by Sex,,55 to 59: Male,55 to 59
+H061,P014E025,60 and 61 years: American Indian males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014E026,62 to 64 years: American Indian males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014E027,65 to 69 years: American Indian males,STF305,Population by Sex,,65 to 69: Male,65 to 69
+H061,P014E028,70 to 74 years: American Indian males,STF305,Population by Sex,,70 to 74: Male,70 to 74
+H061,P014E029,75 to 79 years: American Indian males,STF305,Population by Sex,,75 to 79: Male,75 to 79
+H061,P014E030,80 to 84 years: American Indian males,STF305,Population by Sex,,80 to 84: Male,80 to 84
+H061,P014E031,85 years and over: American Indian males,STF305,Population by Sex,,Over 85: Male,Over 85
+H061,P014F001,Under 1 year: American Indian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014F002,1 and 2 years: American Indian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014F003,3 and 4 years: American Indian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014F004,5 years: American Indian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014F005,6 years: American Indian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014F006,7 to 9 years: American Indian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014F007,10 and 11 years: American Indian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014F008,12 and 13 years: American Indian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014F009,14 years: American Indian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014F010,15 years: American Indian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014F011,16 years: American Indian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014F012,17 years: American Indian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014F013,18 years: American Indian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014F014,19 years: American Indian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014F015,20 years: American Indian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014F016,21 years: American Indian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014F017,22 to 24 years: American Indian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014F018,25 to 29 years: American Indian females,STF305,Population by Sex,,25 to 29: Female,25 to 29
+H061,P014F019,30 to 34 years: American Indian females,STF305,Population by Sex,,30 to 34: Female,30 to 34
+H061,P014F020,35 to 39 years: American Indian females,STF305,Population by Sex,,35 to 39: Female,35 to 39
+H061,P014F021,40 to 44 years: American Indian females,STF305,Population by Sex,,40 to 44: Female,40 to 44
+H061,P014F022,45 to 49 years: American Indian females,STF305,Population by Sex,,45 to 49: Female,45 to 49
+H061,P014F023,50 to 54 years: American Indian females,STF305,Population by Sex,,50 to 54: Female,50 to 54
+H061,P014F024,55 to 59 years: American Indian females,STF305,Population by Sex,,55 to 59: Female,55 to 59
+H061,P014F025,60 and 61 years: American Indian females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014F026,62 to 64 years: American Indian females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014F027,65 to 69 years: American Indian females,STF305,Population by Sex,,65 to 69: Female,65 to 69
+H061,P014F028,70 to 74 years: American Indian females,STF305,Population by Sex,,70 to 74: Female,70 to 74
+H061,P014F029,75 to 79 years: American Indian females,STF305,Population by Sex,,75 to 79: Female,75 to 79
+H061,P014F030,80 to 84 years: American Indian females,STF305,Population by Sex,,80 to 84: Female,80 to 84
+H061,P014F031,85 years and over: American Indian females,STF305,Population by Sex,,Over 85: Female,Over 85
+H061,P014G001,Under 1 year: Asian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014G002,1 and 2 years: Asian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014G003,3 and 4 years: Asian males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014G004,5 years: Asian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014G005,6 years: Asian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014G006,7 to 9 years: Asian males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014G007,10 and 11 years: Asian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014G008,12 and 13 years: Asian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014G009,14 years: Asian males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014G010,15 years: Asian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014G011,16 years: Asian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014G012,17 years: Asian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014G013,18 years: Asian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014G014,19 years: Asian males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014G015,20 years: Asian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014G016,21 years: Asian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014G017,22 to 24 years: Asian males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014G018,25 to 29 years: Asian males,STF305,Population by Sex,,25 to 29: Male,25 to 29
+H061,P014G019,30 to 34 years: Asian males,STF305,Population by Sex,,30 to 34: Male,30 to 34
+H061,P014G020,35 to 39 years: Asian males,STF305,Population by Sex,,35 to 39: Male,35 to 39
+H061,P014G021,40 to 44 years: Asian males,STF305,Population by Sex,,40 to 44: Male,40 to 44
+H061,P014G022,45 to 49 years: Asian males,STF305,Population by Sex,,45 to 49: Male,45 to 49
+H061,P014G023,50 to 54 years: Asian males,STF305,Population by Sex,,50 to 54: Male,50 to 54
+H061,P014G024,55 to 59 years: Asian males,STF305,Population by Sex,,55 to 59: Male,55 to 59
+H061,P014G025,60 and 61 years: Asian males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014G026,62 to 64 years: Asian males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014G027,65 to 69 years: Asian males,STF305,Population by Sex,,65 to 69: Male,65 to 69
+H061,P014G028,70 to 74 years: Asian males,STF305,Population by Sex,,70 to 74: Male,70 to 74
+H061,P014G029,75 to 79 years: Asian males,STF305,Population by Sex,,75 to 79: Male,75 to 79
+H061,P014G030,80 to 84 years: Asian males,STF305,Population by Sex,,80 to 84: Male,80 to 84
+H061,P014G031,85 years and over: Asian males,STF305,Population by Sex,,Over 85: Male,Over 85
+H061,P014H001,Under 1 year: Asian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014H002,1 and 2 years: Asian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014H003,3 and 4 years: Asian females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014H004,5 years: Asian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014H005,6 years: Asian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014H006,7 to 9 years: Asian females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014H007,10 and 11 years: Asian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014H008,12 and 13 years: Asian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014H009,14 years: Asian females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014H010,15 years: Asian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014H011,16 years: Asian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014H012,17 years: Asian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014H013,18 years: Asian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014H014,19 years: Asian females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014H015,20 years: Asian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014H016,21 years: Asian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014H017,22 to 24 years: Asian females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014H018,25 to 29 years: Asian females,STF305,Population by Sex,,25 to 29: Female,25 to 29
+H061,P014H019,30 to 34 years: Asian females,STF305,Population by Sex,,30 to 34: Female,30 to 34
+H061,P014H020,35 to 39 years: Asian females,STF305,Population by Sex,,35 to 39: Female,35 to 39
+H061,P014H021,40 to 44 years: Asian females,STF305,Population by Sex,,40 to 44: Female,40 to 44
+H061,P014H022,45 to 49 years: Asian females,STF305,Population by Sex,,45 to 49: Female,45 to 49
+H061,P014H023,50 to 54 years: Asian females,STF305,Population by Sex,,50 to 54: Female,50 to 54
+H061,P014H024,55 to 59 years: Asian females,STF305,Population by Sex,,55 to 59: Female,55 to 59
+H061,P014H025,60 and 61 years: Asian females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014H026,62 to 64 years: Asian females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014H027,65 to 69 years: Asian females,STF305,Population by Sex,,65 to 69: Female,65 to 69
+H061,P014H028,70 to 74 years: Asian females,STF305,Population by Sex,,70 to 74: Female,70 to 74
+H061,P014H029,75 to 79 years: Asian females,STF305,Population by Sex,,75 to 79: Female,75 to 79
+H061,P014H030,80 to 84 years: Asian females,STF305,Population by Sex,,80 to 84: Female,80 to 84
+H061,P014H031,85 years and over: Asian females,STF305,Population by Sex,,Over 85: Female,Over 85
+H061,P014I001,Under 1 year: Other race males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014I002,1 and 2 years: Other race males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014I003,3 and 4 years: Other race males,STF305,Population by Sex,,Under 5: Male,Under 5
+H061,P014I004,5 years: Other race males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014I005,6 years: Other race males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014I006,7 to 9 years: Other race males,STF305,Population by Sex,,5 to 9: Male,5 to 9
+H061,P014I007,10 and 11 years: Other race males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014I008,12 and 13 years: Other race males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014I009,14 years: Other race males,STF305,Population by Sex,,10 to 14: Male,10 to 14
+H061,P014I010,15 years: Other race males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014I011,16 years: Other race males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014I012,17 years: Other race males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014I013,18 years: Other race males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014I014,19 years: Other race males,STF305,Population by Sex,,15 to 19: Male,15 to 19
+H061,P014I015,20 years: Other race males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014I016,21 years: Other race males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014I017,22 to 24 years: Other race males,STF305,Population by Sex,,20 to 24: Male,20 to 24
+H061,P014I018,25 to 29 years: Other race males,STF305,Population by Sex,,25 to 29: Male,25 to 29
+H061,P014I019,30 to 34 years: Other race males,STF305,Population by Sex,,30 to 34: Male,30 to 34
+H061,P014I020,35 to 39 years: Other race males,STF305,Population by Sex,,35 to 39: Male,35 to 39
+H061,P014I021,40 to 44 years: Other race males,STF305,Population by Sex,,40 to 44: Male,40 to 44
+H061,P014I022,45 to 49 years: Other race males,STF305,Population by Sex,,45 to 49: Male,45 to 49
+H061,P014I023,50 to 54 years: Other race males,STF305,Population by Sex,,50 to 54: Male,50 to 54
+H061,P014I024,55 to 59 years: Other race males,STF305,Population by Sex,,55 to 59: Male,55 to 59
+H061,P014I025,60 and 61 years: Other race males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014I026,62 to 64 years: Other race males,STF305,Population by Sex,,60 to 64: Male,60 to 64
+H061,P014I027,65 to 69 years: Other race males,STF305,Population by Sex,,65 to 69: Male,65 to 69
+H061,P014I028,70 to 74 years: Other race males,STF305,Population by Sex,,70 to 74: Male,70 to 74
+H061,P014I029,75 to 79 years: Other race males,STF305,Population by Sex,,75 to 79: Male,75 to 79
+H061,P014I030,80 to 84 years: Other race males,STF305,Population by Sex,,80 to 84: Male,80 to 84
+H061,P014I031,85 years and over: Other race males,STF305,Population by Sex,,Over 85: Male,Over 85
+H061,P014J001,Under 1 year: Other race females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014J002,1 and 2 years: Other race females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014J003,3 and 4 years: Other race females,STF305,Population by Sex,,Under 5: Female,Under 5
+H061,P014J004,5 years: Other race females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014J005,6 years: Other race females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014J006,7 to 9 years: Other race females,STF305,Population by Sex,,5 to 9: Female,5 to 9
+H061,P014J007,10 and 11 years: Other race females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014J008,12 and 13 years: Other race females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014J009,14 years: Other race females,STF305,Population by Sex,,10 to 14: Female,10 to 14
+H061,P014J010,15 years: Other race females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014J011,16 years: Other race females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014J012,17 years: Other race females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014J013,18 years: Other race females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014J014,19 years: Other race females,STF305,Population by Sex,,15 to 19: Female,15 to 19
+H061,P014J015,20 years: Other race females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014J016,21 years: Other race females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014J017,22 to 24 years: Other race females,STF305,Population by Sex,,20 to 24: Female,20 to 24
+H061,P014J018,25 to 29 years: Other race females,STF305,Population by Sex,,25 to 29: Female,25 to 29
+H061,P014J019,30 to 34 years: Other race females,STF305,Population by Sex,,30 to 34: Female,30 to 34
+H061,P014J020,35 to 39 years: Other race females,STF305,Population by Sex,,35 to 39: Female,35 to 39
+H061,P014J021,40 to 44 years: Other race females,STF305,Population by Sex,,40 to 44: Female,40 to 44
+H061,P014J022,45 to 49 years: Other race females,STF305,Population by Sex,,45 to 49: Female,45 to 49
+H061,P014J023,50 to 54 years: Other race females,STF305,Population by Sex,,50 to 54: Female,50 to 54
+H061,P014J024,55 to 59 years: Other race females,STF305,Population by Sex,,55 to 59: Female,55 to 59
+H061,P014J025,60 and 61 years: Other race females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014J026,62 to 64 years: Other race females,STF305,Population by Sex,,60 to 64: Female,60 to 64
+H061,P014J027,65 to 69 years: Other race females,STF305,Population by Sex,,65 to 69: Female,65 to 69
+H061,P014J028,70 to 74 years: Other race females,STF305,Population by Sex,,70 to 74: Female,70 to 74
+H061,P014J029,75 to 79 years: Other race females,STF305,Population by Sex,,75 to 79: Female,75 to 79
+H061,P014J030,80 to 84 years: Other race females,STF305,Population by Sex,,80 to 84: Female,80 to 84
+H061,P014J031,85 years and over: Other race females,STF305,Population by Sex,,Over 85: Female,Over 85
