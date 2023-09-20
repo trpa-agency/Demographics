@@ -53,7 +53,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/FeatureLayer", "esri/renderers/DotDensityRenderer", "esri/widgets/Legend", "esri/widgets/Bookmarks", "esri/widgets/Search", "esri/widgets/Expand"], function (require, exports, WebMap, MapView, FeatureLayer, DotDensityRenderer, Legend, Bookmarks, Search, Expand) {
+define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/FeatureLayer", "esri/renderers/DotDensityRenderer", "esri/widgets/Legend", "esri/widgets/Bookmarks", "esri/widgets/Expand"], function (require, exports, WebMap, MapView, FeatureLayer, DotDensityRenderer, Legend, Bookmarks, Expand) {
     "use strict";
     var _this = this;
     Object.defineProperty(exports, "__esModule", { value: true });
@@ -170,7 +170,7 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                         maxScale: 35000,
                         title: "Current Population Estimates (ACS)",
                         popupTemplate: {
-                            title: "{County}, {State}",
+                            title: "{County}, {NAME}",
                             content: [
                                 {
                                     type: "fields",
@@ -264,18 +264,13 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                             expandIconClass: "esri-icon-filter",
                             content: document.getElementById("sliderDiv"),
                             group: "top-left"
-                        }),
-                        new Expand({
-                            view: view,
-                            content: new Search({ view: view }),
-                            group: "top-left"
                         })
                     ], "top-left");
                     view.ui.add(new Expand({
                         view: view,
                         content: new Bookmarks({ view: view }),
                         group: "bottom-right",
-                        expanded: true
+                        expanded: false
                     }), "bottom-right");
                     legendContainer.addEventListener("mousemove", legendEventListener);
                     legendContainer.addEventListener("click", legendEventListener);

@@ -24,7 +24,6 @@ import FeatureLayer = require("esri/layers/FeatureLayer");
 import DotDensityRenderer = require("esri/renderers/DotDensityRenderer");
 import Legend = require("esri/widgets/Legend");
 import Bookmarks = require("esri/widgets/Bookmarks");
-import Search = require("esri/widgets/Search")
 import Expand = require("esri/widgets/Expand");
 
 ( async () => {
@@ -56,7 +55,7 @@ import Expand = require("esri/widgets/Expand");
 
   await view.when();
   const dotDensityRenderer = new DotDensityRenderer({
-    referenceDotValue: 100,
+    referenceDotValue: 1,
     outline: null,
     referenceScale: 577790,
     legendOptions: {
@@ -114,7 +113,7 @@ import Expand = require("esri/widgets/Expand");
     maxScale: 35000,
     title: "Current Population Estimates (ACS)",
     popupTemplate: {
-      title: "{County}, {State}",
+      title: "{County}, {NAME}",
       content: [
         {
           type: "fields",
@@ -211,11 +210,6 @@ import Expand = require("esri/widgets/Expand");
       expandIconClass: "esri-icon-filter",
       content: document.getElementById("sliderDiv"),
       group: "top-left"
-    }),
-    new Expand({
-      view,
-      content: new Search({ view }),
-      group: "top-left"
     })
   ], "top-left" );
 
@@ -224,7 +218,7 @@ import Expand = require("esri/widgets/Expand");
       view,
       content: new Bookmarks({ view }),
       group: "bottom-right",
-      expanded: true
+      expanded: false
     }), "bottom-right");
 
   legendContainer.addEventListener("mousemove", legendEventListener);
