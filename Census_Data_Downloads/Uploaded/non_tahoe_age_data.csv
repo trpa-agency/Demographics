@@ -1,0 +1,1297 @@
+GEO_ID,value,state,MarginOfError,county,sample_level,Geo_Name,variable_code,variable_name,variable_category,year_sample,dataset,census_geom_year,TRPAID
+06017,77963,06,,017,County,El Dorado County,P012002,Male: Total,Age,2000,dec/sf1,2000,060172000
+06061,121892,06,,061,County,Placer County,P012002,Male: Total,Age,2000,dec/sf1,2000,060612000
+32005,20840,32,,005,County,Douglas County,P012002,Male: Total,Age,2000,dec/sf1,2000,320052000
+32031,172080,32,,031,County,Washoe County,P012002,Male: Total,Age,2000,dec/sf1,2000,320312000
+32510,27102,32,,510,County,Carson City County,P012002,Male: Total,Age,2000,dec/sf1,2000,325102000
+06000,16874892,06,,000,State,CA,P012002,Male: Total,Age,2000,dec/sf1,2000,060002000
+32000,1018051,32,,000,State,NV,P012002,Male: Total,Age,2000,dec/sf1,2000,320002000
+06017,4688,06,,017,County,El Dorado County,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,060172000
+06061,8027,06,,061,County,Placer County,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,060612000
+32005,1085,32,,005,County,Douglas County,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,320052000
+32031,12073,32,,031,County,Washoe County,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,320312000
+32510,1681,32,,510,County,Carson City County,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,325102000
+06000,1272884,06,,000,State,CA,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,060002000
+32000,74800,32,,000,State,NV,P012003,Male: Under 5 years,Age,2000,dec/sf1,2000,320002000
+06017,5911,06,,017,County,El Dorado County,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,060172000
+06061,9599,06,,061,County,Placer County,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,060612000
+32005,1355,32,,005,County,Douglas County,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,320052000
+32031,12296,32,,031,County,Washoe County,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,320312000
+32510,1744,32,,510,County,Carson City County,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,325102000
+06000,1396480,06,,000,State,CA,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,060002000
+32000,76547,32,,000,State,NV,P012004,Male: 5 to 9 years,Age,2000,dec/sf1,2000,320002000
+06017,6586,06,,017,County,El Dorado County,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,060172000
+06061,10018,06,,061,County,Placer County,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,060612000
+32005,1702,32,,005,County,Douglas County,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,320052000
+32031,12242,32,,031,County,Washoe County,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,320312000
+32510,1777,32,,510,County,Carson City County,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,325102000
+06000,1317135,06,,000,State,CA,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,060002000
+32000,71623,32,,000,State,NV,P012005,Male: 10 to 14 years,Age,2000,dec/sf1,2000,320002000
+06017,3826,06,,017,County,El Dorado County,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,060172000
+06061,5813,06,,061,County,Placer County,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,060612000
+32005,967,32,,005,County,Douglas County,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,320052000
+32031,6855,32,,031,County,Washoe County,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,320312000
+32510,1012,32,,510,County,Carson City County,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,325102000
+06000,758039,06,,000,State,CA,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,060002000
+32000,40224,32,,000,State,NV,P012006,Male: 15 to 17 years,Age,2000,dec/sf1,2000,320002000
+06017,2039,06,,017,County,El Dorado County,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,060172000
+06061,3233,06,,061,County,Placer County,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,060612000
+32005,470,32,,005,County,Douglas County,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,320052000
+32031,4815,32,,031,County,Washoe County,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,320312000
+32510,649,32,,510,County,Carson City County,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,325102000
+06000,513587,06,,000,State,CA,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,060002000
+32000,25644,32,,000,State,NV,P012007,Male: 18 and 19 years,Age,2000,dec/sf1,2000,320002000
+06017,808,06,,017,County,El Dorado County,P012008,Male: 20 years,Age,2000,dec/sf1,2000,060172000
+06061,1317,06,,061,County,Placer County,P012008,Male: 20 years,Age,2000,dec/sf1,2000,060612000
+32005,167,32,,005,County,Douglas County,P012008,Male: 20 years,Age,2000,dec/sf1,2000,320052000
+32031,2566,32,,031,County,Washoe County,P012008,Male: 20 years,Age,2000,dec/sf1,2000,320312000
+32510,315,32,,510,County,Carson City County,P012008,Male: 20 years,Age,2000,dec/sf1,2000,325102000
+06000,258628,06,,000,State,CA,P012008,Male: 20 years,Age,2000,dec/sf1,2000,060002000
+32000,13297,32,,000,State,NV,P012008,Male: 20 years,Age,2000,dec/sf1,2000,320002000
+06017,789,06,,017,County,El Dorado County,P012009,Male: 21 years,Age,2000,dec/sf1,2000,060172000
+06061,1192,06,,061,County,Placer County,P012009,Male: 21 years,Age,2000,dec/sf1,2000,060612000
+32005,146,32,,005,County,Douglas County,P012009,Male: 21 years,Age,2000,dec/sf1,2000,320052000
+32031,2511,32,,031,County,Washoe County,P012009,Male: 21 years,Age,2000,dec/sf1,2000,320312000
+32510,338,32,,510,County,Carson City County,P012009,Male: 21 years,Age,2000,dec/sf1,2000,325102000
+06000,247456,06,,000,State,CA,P012009,Male: 21 years,Age,2000,dec/sf1,2000,060002000
+32000,13091,32,,000,State,NV,P012009,Male: 21 years,Age,2000,dec/sf1,2000,320002000
+06017,2031,06,,017,County,El Dorado County,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,060172000
+06061,3433,06,,061,County,Placer County,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,060612000
+32005,471,32,,005,County,Douglas County,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,320052000
+32031,7180,32,,031,County,Washoe County,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,320312000
+32510,997,32,,510,County,Carson City County,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,325102000
+06000,739446,06,,000,State,CA,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,060002000
+32000,41625,32,,000,State,NV,P012010,Male: 22 to 24 years,Age,2000,dec/sf1,2000,320002000
+06017,3569,06,,017,County,El Dorado County,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,060172000
+06061,6264,06,,061,County,Placer County,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,060612000
+32005,876,32,,005,County,Douglas County,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,320052000
+32031,12388,32,,031,County,Washoe County,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,320312000
+32510,1817,32,,510,County,Carson City County,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,325102000
+06000,1311445,06,,000,State,CA,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,060002000
+32000,77234,32,,000,State,NV,P012011,Male: 25 to 29 years,Age,2000,dec/sf1,2000,320002000
+06017,4285,06,,017,County,El Dorado County,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,060172000
+06061,8071,06,,061,County,Placer County,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,060612000
+32005,1075,32,,005,County,Douglas County,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,320052000
+32031,13208,32,,031,County,Washoe County,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,320312000
+32510,2028,32,,510,County,Carson City County,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,325102000
+06000,1382355,06,,000,State,CA,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,060002000
+32000,83053,32,,000,State,NV,P012012,Male: 30 to 34 years,Age,2000,dec/sf1,2000,320002000
+06017,6082,06,,017,County,El Dorado County,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,060172000
+06061,10215,06,,061,County,Placer County,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,060612000
+32005,1567,32,,005,County,Douglas County,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,320052000
+32031,14328,32,,031,County,Washoe County,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,320312000
+32510,2340,32,,510,County,Carson City County,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,325102000
+06000,1430293,06,,000,State,CA,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,060002000
+32000,87034,32,,000,State,NV,P012013,Male: 35 to 39 years,Age,2000,dec/sf1,2000,320002000
+06017,7260,06,,017,County,El Dorado County,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,060172000
+06061,10566,06,,061,County,Placer County,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,060612000
+32005,1810,32,,005,County,Douglas County,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,320052000
+32031,14296,32,,031,County,Washoe County,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,320312000
+32510,2308,32,,510,County,Carson City County,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,325102000
+06000,1342201,06,,000,State,CA,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,060002000
+32000,80672,32,,000,State,NV,P012014,Male: 40 to 44 years,Age,2000,dec/sf1,2000,320002000
+06017,7237,06,,017,County,El Dorado County,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,060172000
+06061,9911,06,,061,County,Placer County,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,060612000
+32005,1817,32,,005,County,Douglas County,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,320052000
+32031,13233,32,,031,County,Washoe County,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,320312000
+32510,2096,32,,510,County,Carson City County,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,325102000
+06000,1152957,06,,000,State,CA,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,060002000
+32000,71140,32,,000,State,NV,P012015,Male: 45 to 49 years,Age,2000,dec/sf1,2000,320002000
+06017,6289,06,,017,County,El Dorado County,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,060172000
+06061,8818,06,,061,County,Placer County,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,060612000
+32005,1666,32,,005,County,Douglas County,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,320052000
+32031,12156,32,,031,County,Washoe County,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,320312000
+32510,1861,32,,510,County,Carson City County,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,325102000
+06000,980804,06,,000,State,CA,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,060002000
+32000,64516,32,,000,State,NV,P012016,Male: 50 to 54 years,Age,2000,dec/sf1,2000,320002000
+06017,4324,06,,017,County,El Dorado County,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,060172000
+06061,6370,06,,061,County,Placer County,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,060612000
+32005,1345,32,,005,County,Douglas County,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,320052000
+32031,9009,32,,031,County,Washoe County,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,320312000
+32510,1495,32,,510,County,Carson City County,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,325102000
+06000,711203,06,,000,State,CA,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,060002000
+32000,52500,32,,000,State,NV,P012017,Male: 55 to 59 years,Age,2000,dec/sf1,2000,320002000
+06017,1375,06,,017,County,El Dorado County,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,060172000
+06061,2074,06,,061,County,Placer County,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,060612000
+32005,505,32,,005,County,Douglas County,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,320052000
+32031,2941,32,,031,County,Washoe County,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,320312000
+32510,516,32,,510,County,Carson City County,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,325102000
+06000,234813,06,,000,State,CA,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,060002000
+32000,18181,32,,000,State,NV,P012018,Male: 60 and 61 years,Age,2000,dec/sf1,2000,320002000
+06017,1948,06,,017,County,El Dorado County,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,060172000
+06061,2794,06,,061,County,Placer County,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,060612000
+32005,680,32,,005,County,Douglas County,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,320052000
+32031,3838,32,,031,County,Washoe County,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,320312000
+32510,711,32,,510,County,Carson City County,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,325102000
+06000,311292,06,,000,State,CA,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,060002000
+32000,24902,32,,000,State,NV,P012019,Male: 62 to 64 years,Age,2000,dec/sf1,2000,320002000
+06017,1215,06,,017,County,El Dorado County,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,060172000
+06061,1776,06,,061,County,Placer County,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,060612000
+32005,446,32,,005,County,Douglas County,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,320052000
+32031,2305,32,,031,County,Washoe County,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,320312000
+32510,413,32,,510,County,Carson City County,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,325102000
+06000,189672,06,,000,State,CA,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,060002000
+32000,15048,32,,000,State,NV,P012020,Male: 65 and 66 years,Age,2000,dec/sf1,2000,320002000
+06017,1692,06,,017,County,El Dorado County,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,060172000
+06061,2655,06,,061,County,Placer County,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,060612000
+32005,645,32,,005,County,Douglas County,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,320052000
+32031,3059,32,,031,County,Washoe County,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,320312000
+32510,606,32,,510,County,Carson City County,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,325102000
+06000,267104,06,,000,State,CA,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,060002000
+32000,20841,32,,000,State,NV,P012021,Male: 67 to 69 years,Age,2000,dec/sf1,2000,320002000
+06017,2461,06,,017,County,El Dorado County,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,060172000
+06061,3735,06,,061,County,Placer County,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,060612000
+32005,901,32,,005,County,Douglas County,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,320052000
+32031,4410,32,,031,County,Washoe County,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,320312000
+32510,850,32,,510,County,Carson City County,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,325102000
+06000,397927,06,,000,State,CA,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,060002000
+32000,29276,32,,000,State,NV,P012022,Male: 70 to 74 years,Age,2000,dec/sf1,2000,320002000
+06017,1846,06,,017,County,El Dorado County,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,060172000
+06061,3023,06,,061,County,Placer County,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,060612000
+32005,653,32,,005,County,Douglas County,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,320052000
+32031,3380,32,,031,County,Washoe County,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,320312000
+32510,832,32,,510,County,Carson City County,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,325102000
+06000,327683,06,,000,State,CA,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,060002000
+32000,20579,32,,000,State,NV,P012023,Male: 75 to 79 years,Age,2000,dec/sf1,2000,320002000
+06017,1099,06,,017,County,El Dorado County,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,060172000
+06061,1832,06,,061,County,Placer County,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,060612000
+32005,335,32,,005,County,Douglas County,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,320052000
+32031,1847,32,,031,County,Washoe County,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,320312000
+32510,473,32,,510,County,Carson City County,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,325102000
+06000,197306,06,,000,State,CA,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,060002000
+32000,10580,32,,000,State,NV,P012024,Male: 80 to 84 years,Age,2000,dec/sf1,2000,320002000
+06017,603,06,,017,County,El Dorado County,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,060172000
+06061,1156,06,,061,County,Placer County,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,060612000
+32005,156,32,,005,County,Douglas County,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,320052000
+32031,1144,32,,031,County,Washoe County,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,320312000
+32510,243,32,,510,County,Carson City County,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,325102000
+06000,134182,06,,000,State,CA,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,060002000
+32000,5644,32,,000,State,NV,P012025,Male: 85 years and over,Age,2000,dec/sf1,2000,320002000
+06017,78336,06,,017,County,El Dorado County,P012026,Female: Total,Age,2000,dec/sf1,2000,060172000
+06061,126507,06,,061,County,Placer County,P012026,Female: Total,Age,2000,dec/sf1,2000,060612000
+32005,20419,32,,005,County,Douglas County,P012026,Female: Total,Age,2000,dec/sf1,2000,320052000
+32031,167406,32,,031,County,Washoe County,P012026,Female: Total,Age,2000,dec/sf1,2000,320312000
+32510,25355,32,,510,County,Carson City County,P012026,Female: Total,Age,2000,dec/sf1,2000,325102000
+06000,16996756,06,,000,State,CA,P012026,Female: Total,Age,2000,dec/sf1,2000,060002000
+32000,980206,32,,000,State,NV,P012026,Female: Total,Age,2000,dec/sf1,2000,320002000
+06017,4258,06,,017,County,El Dorado County,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,060172000
+06061,7897,06,,061,County,Placer County,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,060612000
+32005,1041,32,,005,County,Douglas County,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,320052000
+32031,11545,32,,031,County,Washoe County,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,320312000
+32510,1608,32,,510,County,Carson City County,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,325102000
+06000,1214097,06,,000,State,CA,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,060002000
+32000,71017,32,,000,State,NV,P012027,Female: Under 5 years,Age,2000,dec/sf1,2000,320002000
+06017,5577,06,,017,County,El Dorado County,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,060172000
+06061,9291,06,,061,County,Placer County,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,060612000
+32005,1284,32,,005,County,Douglas County,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,320052000
+32031,11773,32,,031,County,Washoe County,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,320312000
+32510,1751,32,,510,County,Carson City County,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,325102000
+06000,1329400,06,,000,State,CA,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,060002000
+32000,72775,32,,000,State,NV,P012028,Female: 5 to 9 years,Age,2000,dec/sf1,2000,320002000
+06017,6344,06,,017,County,El Dorado County,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,060172000
+06061,9577,06,,061,County,Placer County,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,060612000
+32005,1572,32,,005,County,Douglas County,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,320052000
+32031,11430,32,,031,County,Washoe County,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,320312000
+32510,1696,32,,510,County,Carson City County,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,325102000
+06000,1253687,06,,000,State,CA,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,060002000
+32000,67570,32,,000,State,NV,P012029,Female: 10 to 14 years,Age,2000,dec/sf1,2000,320002000
+06017,3602,06,,017,County,El Dorado County,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,060172000
+06061,5536,06,,061,County,Placer County,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,060612000
+32005,904,32,,005,County,Douglas County,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,320052000
+32031,6266,32,,031,County,Washoe County,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,320312000
+32510,1002,32,,510,County,Carson City County,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,325102000
+06000,708107,06,,000,State,CA,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,060002000
+32000,37243,32,,000,State,NV,P012030,Female: 15 to 17 years,Age,2000,dec/sf1,2000,320002000
+06017,1857,06,,017,County,El Dorado County,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,060172000
+06061,2812,06,,061,County,Placer County,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,060612000
+32005,362,32,,005,County,Douglas County,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,320052000
+32031,4714,32,,031,County,Washoe County,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,320312000
+32510,533,32,,510,County,Carson City County,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,325102000
+06000,471155,06,,000,State,CA,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,060002000
+32000,24058,32,,000,State,NV,P012031,Female: 18 and 19 years,Age,2000,dec/sf1,2000,320002000
+06017,668,06,,017,County,El Dorado County,P012032,Female: 20 years,Age,2000,dec/sf1,2000,060172000
+06061,1185,06,,061,County,Placer County,P012032,Female: 20 years,Age,2000,dec/sf1,2000,060612000
+32005,139,32,,005,County,Douglas County,P012032,Female: 20 years,Age,2000,dec/sf1,2000,320052000
+32031,2357,32,,031,County,Washoe County,P012032,Female: 20 years,Age,2000,dec/sf1,2000,320312000
+32510,278,32,,510,County,Carson City County,P012032,Female: 20 years,Age,2000,dec/sf1,2000,325102000
+06000,232201,06,,000,State,CA,P012032,Female: 20 years,Age,2000,dec/sf1,2000,060002000
+32000,12081,32,,000,State,NV,P012032,Female: 20 years,Age,2000,dec/sf1,2000,320002000
+06017,602,06,,017,County,El Dorado County,P012033,Female: 21 years,Age,2000,dec/sf1,2000,060172000
+06061,1015,06,,061,County,Placer County,P012033,Female: 21 years,Age,2000,dec/sf1,2000,060612000
+32005,118,32,,005,County,Douglas County,P012033,Female: 21 years,Age,2000,dec/sf1,2000,320052000
+32031,2340,32,,031,County,Washoe County,P012033,Female: 21 years,Age,2000,dec/sf1,2000,320312000
+32510,252,32,,510,County,Carson City County,P012033,Female: 21 years,Age,2000,dec/sf1,2000,325102000
+06000,223100,06,,000,State,CA,P012033,Female: 21 years,Age,2000,dec/sf1,2000,060002000
+32000,11936,32,,000,State,NV,P012033,Female: 21 years,Age,2000,dec/sf1,2000,320002000
+06017,1865,06,,017,County,El Dorado County,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,060172000
+06061,2999,06,,061,County,Placer County,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,060612000
+32005,396,32,,005,County,Douglas County,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,320052000
+32031,6723,32,,031,County,Washoe County,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,320312000
+32510,766,32,,510,County,Carson City County,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,325102000
+06000,680457,06,,000,State,CA,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,060002000
+32000,37976,32,,000,State,NV,P012034,Female: 22 to 24 years,Age,2000,dec/sf1,2000,320002000
+06017,3306,06,,017,County,El Dorado County,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,060172000
+06061,6440,06,,061,County,Placer County,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,060612000
+32005,825,32,,005,County,Douglas County,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,320052000
+32031,11318,32,,031,County,Washoe County,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,320312000
+32510,1393,32,,510,County,Carson City County,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,325102000
+06000,1232096,06,,000,State,CA,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,060002000
+32000,71492,32,,000,State,NV,P012035,Female: 25 to 29 years,Age,2000,dec/sf1,2000,320002000
+06017,4480,06,,017,County,El Dorado County,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,060172000
+06061,8480,06,,061,County,Placer County,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,060612000
+32005,1182,32,,005,County,Douglas County,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,320052000
+32031,12174,32,,031,County,Washoe County,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,320312000
+32510,1528,32,,510,County,Carson City County,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,325102000
+06000,1303166,06,,000,State,CA,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,060002000
+32000,74832,32,,000,State,NV,P012036,Female: 30 to 34 years,Age,2000,dec/sf1,2000,320002000
+06017,6681,06,,017,County,El Dorado County,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,060172000
+06061,10713,06,,061,County,Placer County,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,060612000
+32005,1688,32,,005,County,Douglas County,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,320052000
+32031,13513,32,,031,County,Washoe County,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,320312000
+32510,1814,32,,510,County,Carson City County,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,325102000
+06000,1384450,06,,000,State,CA,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,060002000
+32000,78876,32,,000,State,NV,P012037,Female: 35 to 39 years,Age,2000,dec/sf1,2000,320002000
+06017,7786,06,,017,County,El Dorado County,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,060172000
+06061,11394,06,,061,County,Placer County,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,060612000
+32005,1877,32,,005,County,Douglas County,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,320052000
+32031,13903,32,,031,County,Washoe County,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,320312000
+32510,1908,32,,510,County,Carson City County,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,325102000
+06000,1328397,06,,000,State,CA,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,060002000
+32000,75379,32,,000,State,NV,P012038,Female: 40 to 44 years,Age,2000,dec/sf1,2000,320002000
+06017,7212,06,,017,County,El Dorado County,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,060172000
+06061,10223,06,,061,County,Placer County,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,060612000
+32005,1787,32,,005,County,Douglas County,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,320052000
+32031,13018,32,,031,County,Washoe County,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,320312000
+32510,1926,32,,510,County,Carson City County,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,325102000
+06000,1178835,06,,000,State,CA,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,060002000
+32000,69074,32,,000,State,NV,P012039,Female: 45 to 49 years,Age,2000,dec/sf1,2000,320002000
+06017,5970,06,,017,County,El Dorado County,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,060172000
+06061,8753,06,,061,County,Placer County,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,060612000
+32005,1651,32,,005,County,Douglas County,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,320052000
+32031,11472,32,,031,County,Washoe County,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,320312000
+32510,1841,32,,510,County,Carson City County,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,325102000
+06000,1019039,06,,000,State,CA,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,060002000
+32000,64320,32,,000,State,NV,P012040,Female: 50 to 54 years,Age,2000,dec/sf1,2000,320002000
+06017,4344,06,,017,County,El Dorado County,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,060172000
+06061,6538,06,,061,County,Placer County,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,060612000
+32005,1372,32,,005,County,Douglas County,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,320052000
+32031,8620,32,,031,County,Washoe County,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,320312000
+32510,1454,32,,510,County,Carson City County,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,325102000
+06000,756049,06,,000,State,CA,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,060002000
+32000,52557,32,,000,State,NV,P012041,Female: 55 to 59 years,Age,2000,dec/sf1,2000,320002000
+06017,1409,06,,017,County,El Dorado County,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,060172000
+06061,2198,06,,061,County,Placer County,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,060612000
+32005,432,32,,005,County,Douglas County,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,320052000
+32031,2842,32,,031,County,Washoe County,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,320312000
+32510,480,32,,510,County,Carson City County,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,325102000
+06000,253832,06,,000,State,CA,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,060002000
+32000,17786,32,,000,State,NV,P012042,Female: 60 and 61 years,Age,2000,dec/sf1,2000,320002000
+06017,1957,06,,017,County,El Dorado County,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,060172000
+06061,3073,06,,061,County,Placer County,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,060612000
+32005,668,32,,005,County,Douglas County,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,320052000
+32031,3746,32,,031,County,Washoe County,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,320312000
+32510,705,32,,510,County,Carson City County,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,325102000
+06000,346904,06,,000,State,CA,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,060002000
+32000,24273,32,,000,State,NV,P012043,Female: 62 to 64 years,Age,2000,dec/sf1,2000,320002000
+06017,1197,06,,017,County,El Dorado County,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,060172000
+06061,1987,06,,061,County,Placer County,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,060612000
+32005,384,32,,005,County,Douglas County,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,320052000
+32031,2290,32,,031,County,Washoe County,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,320312000
+32510,472,32,,510,County,Carson City County,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,325102000
+06000,216808,06,,000,State,CA,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,060002000
+32000,14878,32,,000,State,NV,P012044,Female: 65 and 66 years,Age,2000,dec/sf1,2000,320002000
+06017,1756,06,,017,County,El Dorado County,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,060172000
+06061,2838,06,,061,County,Placer County,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,060612000
+32005,573,32,,005,County,Douglas County,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,320052000
+32031,3142,32,,031,County,Washoe County,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,320312000
+32510,582,32,,510,County,Carson City County,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,325102000
+06000,310951,06,,000,State,CA,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,060002000
+32000,20620,32,,000,State,NV,P012045,Female: 67 to 69 years,Age,2000,dec/sf1,2000,320002000
+06017,2631,06,,017,County,El Dorado County,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,060172000
+06061,4322,06,,061,County,Placer County,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,060612000
+32005,886,32,,005,County,Douglas County,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,320052000
+32031,5010,32,,031,County,Washoe County,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,320312000
+32510,1173,32,,510,County,Carson City County,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,325102000
+06000,505361,06,,000,State,CA,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,060002000
+32000,31112,32,,000,State,NV,P012046,Female: 70 to 74 years,Age,2000,dec/sf1,2000,320002000
+06017,2212,06,,017,County,El Dorado County,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,060172000
+06061,4084,06,,061,County,Placer County,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,060612000
+32005,655,32,,005,County,Douglas County,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,320052000
+32031,4207,32,,031,County,Washoe County,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,320312000
+32510,970,32,,510,County,Carson City County,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,325102000
+06000,451664,06,,000,State,CA,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,060002000
+32000,24272,32,,000,State,NV,P012047,Female: 75 to 79 years,Age,2000,dec/sf1,2000,320002000
+06017,1457,06,,017,County,El Dorado County,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,060172000
+06061,2618,06,,061,County,Placer County,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,060612000
+32005,349,32,,005,County,Douglas County,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,320052000
+32031,2648,32,,031,County,Washoe County,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,320312000
+32510,675,32,,510,County,Carson City County,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,325102000
+06000,305525,06,,000,State,CA,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,060002000
+32000,14734,32,,000,State,NV,P012048,Female: 80 to 84 years,Age,2000,dec/sf1,2000,320002000
+06017,1165,06,,017,County,El Dorado County,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,060172000
+06061,2534,06,,061,County,Placer County,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,060612000
+32005,274,32,,005,County,Douglas County,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,320052000
+32031,2355,32,,031,County,Washoe County,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,320312000
+32510,548,32,,510,County,Carson City County,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,325102000
+06000,291475,06,,000,State,CA,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,060002000
+32000,11345,32,,000,State,NV,P012049,Female: 85 years and over,Age,2000,dec/sf1,2000,320002000
+39900,214788,00,,000,MSA,Reno-Sparks MSA,P012002,Male: Total,Age,2010,dec/sf1,2010,399002010
+40900,1053450,00,,000,MSA,Sacramento MSA,P012002,Male: Total,Age,2010,dec/sf1,2010,409002010
+488,3702450,00,,000,MSA,Sanfranciso CMSA,P012002,Male: Total,Age,2010,dec/sf1,2010,4882010
+06017,90571,06,,017,County,El Dorado County,P012002,Male: Total,Age,2010,dec/sf1,2010,060172010
+06061,170151,06,,061,County,Placer County,P012002,Male: Total,Age,2010,dec/sf1,2010,060612010
+32005,23481,32,,005,County,Douglas County,P012002,Male: Total,Age,2010,dec/sf1,2010,320052010
+32031,212744,32,,031,County,Washoe County,P012002,Male: Total,Age,2010,dec/sf1,2010,320312010
+32510,28688,32,,510,County,Carson City County,P012002,Male: Total,Age,2010,dec/sf1,2010,325102010
+06000,18517830,06,,000,State,CA,P012002,Male: Total,Age,2010,dec/sf1,2010,060002010
+32000,1363616,32,,000,State,NV,P012002,Male: Total,Age,2010,dec/sf1,2010,320002010
+39900,14437,00,,000,MSA,Reno-Sparks MSA,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,399002010
+40900,73581,00,,000,MSA,Sacramento MSA,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,409002010
+488,238902,00,,000,MSA,Sanfranciso CMSA,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,4882010
+06017,4870,06,,017,County,El Dorado County,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,060172010
+06061,10613,06,,061,County,Placer County,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,060612010
+32005,1229,32,,005,County,Douglas County,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,320052010
+32031,14345,32,,031,County,Washoe County,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,320312010
+32510,1677,32,,510,County,Carson City County,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,325102010
+06000,1294056,06,,000,State,CA,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,060002010
+32000,95772,32,,000,State,NV,P012003,Male: Under 5 years,Age,2010,dec/sf1,2010,320002010
+39900,14158,00,,000,MSA,Reno-Sparks MSA,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,399002010
+40900,73958,00,,000,MSA,Sacramento MSA,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,409002010
+488,235884,00,,000,MSA,Sanfranciso CMSA,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,4882010
+06017,5664,06,,017,County,El Dorado County,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,060172010
+06061,12077,06,,061,County,Placer County,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,060612010
+32005,1304,32,,005,County,Douglas County,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,320052010
+32031,14071,32,,031,County,Washoe County,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,320312010
+32510,1621,32,,510,County,Carson City County,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,325102010
+06000,1279563,06,,000,State,CA,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,060002010
+32000,93773,32,,000,State,NV,P012004,Male: 5 to 9 years,Age,2010,dec/sf1,2010,320002010
+39900,14377,00,,000,MSA,Reno-Sparks MSA,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,399002010
+40900,76769,00,,000,MSA,Sacramento MSA,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,409002010
+488,229850,00,,000,MSA,Sanfranciso CMSA,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,4882010
+06017,6410,06,,017,County,El Dorado County,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,060172010
+06061,12686,06,,061,County,Placer County,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,060612010
+32005,1428,32,,005,County,Douglas County,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,320052010
+32031,14259,32,,031,County,Washoe County,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,320312010
+32510,1673,32,,510,County,Carson City County,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,325102010
+06000,1325915,06,,000,State,CA,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,060002010
+32000,93672,32,,000,State,NV,P012005,Male: 10 to 14 years,Age,2010,dec/sf1,2010,320002010
+39900,8602,00,,000,MSA,Reno-Sparks MSA,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,399002010
+40900,49248,00,,000,MSA,Sacramento MSA,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,409002010
+488,145239,00,,000,MSA,Sanfranciso CMSA,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,4882010
+06017,4128,06,,017,County,El Dorado County,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,060172010
+06061,7978,06,,061,County,Placer County,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,060612010
+32005,949,32,,005,County,Douglas County,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,320052010
+32031,8512,32,,031,County,Washoe County,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,320312010
+32510,1081,32,,510,County,Carson City County,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,325102010
+06000,857058,06,,000,State,CA,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,060002010
+32000,57241,32,,000,State,NV,P012006,Male: 15 to 17 years,Age,2010,dec/sf1,2010,320002010
+39900,6474,00,,000,MSA,Reno-Sparks MSA,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,399002010
+40900,33407,00,,000,MSA,Sacramento MSA,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,409002010
+488,100018,00,,000,MSA,Sanfranciso CMSA,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,4882010
+06017,2415,06,,017,County,El Dorado County,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,060172010
+06061,4534,06,,061,County,Placer County,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,060612010
+32005,511,32,,005,County,Douglas County,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,320052010
+32031,6439,32,,031,County,Washoe County,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,320312010
+32510,700,32,,510,County,Carson City County,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,325102010
+06000,598024,06,,000,State,CA,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,060002010
+32000,36832,32,,000,State,NV,P012007,Male: 18 and 19 years,Age,2010,dec/sf1,2010,320002010
+39900,3377,00,,000,MSA,Reno-Sparks MSA,P012008,Male: 20 years,Age,2010,dec/sf1,2010,399002010
+40900,16462,00,,000,MSA,Sacramento MSA,P012008,Male: 20 years,Age,2010,dec/sf1,2010,409002010
+488,50607,00,,000,MSA,Sanfranciso CMSA,P012008,Male: 20 years,Age,2010,dec/sf1,2010,4882010
+06017,1055,06,,017,County,El Dorado County,P012008,Male: 20 years,Age,2010,dec/sf1,2010,060172010
+06061,2053,06,,061,County,Placer County,P012008,Male: 20 years,Age,2010,dec/sf1,2010,060612010
+32005,233,32,,005,County,Douglas County,P012008,Male: 20 years,Age,2010,dec/sf1,2010,320052010
+32031,3367,32,,031,County,Washoe County,P012008,Male: 20 years,Age,2010,dec/sf1,2010,320312010
+32510,347,32,,510,County,Carson City County,P012008,Male: 20 years,Age,2010,dec/sf1,2010,325102010
+06000,298655,06,,000,State,CA,P012008,Male: 20 years,Age,2010,dec/sf1,2010,060002010
+32000,18271,32,,000,State,NV,P012008,Male: 20 years,Age,2010,dec/sf1,2010,320002010
+39900,3305,00,,000,MSA,Reno-Sparks MSA,P012009,Male: 21 years,Age,2010,dec/sf1,2010,399002010
+40900,15973,00,,000,MSA,Sacramento MSA,P012009,Male: 21 years,Age,2010,dec/sf1,2010,409002010
+488,49165,00,,000,MSA,Sanfranciso CMSA,P012009,Male: 21 years,Age,2010,dec/sf1,2010,4882010
+06017,963,06,,017,County,El Dorado County,P012009,Male: 21 years,Age,2010,dec/sf1,2010,060172010
+06061,1846,06,,061,County,Placer County,P012009,Male: 21 years,Age,2010,dec/sf1,2010,060612010
+32005,222,32,,005,County,Douglas County,P012009,Male: 21 years,Age,2010,dec/sf1,2010,320052010
+32031,3288,32,,031,County,Washoe County,P012009,Male: 21 years,Age,2010,dec/sf1,2010,320312010
+32510,326,32,,510,County,Carson City County,P012009,Male: 21 years,Age,2010,dec/sf1,2010,325102010
+06000,289108,06,,000,State,CA,P012009,Male: 21 years,Age,2010,dec/sf1,2010,060002010
+32000,17649,32,,000,State,NV,P012009,Male: 21 years,Age,2010,dec/sf1,2010,320002010
+39900,9817,00,,000,MSA,Reno-Sparks MSA,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,399002010
+40900,46139,00,,000,MSA,Sacramento MSA,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,409002010
+488,152847,00,,000,MSA,Sanfranciso CMSA,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,4882010
+06017,2871,06,,017,County,El Dorado County,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,060172010
+06061,5427,06,,061,County,Placer County,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,060612010
+32005,602,32,,005,County,Douglas County,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,320052010
+32031,9771,32,,031,County,Washoe County,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,320312010
+32510,1124,32,,510,County,Carson City County,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,325102010
+06000,853022,06,,000,State,CA,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,060002010
+32000,55228,32,,000,State,NV,P012010,Male: 22 to 24 years,Age,2010,dec/sf1,2010,320002010
+39900,15217,00,,000,MSA,Reno-Sparks MSA,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,399002010
+40900,75738,00,,000,MSA,Sacramento MSA,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,409002010
+488,279518,00,,000,MSA,Sanfranciso CMSA,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,4882010
+06017,4544,06,,017,County,El Dorado County,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,060172010
+06061,9849,06,,061,County,Placer County,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,060612010
+32005,1072,32,,005,County,Douglas County,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,320052010
+32031,15153,32,,031,County,Washoe County,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,320312010
+32510,1993,32,,510,County,Carson City County,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,325102010
+06000,1408698,06,,000,State,CA,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,060002010
+32000,100301,32,,000,State,NV,P012011,Male: 25 to 29 years,Age,2010,dec/sf1,2010,320002010
+39900,13784,00,,000,MSA,Reno-Sparks MSA,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,399002010
+40900,69969,00,,000,MSA,Sacramento MSA,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,409002010
+488,273751,00,,000,MSA,Sanfranciso CMSA,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,4882010
+06017,4302,06,,017,County,El Dorado County,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,060172010
+06061,9737,06,,061,County,Placer County,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,060612010
+32005,1057,32,,005,County,Douglas County,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,320052010
+32031,13703,32,,031,County,Washoe County,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,320312010
+32510,1835,32,,510,County,Carson City County,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,325102010
+06000,1304347,06,,000,State,CA,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,060002010
+32000,97802,32,,000,State,NV,P012012,Male: 30 to 34 years,Age,2010,dec/sf1,2010,320002010
+39900,13724,00,,000,MSA,Reno-Sparks MSA,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,399002010
+40900,68771,00,,000,MSA,Sacramento MSA,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,409002010
+488,277984,00,,000,MSA,Sanfranciso CMSA,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,4882010
+06017,4954,06,,017,County,El Dorado County,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,060172010
+06061,10623,06,,061,County,Placer County,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,060612010
+32005,1114,32,,005,County,Douglas County,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,320052010
+32031,13632,32,,031,County,Washoe County,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,320312010
+32510,1763,32,,510,County,Carson City County,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,325102010
+06000,1291370,06,,000,State,CA,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,060002010
+32000,97965,32,,000,State,NV,P012013,Male: 35 to 39 years,Age,2010,dec/sf1,2010,320002010
+39900,14772,00,,000,MSA,Reno-Sparks MSA,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,399002010
+40900,71631,00,,000,MSA,Sacramento MSA,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,409002010
+488,281074,00,,000,MSA,Sanfranciso CMSA,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,4882010
+06017,5974,06,,017,County,El Dorado County,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,060172010
+06061,11977,06,,061,County,Placer County,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,060612010
+32005,1385,32,,005,County,Douglas County,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,320052010
+32031,14679,32,,031,County,Washoe County,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,320312010
+32510,2108,32,,510,County,Carson City County,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,325102010
+06000,1313323,06,,000,State,CA,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,060002010
+32000,99225,32,,000,State,NV,P012014,Male: 40 to 44 years,Age,2010,dec/sf1,2010,320002010
+39900,15810,00,,000,MSA,Reno-Sparks MSA,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,399002010
+40900,77313,00,,000,MSA,Sacramento MSA,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,409002010
+488,287309,00,,000,MSA,Sanfranciso CMSA,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,4882010
+06017,7521,06,,017,County,El Dorado County,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,060172010
+06061,13344,06,,061,County,Placer County,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,060612010
+32005,1712,32,,005,County,Douglas County,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,320052010
+32031,15628,32,,031,County,Washoe County,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,320312010
+32510,2273,32,,510,County,Carson City County,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,325102010
+06000,1341984,06,,000,State,CA,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,060002010
+32000,99524,32,,000,State,NV,P012015,Male: 45 to 49 years,Age,2010,dec/sf1,2010,320002010
+39900,15609,00,,000,MSA,Reno-Sparks MSA,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,399002010
+40900,74386,00,,000,MSA,Sacramento MSA,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,409002010
+488,272370,00,,000,MSA,Sanfranciso CMSA,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,4882010
+06017,8310,06,,017,County,El Dorado County,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,060172010
+06061,12712,06,,061,County,Placer County,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,060612010
+32005,1953,32,,005,County,Douglas County,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,320052010
+32031,15384,32,,031,County,Washoe County,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,320312010
+32510,2229,32,,510,County,Carson City County,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,325102010
+06000,1266543,06,,000,State,CA,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,060002010
+32000,92136,32,,000,State,NV,P012016,Male: 50 to 54 years,Age,2010,dec/sf1,2010,320002010
+39900,14150,00,,000,MSA,Reno-Sparks MSA,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,399002010
+40900,64310,00,,000,MSA,Sacramento MSA,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,409002010
+488,236071,00,,000,MSA,Sanfranciso CMSA,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,4882010
+06017,7501,06,,017,County,El Dorado County,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,060172010
+06061,11047,06,,061,County,Placer County,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,060612010
+32005,1995,32,,005,County,Douglas County,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,320052010
+32031,13953,32,,031,County,Washoe County,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,320312010
+32510,1985,32,,510,County,Carson City County,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,325102010
+06000,1069976,06,,000,State,CA,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,060002010
+32000,80947,32,,000,State,NV,P012017,Male: 55 to 59 years,Age,2010,dec/sf1,2010,320002010
+39900,5380,00,,000,MSA,Reno-Sparks MSA,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,399002010
+40900,22964,00,,000,MSA,Sacramento MSA,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,409002010
+488,85623,00,,000,MSA,Sanfranciso CMSA,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,4882010
+06017,2763,06,,017,County,El Dorado County,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,060172010
+06061,3984,06,,061,County,Placer County,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,060612010
+32005,757,32,,005,County,Douglas County,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,320052010
+32031,5283,32,,031,County,Washoe County,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,320312010
+32510,769,32,,510,County,Carson City County,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,325102010
+06000,378044,06,,000,State,CA,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,060002010
+32000,30575,32,,000,State,NV,P012018,Male: 60 and 61 years,Age,2010,dec/sf1,2010,320002010
+39900,7588,00,,000,MSA,Reno-Sparks MSA,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,399002010
+40900,30977,00,,000,MSA,Sacramento MSA,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,409002010
+488,111272,00,,000,MSA,Sanfranciso CMSA,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,4882010
+06017,3770,06,,017,County,El Dorado County,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,060172010
+06061,6001,06,,061,County,Placer County,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,060612010
+32005,1213,32,,005,County,Douglas County,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,320052010
+32031,7456,32,,031,County,Washoe County,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,320312010
+32510,1081,32,,510,County,Carson City County,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,325102010
+06000,501127,06,,000,State,CA,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,060002010
+32000,43716,32,,000,State,NV,P012019,Male: 62 to 64 years,Age,2010,dec/sf1,2010,320002010
+39900,4098,00,,000,MSA,Reno-Sparks MSA,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,399002010
+40900,15943,00,,000,MSA,Sacramento MSA,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,409002010
+488,58811,00,,000,MSA,Sanfranciso CMSA,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,4882010
+06017,1938,06,,017,County,El Dorado County,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,060172010
+06061,3288,06,,061,County,Placer County,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,060612010
+32005,739,32,,005,County,Douglas County,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,320052010
+32031,4024,32,,031,County,Washoe County,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,320312010
+32510,560,32,,510,County,Carson City County,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,325102010
+06000,268273,06,,000,State,CA,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,060002010
+32000,24214,32,,000,State,NV,P012020,Male: 65 and 66 years,Age,2010,dec/sf1,2010,320002010
+39900,5222,00,,000,MSA,Reno-Sparks MSA,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,399002010
+40900,20640,00,,000,MSA,Sacramento MSA,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,409002010
+488,73145,00,,000,MSA,Sanfranciso CMSA,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,4882010
+06017,2581,06,,017,County,El Dorado County,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,060172010
+06061,4317,06,,061,County,Placer County,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,060612010
+32005,939,32,,005,County,Douglas County,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,320052010
+32031,5122,32,,031,County,Washoe County,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,320312010
+32510,817,32,,510,County,Carson City County,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,325102010
+06000,341951,06,,000,State,CA,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,060002010
+32000,32424,32,,000,State,NV,P012021,Male: 67 to 69 years,Age,2010,dec/sf1,2010,320002010
+39900,6162,00,,000,MSA,Reno-Sparks MSA,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,399002010
+40900,26691,00,,000,MSA,Sacramento MSA,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,409002010
+488,93676,00,,000,MSA,Sanfranciso CMSA,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,4882010
+06017,3148,06,,017,County,El Dorado County,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,060172010
+06061,5837,06,,061,County,Placer County,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,060612010
+32005,1246,32,,005,County,Douglas County,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,320052010
+32031,6052,32,,031,County,Washoe County,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,320312010
+32510,982,32,,510,County,Carson City County,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,325102010
+06000,443402,06,,000,State,CA,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,060002010
+32000,40470,32,,000,State,NV,P012022,Male: 70 to 74 years,Age,2010,dec/sf1,2010,320002010
+39900,4086,00,,000,MSA,Reno-Sparks MSA,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,399002010
+40900,21225,00,,000,MSA,Sacramento MSA,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,409002010
+488,70553,00,,000,MSA,Sanfranciso CMSA,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,4882010
+06017,2294,06,,017,County,El Dorado County,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,060172010
+06061,4551,06,,061,County,Placer County,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,060612010
+32005,910,32,,005,County,Douglas County,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,320052010
+32031,4023,32,,031,County,Washoe County,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,320312010
+32510,757,32,,510,County,Carson City County,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,325102010
+06000,337174,06,,000,State,CA,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,060002010
+32000,27623,32,,000,State,NV,P012023,Male: 75 to 79 years,Age,2010,dec/sf1,2010,320002010
+39900,2654,00,,000,MSA,Reno-Sparks MSA,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,399002010
+40900,14735,00,,000,MSA,Sacramento MSA,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,409002010
+488,51768,00,,000,MSA,Sanfranciso CMSA,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,4882010
+06017,1432,06,,017,County,El Dorado County,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,060172010
+06061,3116,06,,061,County,Placer County,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,060612010
+32005,524,32,,005,County,Douglas County,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,320052010
+32031,2631,32,,031,County,Washoe County,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,320312010
+32510,552,32,,510,County,Carson City County,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,325102010
+06000,245402,06,,000,State,CA,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,060002010
+32000,17239,32,,000,State,NV,P012024,Male: 80 to 84 years,Age,2010,dec/sf1,2010,320002010
+39900,1985,00,,000,MSA,Reno-Sparks MSA,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,399002010
+40900,12620,00,,000,MSA,Sacramento MSA,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,409002010
+488,47013,00,,000,MSA,Sanfranciso CMSA,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,4882010
+06017,1163,06,,017,County,El Dorado County,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,060172010
+06061,2554,06,,061,County,Placer County,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,060612010
+32005,387,32,,005,County,Douglas County,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,320052010
+32031,1969,32,,031,County,Washoe County,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,320312010
+32510,435,32,,510,County,Carson City County,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,325102010
+06000,210815,06,,000,State,CA,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,060002010
+32000,11017,32,,000,State,NV,P012025,Male: 85 years and over,Age,2010,dec/sf1,2010,320002010
+39900,210629,00,,000,MSA,Reno-Sparks MSA,P012026,Female: Total,Age,2010,dec/sf1,2010,399002010
+40900,1095677,00,,000,MSA,Sacramento MSA,P012026,Female: Total,Age,2010,dec/sf1,2010,409002010
+488,3765940,00,,000,MSA,Sanfranciso CMSA,P012026,Female: Total,Age,2010,dec/sf1,2010,4882010
+06017,90487,06,,017,County,El Dorado County,P012026,Female: Total,Age,2010,dec/sf1,2010,060172010
+06061,178281,06,,061,County,Placer County,P012026,Female: Total,Age,2010,dec/sf1,2010,060612010
+32005,23516,32,,005,County,Douglas County,P012026,Female: Total,Age,2010,dec/sf1,2010,320052010
+32031,208663,32,,031,County,Washoe County,P012026,Female: Total,Age,2010,dec/sf1,2010,320312010
+32510,26586,32,,510,County,Carson City County,P012026,Female: Total,Age,2010,dec/sf1,2010,325102010
+06000,18736126,06,,000,State,CA,P012026,Female: Total,Age,2010,dec/sf1,2010,060002010
+32000,1336935,32,,000,State,NV,P012026,Female: Total,Age,2010,dec/sf1,2010,320002010
+39900,13735,00,,000,MSA,Reno-Sparks MSA,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,399002010
+40900,70423,00,,000,MSA,Sacramento MSA,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,409002010
+488,228046,00,,000,MSA,Sanfranciso CMSA,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,4882010
+06017,4643,06,,017,County,El Dorado County,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,060172010
+06061,10238,06,,061,County,Placer County,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,060612010
+32005,1076,32,,005,County,Douglas County,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,320052010
+32031,13653,32,,031,County,Washoe County,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,320312010
+32510,1546,32,,510,County,Carson City County,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,325102010
+06000,1237277,06,,000,State,CA,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,060002010
+32000,91706,32,,000,State,NV,P012027,Female: Under 5 years,Age,2010,dec/sf1,2010,320002010
+39900,13083,00,,000,MSA,Reno-Sparks MSA,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,399002010
+40900,71119,00,,000,MSA,Sacramento MSA,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,409002010
+488,226094,00,,000,MSA,Sanfranciso CMSA,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,4882010
+06017,5462,06,,017,County,El Dorado County,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,060172010
+06061,11527,06,,061,County,Placer County,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,060612010
+32005,1292,32,,005,County,Douglas County,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,320052010
+32031,12992,32,,031,County,Washoe County,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,320312010
+32510,1566,32,,510,County,Carson City County,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,325102010
+06000,1226276,06,,000,State,CA,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,060002010
+32000,89304,32,,000,State,NV,P012028,Female: 5 to 9 years,Age,2010,dec/sf1,2010,320002010
+39900,13451,00,,000,MSA,Reno-Sparks MSA,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,399002010
+40900,73236,00,,000,MSA,Sacramento MSA,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,409002010
+488,219632,00,,000,MSA,Sanfranciso CMSA,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,4882010
+06017,6096,06,,017,County,El Dorado County,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,060172010
+06061,12300,06,,061,County,Placer County,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,060612010
+32005,1310,32,,005,County,Douglas County,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,320052010
+32031,13376,32,,031,County,Washoe County,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,320312010
+32510,1629,32,,510,County,Carson City County,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,325102010
+06000,1265015,06,,000,State,CA,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,060002010
+32000,89501,32,,000,State,NV,P012029,Female: 10 to 14 years,Age,2010,dec/sf1,2010,320002010
+39900,8190,00,,000,MSA,Reno-Sparks MSA,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,399002010
+40900,46610,00,,000,MSA,Sacramento MSA,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,409002010
+488,137510,00,,000,MSA,Sanfranciso CMSA,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,4882010
+06017,3902,06,,017,County,El Dorado County,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,060172010
+06061,7666,06,,061,County,Placer County,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,060612010
+32005,897,32,,005,County,Douglas County,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,320052010
+32031,8124,32,,031,County,Washoe County,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,320312010
+32510,1022,32,,510,County,Carson City County,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,325102010
+06000,809880,06,,000,State,CA,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,060002010
+32000,54039,32,,000,State,NV,P012030,Female: 15 to 17 years,Age,2010,dec/sf1,2010,320002010
+39900,6310,00,,000,MSA,Reno-Sparks MSA,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,399002010
+40900,32553,00,,000,MSA,Sacramento MSA,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,409002010
+488,94213,00,,000,MSA,Sanfranciso CMSA,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,4882010
+06017,2077,06,,017,County,El Dorado County,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,060172010
+06061,4120,06,,061,County,Placer County,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,060612010
+32005,484,32,,005,County,Douglas County,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,320052010
+32031,6271,32,,031,County,Washoe County,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,320312010
+32510,652,32,,510,County,Carson City County,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,325102010
+06000,558978,06,,000,State,CA,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,060002010
+32000,34488,32,,000,State,NV,P012031,Female: 18 and 19 years,Age,2010,dec/sf1,2010,320002010
+39900,3347,00,,000,MSA,Reno-Sparks MSA,P012032,Female: 20 years,Age,2010,dec/sf1,2010,399002010
+40900,16159,00,,000,MSA,Sacramento MSA,P012032,Female: 20 years,Age,2010,dec/sf1,2010,409002010
+488,46429,00,,000,MSA,Sanfranciso CMSA,P012032,Female: 20 years,Age,2010,dec/sf1,2010,4882010
+06017,877,06,,017,County,El Dorado County,P012032,Female: 20 years,Age,2010,dec/sf1,2010,060172010
+06061,1745,06,,061,County,Placer County,P012032,Female: 20 years,Age,2010,dec/sf1,2010,060612010
+32005,183,32,,005,County,Douglas County,P012032,Female: 20 years,Age,2010,dec/sf1,2010,320052010
+32031,3337,32,,031,County,Washoe County,P012032,Female: 20 years,Age,2010,dec/sf1,2010,320312010
+32510,330,32,,510,County,Carson City County,P012032,Female: 20 years,Age,2010,dec/sf1,2010,325102010
+06000,274987,06,,000,State,CA,P012032,Female: 20 years,Age,2010,dec/sf1,2010,060002010
+32000,17283,32,,000,State,NV,P012032,Female: 20 years,Age,2010,dec/sf1,2010,320002010
+39900,3156,00,,000,MSA,Reno-Sparks MSA,P012033,Female: 21 years,Age,2010,dec/sf1,2010,399002010
+40900,16014,00,,000,MSA,Sacramento MSA,P012033,Female: 21 years,Age,2010,dec/sf1,2010,409002010
+488,45363,00,,000,MSA,Sanfranciso CMSA,P012033,Female: 21 years,Age,2010,dec/sf1,2010,4882010
+06017,752,06,,017,County,El Dorado County,P012033,Female: 21 years,Age,2010,dec/sf1,2010,060172010
+06061,1660,06,,061,County,Placer County,P012033,Female: 21 years,Age,2010,dec/sf1,2010,060612010
+32005,198,32,,005,County,Douglas County,P012033,Female: 21 years,Age,2010,dec/sf1,2010,320052010
+32031,3143,32,,031,County,Washoe County,P012033,Female: 21 years,Age,2010,dec/sf1,2010,320312010
+32510,311,32,,510,County,Carson City County,P012033,Female: 21 years,Age,2010,dec/sf1,2010,325102010
+06000,266667,06,,000,State,CA,P012033,Female: 21 years,Age,2010,dec/sf1,2010,060002010
+32000,16609,32,,000,State,NV,P012033,Female: 21 years,Age,2010,dec/sf1,2010,320002010
+39900,9157,00,,000,MSA,Reno-Sparks MSA,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,399002010
+40900,45240,00,,000,MSA,Sacramento MSA,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,409002010
+488,143738,00,,000,MSA,Sanfranciso CMSA,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,4882010
+06017,2440,06,,017,County,El Dorado County,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,060172010
+06061,5205,06,,061,County,Placer County,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,060612010
+32005,551,32,,005,County,Douglas County,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,320052010
+32031,9117,32,,031,County,Washoe County,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,320312010
+32510,885,32,,510,County,Carson City County,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,325102010
+06000,783510,06,,000,State,CA,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,060002010
+32000,52469,32,,000,State,NV,P012034,Female: 22 to 24 years,Age,2010,dec/sf1,2010,320002010
+39900,14541,00,,000,MSA,Reno-Sparks MSA,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,399002010
+40900,75567,00,,000,MSA,Sacramento MSA,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,409002010
+488,270657,00,,000,MSA,Sanfranciso CMSA,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,4882010
+06017,4138,06,,017,County,El Dorado County,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,060172010
+06061,9711,06,,061,County,Placer County,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,060612010
+32005,1072,32,,005,County,Douglas County,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,320052010
+32031,14465,32,,031,County,Washoe County,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,320312010
+32510,1395,32,,510,County,Carson City County,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,325102010
+06000,1335711,06,,000,State,CA,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,060002010
+32000,96343,32,,000,State,NV,P012035,Female: 25 to 29 years,Age,2010,dec/sf1,2010,320002010
+39900,13226,00,,000,MSA,Reno-Sparks MSA,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,399002010
+40900,69957,00,,000,MSA,Sacramento MSA,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,409002010
+488,269423,00,,000,MSA,Sanfranciso CMSA,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,4882010
+06017,4260,06,,017,County,El Dorado County,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,060172010
+06061,9876,06,,061,County,Placer County,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,060612010
+32005,1041,32,,005,County,Douglas County,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,320052010
+32031,13148,32,,031,County,Washoe County,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,320312010
+32510,1404,32,,510,County,Carson City County,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,325102010
+06000,1269121,06,,000,State,CA,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,060002010
+32000,92840,32,,000,State,NV,P012036,Female: 30 to 34 years,Age,2010,dec/sf1,2010,320002010
+39900,13182,00,,000,MSA,Reno-Sparks MSA,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,399002010
+40900,70115,00,,000,MSA,Sacramento MSA,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,409002010
+488,272460,00,,000,MSA,Sanfranciso CMSA,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,4882010
+06017,5039,06,,017,County,El Dorado County,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,060172010
+06061,11248,06,,061,County,Placer County,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,060612010
+32005,1154,32,,005,County,Douglas County,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,320052010
+32031,13088,32,,031,County,Washoe County,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,320312010
+32510,1492,32,,510,County,Carson City County,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,325102010
+06000,1282209,06,,000,State,CA,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,060002010
+32000,93687,32,,000,State,NV,P012037,Female: 35 to 39 years,Age,2010,dec/sf1,2010,320002010
+39900,14075,00,,000,MSA,Reno-Sparks MSA,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,399002010
+40900,72999,00,,000,MSA,Sacramento MSA,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,409002010
+488,274825,00,,000,MSA,Sanfranciso CMSA,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,4882010
+06017,6236,06,,017,County,El Dorado County,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,060172010
+06061,12717,06,,061,County,Placer County,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,060612010
+32005,1440,32,,005,County,Douglas County,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,320052010
+32031,13954,32,,031,County,Washoe County,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,320312010
+32510,1628,32,,510,County,Carson City County,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,325102010
+06000,1295808,06,,000,State,CA,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,060002010
+32000,92166,32,,000,State,NV,P012038,Female: 40 to 44 years,Age,2010,dec/sf1,2010,320002010
+39900,15309,00,,000,MSA,Reno-Sparks MSA,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,399002010
+40900,80031,00,,000,MSA,Sacramento MSA,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,409002010
+488,284868,00,,000,MSA,Sanfranciso CMSA,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,4882010
+06017,7995,06,,017,County,El Dorado County,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,060172010
+06061,13888,06,,061,County,Placer County,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,060612010
+32005,1917,32,,005,County,Douglas County,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,320052010
+32031,15135,32,,031,County,Washoe County,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,320312010
+32510,1959,32,,510,County,Carson City County,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,325102010
+06000,1347835,06,,000,State,CA,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,060002010
+32000,94266,32,,000,State,NV,P012039,Female: 45 to 49 years,Age,2010,dec/sf1,2010,320002010
+39900,15392,00,,000,MSA,Reno-Sparks MSA,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,399002010
+40900,79321,00,,000,MSA,Sacramento MSA,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,409002010
+488,274701,00,,000,MSA,Sanfranciso CMSA,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,4882010
+06017,8520,06,,017,County,El Dorado County,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,060172010
+06061,13395,06,,061,County,Placer County,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,060612010
+32005,2133,32,,005,County,Douglas County,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,320052010
+32031,15175,32,,031,County,Washoe County,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,320312010
+32510,1967,32,,510,County,Carson City County,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,325102010
+06000,1296009,06,,000,State,CA,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,060002010
+32000,90601,32,,000,State,NV,P012040,Female: 50 to 54 years,Age,2010,dec/sf1,2010,320002010
+39900,14366,00,,000,MSA,Reno-Sparks MSA,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,399002010
+40900,70333,00,,000,MSA,Sacramento MSA,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,409002010
+488,247724,00,,000,MSA,Sanfranciso CMSA,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,4882010
+06017,7645,06,,017,County,El Dorado County,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,060172010
+06061,11925,06,,061,County,Placer County,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,060612010
+32005,2063,32,,005,County,Douglas County,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,320052010
+32031,14141,32,,031,County,Washoe County,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,320312010
+32510,1920,32,,510,County,Carson City County,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,325102010
+06000,1134320,06,,000,State,CA,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,060002010
+32000,83628,32,,000,State,NV,P012041,Female: 55 to 59 years,Age,2010,dec/sf1,2010,320002010
+39900,5294,00,,000,MSA,Reno-Sparks MSA,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,399002010
+40900,25427,00,,000,MSA,Sacramento MSA,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,409002010
+488,91296,00,,000,MSA,Sanfranciso CMSA,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,4882010
+06017,2723,06,,017,County,El Dorado County,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,060172010
+06061,4607,06,,061,County,Placer County,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,060612010
+32005,799,32,,005,County,Douglas County,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,320052010
+32031,5209,32,,031,County,Washoe County,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,320312010
+32510,754,32,,510,County,Carson City County,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,325102010
+06000,408232,06,,000,State,CA,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,060002010
+32000,31814,32,,000,State,NV,P012042,Female: 60 and 61 years,Age,2010,dec/sf1,2010,320002010
+39900,7405,00,,000,MSA,Reno-Sparks MSA,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,399002010
+40900,34019,00,,000,MSA,Sacramento MSA,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,409002010
+488,121180,00,,000,MSA,Sanfranciso CMSA,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,4882010
+06017,3714,06,,017,County,El Dorado County,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,060172010
+06061,6554,06,,061,County,Placer County,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,060612010
+32005,1172,32,,005,County,Douglas County,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,320052010
+32031,7277,32,,031,County,Washoe County,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,320312010
+32510,1096,32,,510,County,Carson City County,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,325102010
+06000,544794,06,,000,State,CA,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,060002010
+32000,44819,32,,000,State,NV,P012043,Female: 62 to 64 years,Age,2010,dec/sf1,2010,320002010
+39900,4083,00,,000,MSA,Reno-Sparks MSA,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,399002010
+40900,18231,00,,000,MSA,Sacramento MSA,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,409002010
+488,65343,00,,000,MSA,Sanfranciso CMSA,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,4882010
+06017,1953,06,,017,County,El Dorado County,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,060172010
+06061,3779,06,,061,County,Placer County,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,060612010
+32005,636,32,,005,County,Douglas County,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,320052010
+32031,4023,32,,031,County,Washoe County,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,320312010
+32510,599,32,,510,County,Carson City County,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,325102010
+06000,300544,06,,000,State,CA,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,060002010
+32000,25399,32,,000,State,NV,P012044,Female: 65 and 66 years,Age,2010,dec/sf1,2010,320002010
+39900,5106,00,,000,MSA,Reno-Sparks MSA,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,399002010
+40900,24353,00,,000,MSA,Sacramento MSA,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,409002010
+488,83627,00,,000,MSA,Sanfranciso CMSA,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,4882010
+06017,2669,06,,017,County,El Dorado County,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,060172010
+06061,5075,06,,061,County,Placer County,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,060612010
+32005,952,32,,005,County,Douglas County,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,320052010
+32031,5017,32,,031,County,Washoe County,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,320312010
+32510,798,32,,510,County,Carson City County,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,325102010
+06000,392790,06,,000,State,CA,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,060002010
+32000,33464,32,,000,State,NV,P012045,Female: 67 to 69 years,Age,2010,dec/sf1,2010,320002010
+39900,6304,00,,000,MSA,Reno-Sparks MSA,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,399002010
+40900,32434,00,,000,MSA,Sacramento MSA,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,409002010
+488,111508,00,,000,MSA,Sanfranciso CMSA,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,4882010
+06017,3148,06,,017,County,El Dorado County,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,060172010
+06061,6694,06,,061,County,Placer County,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,060612010
+32005,1123,32,,005,County,Douglas County,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,320052010
+32031,6217,32,,031,County,Washoe County,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,320312010
+32510,1068,32,,510,County,Carson City County,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,325102010
+06000,528376,06,,000,State,CA,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,060002010
+32000,41810,32,,000,State,NV,P012046,Female: 70 to 74 years,Age,2010,dec/sf1,2010,320002010
+39900,4662,00,,000,MSA,Reno-Sparks MSA,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,399002010
+40900,26263,00,,000,MSA,Sacramento MSA,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,409002010
+488,89958,00,,000,MSA,Sanfranciso CMSA,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,4882010
+06017,2362,06,,017,County,El Dorado County,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,060172010
+06061,5468,06,,061,County,Placer County,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,060612010
+32005,850,32,,005,County,Douglas County,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,320052010
+32031,4614,32,,031,County,Washoe County,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,320312010
+32510,923,32,,510,County,Carson City County,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,325102010
+06000,429797,06,,000,State,CA,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,060002010
+32000,29880,32,,000,State,NV,P012047,Female: 75 to 79 years,Age,2010,dec/sf1,2010,320002010
+39900,3643,00,,000,MSA,Reno-Sparks MSA,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,399002010
+40900,21484,00,,000,MSA,Sacramento MSA,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,409002010
+488,77399,00,,000,MSA,Sanfranciso CMSA,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,4882010
+06017,1881,06,,017,County,El Dorado County,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,060172010
+06061,4183,06,,061,County,Placer County,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,060612010
+32005,610,32,,005,County,Douglas County,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,320052010
+32031,3605,32,,031,County,Washoe County,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,320312010
+32510,789,32,,510,County,Carson City County,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,325102010
+06000,357837,06,,000,State,CA,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,060002010
+32000,21649,32,,000,State,NV,P012048,Female: 80 to 84 years,Age,2010,dec/sf1,2010,320002010
+39900,3612,00,,000,MSA,Reno-Sparks MSA,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,399002010
+40900,23789,00,,000,MSA,Sacramento MSA,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,409002010
+488,89946,00,,000,MSA,Sanfranciso CMSA,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,4882010
+06017,1955,06,,017,County,El Dorado County,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,060172010
+06061,4700,06,,061,County,Placer County,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,060612010
+32005,563,32,,005,County,Douglas County,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,320052010
+32031,3582,32,,031,County,Washoe County,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,320312010
+32510,853,32,,510,County,Carson City County,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,325102010
+06000,390153,06,,000,State,CA,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,060002010
+32000,19170,32,,000,State,NV,P012049,Female: 85 years and over,Age,2010,dec/sf1,2010,320002010
+39900,247924,00,,000,MSA,Reno-Sparks MSA,P12_002N,Male: Total,Age,2020,dec/dhc,2020,399002020
+40900,1170850,00,,000,MSA,Sacramento MSA,P12_002N,Male: Total,Age,2020,dec/dhc,2020,409002020
+488,4818654,00,,000,MSA,Sanfranciso CMSA,P12_002N,Male: Total,Age,2020,dec/dhc,2020,4882020
+06017,94829,06,,017,County,El Dorado County,P12_002N,Male: Total,Age,2020,dec/dhc,2020,060172020
+06061,196942,06,,061,County,Placer County,P12_002N,Male: Total,Age,2020,dec/dhc,2020,060612020
+32005,24778,32,,005,County,Douglas County,P12_002N,Male: Total,Age,2020,dec/dhc,2020,320052020
+32031,245885,32,,031,County,Washoe County,P12_002N,Male: Total,Age,2020,dec/dhc,2020,320312020
+32510,30113,32,,510,County,Carson City County,P12_002N,Male: Total,Age,2020,dec/dhc,2020,325102020
+06000,19549003,06,,000,State,CA,P12_002N,Male: Total,Age,2020,dec/dhc,2020,060002020
+32000,1553734,32,,000,State,NV,P12_002N,Male: Total,Age,2020,dec/dhc,2020,320002020
+39900,13751,00,,000,MSA,Reno-Sparks MSA,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,399002020
+40900,68688,00,,000,MSA,Sacramento MSA,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,409002020
+488,263332,00,,000,MSA,Sanfranciso CMSA,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,4882020
+06017,4403,06,,017,County,El Dorado County,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,060172020
+06061,10657,06,,061,County,Placer County,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,060612020
+32005,933,32,,005,County,Douglas County,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,320052020
+32031,13694,32,,031,County,Washoe County,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,320312020
+32510,1437,32,,510,County,Carson City County,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,325102020
+06000,1090803,06,,000,State,CA,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,060002020
+32000,89237,32,,000,State,NV,P12_003N,Male: Under 5 years,Age,2020,dec/dhc,2020,320002020
+39900,14965,00,,000,MSA,Reno-Sparks MSA,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,399002020
+40900,77432,00,,000,MSA,Sacramento MSA,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,409002020
+488,288744,00,,000,MSA,Sanfranciso CMSA,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,4882020
+06017,5430,06,,017,County,El Dorado County,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,060172020
+06061,12993,06,,061,County,Placer County,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,060612020
+32005,1193,32,,005,County,Douglas County,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,320052020
+32031,14884,32,,031,County,Washoe County,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,320312020
+32510,1509,32,,510,County,Carson City County,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,325102020
+06000,1222793,06,,000,State,CA,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,060002020
+32000,98802,32,,000,State,NV,P12_004N,Male: 5 to 9 years,Age,2020,dec/dhc,2020,320002020
+39900,15441,00,,000,MSA,Reno-Sparks MSA,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,399002020
+40900,82996,00,,000,MSA,Sacramento MSA,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,409002020
+488,312812,00,,000,MSA,Sanfranciso CMSA,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,4882020
+06017,6328,06,,017,County,El Dorado County,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,060172020
+06061,14394,06,,061,County,Placer County,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,060612020
+32005,1374,32,,005,County,Douglas County,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,320052020
+32031,15338,32,,031,County,Washoe County,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,320312020
+32510,1720,32,,510,County,Carson City County,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,325102020
+06000,1339118,06,,000,State,CA,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,060002020
+32000,105067,32,,000,State,NV,P12_005N,Male: 10 to 14 years,Age,2020,dec/dhc,2020,320002020
+39900,9127,00,,000,MSA,Reno-Sparks MSA,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,399002020
+40900,48799,00,,000,MSA,Sacramento MSA,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,409002020
+488,187072,00,,000,MSA,Sanfranciso CMSA,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,4882020
+06017,3892,06,,017,County,El Dorado County,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,060172020
+06061,8827,06,,061,County,Placer County,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,060612020
+32005,873,32,,005,County,Douglas County,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,320052020
+32031,9081,32,,031,County,Washoe County,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,320312020
+32510,1041,32,,510,County,Carson City County,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,325102020
+06000,802765,06,,000,State,CA,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,060002020
+32000,61707,32,,000,State,NV,P12_006N,Male: 15 to 17 years,Age,2020,dec/dhc,2020,320002020
+39900,7287,00,,000,MSA,Reno-Sparks MSA,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,399002020
+40900,32362,00,,000,MSA,Sacramento MSA,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,409002020
+488,125767,00,,000,MSA,Sanfranciso CMSA,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,4882020
+06017,2116,06,,017,County,El Dorado County,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,060172020
+06061,5010,06,,061,County,Placer County,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,060612020
+32005,417,32,,005,County,Douglas County,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,320052020
+32031,7254,32,,031,County,Washoe County,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,320312020
+32510,596,32,,510,County,Carson City County,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,325102020
+06000,550481,06,,000,State,CA,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,060002020
+32000,39023,32,,000,State,NV,P12_007N,Male: 18 and 19 years,Age,2020,dec/dhc,2020,320002020
+39900,3838,00,,000,MSA,Reno-Sparks MSA,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,399002020
+40900,16640,00,,000,MSA,Sacramento MSA,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,409002020
+488,61901,00,,000,MSA,Sanfranciso CMSA,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,4882020
+06017,934,06,,017,County,El Dorado County,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,060172020
+06061,2209,06,,061,County,Placer County,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,060612020
+32005,180,32,,005,County,Douglas County,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,320052020
+32031,3818,32,,031,County,Washoe County,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,320312020
+32510,321,32,,510,County,Carson City County,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,325102020
+06000,288240,06,,000,State,CA,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,060002020
+32000,20041,32,,000,State,NV,P12_008N,Male: 20 years,Age,2020,dec/dhc,2020,320002020
+39900,3827,00,,000,MSA,Reno-Sparks MSA,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,399002020
+40900,16320,00,,000,MSA,Sacramento MSA,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,409002020
+488,59212,00,,000,MSA,Sanfranciso CMSA,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,4882020
+06017,901,06,,017,County,El Dorado County,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,060172020
+06061,2109,06,,061,County,Placer County,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,060612020
+32005,206,32,,005,County,Douglas County,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,320052020
+32031,3817,32,,031,County,Washoe County,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,320312020
+32510,342,32,,510,County,Carson City County,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,325102020
+06000,279278,06,,000,State,CA,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,060002020
+32000,19541,32,,000,State,NV,P12_009N,Male: 21 years,Age,2020,dec/dhc,2020,320002020
+39900,10951,00,,000,MSA,Reno-Sparks MSA,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,399002020
+40900,46633,00,,000,MSA,Sacramento MSA,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,409002020
+488,188929,00,,000,MSA,Sanfranciso CMSA,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,4882020
+06017,2531,06,,017,County,El Dorado County,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,060172020
+06061,6019,06,,061,County,Placer County,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,060612020
+32005,477,32,,005,County,Douglas County,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,320052020
+32031,10904,32,,031,County,Washoe County,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,320312020
+32510,1023,32,,510,County,Carson City County,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,325102020
+06000,836937,06,,000,State,CA,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,060002020
+32000,59581,32,,000,State,NV,P12_010N,Male: 22 to 24 years,Age,2020,dec/dhc,2020,320002020
+39900,18188,00,,000,MSA,Reno-Sparks MSA,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,399002020
+40900,80150,00,,000,MSA,Sacramento MSA,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,409002020
+488,364917,00,,000,MSA,Sanfranciso CMSA,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,4882020
+06017,4395,06,,017,County,El Dorado County,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,060172020
+06061,9734,06,,061,County,Placer County,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,060612020
+32005,961,32,,005,County,Douglas County,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,320052020
+32031,18092,32,,031,County,Washoe County,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,320312020
+32510,1980,32,,510,County,Carson City County,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,325102020
+06000,1489276,06,,000,State,CA,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,060002020
+32000,109427,32,,000,State,NV,P12_011N,Male: 25 to 29 years,Age,2020,dec/dhc,2020,320002020
+39900,17645,00,,000,MSA,Reno-Sparks MSA,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,399002020
+40900,83420,00,,000,MSA,Sacramento MSA,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,409002020
+488,383712,00,,000,MSA,Sanfranciso CMSA,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,4882020
+06017,4973,06,,017,County,El Dorado County,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,060172020
+06061,10966,06,,061,County,Placer County,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,060612020
+32005,1204,32,,005,County,Douglas County,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,320052020
+32031,17550,32,,031,County,Washoe County,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,320312020
+32510,2092,32,,510,County,Carson City County,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,325102020
+06000,1475900,06,,000,State,CA,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,060002020
+32000,111426,32,,000,State,NV,P12_012N,Male: 30 to 34 years,Age,2020,dec/dhc,2020,320002020
+39900,16361,00,,000,MSA,Reno-Sparks MSA,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,399002020
+40900,81615,00,,000,MSA,Sacramento MSA,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,409002020
+488,364696,00,,000,MSA,Sanfranciso CMSA,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,4882020
+06017,5660,06,,017,County,El Dorado County,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,060172020
+06061,12852,06,,061,County,Placer County,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,060612020
+32005,1291,32,,005,County,Douglas County,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,320052020
+32031,16273,32,,031,County,Washoe County,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,320312020
+32510,2081,32,,510,County,Carson City County,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,325102020
+06000,1397773,06,,000,State,CA,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,060002020
+32000,108569,32,,000,State,NV,P12_013N,Male: 35 to 39 years,Age,2020,dec/dhc,2020,320002020
+39900,14366,00,,000,MSA,Reno-Sparks MSA,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,399002020
+40900,73854,00,,000,MSA,Sacramento MSA,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,409002020
+488,324461,00,,000,MSA,Sanfranciso CMSA,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,4882020
+06017,5559,06,,017,County,El Dorado County,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,060172020
+06061,12920,06,,061,County,Placer County,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,060612020
+32005,1154,32,,005,County,Douglas County,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,320052020
+32031,14263,32,,031,County,Washoe County,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,320312020
+32510,1820,32,,510,County,Carson City County,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,325102020
+06000,1258177,06,,000,State,CA,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,060002020
+32000,99731,32,,000,State,NV,P12_014N,Male: 40 to 44 years,Age,2020,dec/dhc,2020,320002020
+39900,14146,00,,000,MSA,Reno-Sparks MSA,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,399002020
+40900,70638,00,,000,MSA,Sacramento MSA,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,409002020
+488,313967,00,,000,MSA,Sanfranciso CMSA,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,4882020
+06017,5627,06,,017,County,El Dorado County,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,060172020
+06061,12499,06,,061,County,Placer County,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,060612020
+32005,1236,32,,005,County,Douglas County,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,320052020
+32031,14034,32,,031,County,Washoe County,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,320312020
+32510,1704,32,,510,County,Carson City County,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,325102020
+06000,1217684,06,,000,State,CA,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,060002020
+32000,98153,32,,000,State,NV,P12_015N,Male: 45 to 49 years,Age,2020,dec/dhc,2020,320002020
+39900,15171,00,,000,MSA,Reno-Sparks MSA,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,399002020
+40900,71298,00,,000,MSA,Sacramento MSA,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,409002020
+488,312284,00,,000,MSA,Sanfranciso CMSA,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,4882020
+06017,6230,06,,017,County,El Dorado County,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,060172020
+06061,12661,06,,061,County,Placer County,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,060612020
+32005,1451,32,,005,County,Douglas County,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,320052020
+32031,15049,32,,031,County,Washoe County,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,320312020
+32510,1967,32,,510,County,Carson City County,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,325102020
+06000,1233002,06,,000,State,CA,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,060002020
+32000,99744,32,,000,State,NV,P12_016N,Male: 50 to 54 years,Age,2020,dec/dhc,2020,320002020
+39900,16151,00,,000,MSA,Reno-Sparks MSA,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,399002020
+40900,74739,00,,000,MSA,Sacramento MSA,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,409002020
+488,309471,00,,000,MSA,Sanfranciso CMSA,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,4882020
+06017,7429,06,,017,County,El Dorado County,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,060172020
+06061,13436,06,,061,County,Placer County,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,060612020
+32005,1922,32,,005,County,Douglas County,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,320052020
+32031,15988,32,,031,County,Washoe County,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,320312020
+32510,2229,32,,510,County,Carson City County,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,325102020
+06000,1234728,06,,000,State,CA,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,060002020
+32000,100163,32,,000,State,NV,P12_017N,Male: 55 to 59 years,Age,2020,dec/dhc,2020,320002020
+39900,6472,00,,000,MSA,Reno-Sparks MSA,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,399002020
+40900,29561,00,,000,MSA,Sacramento MSA,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,409002020
+488,117577,00,,000,MSA,Sanfranciso CMSA,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,4882020
+06017,3217,06,,017,County,El Dorado County,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,060172020
+06061,5284,06,,061,County,Placer County,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,060612020
+32005,894,32,,005,County,Douglas County,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,320052020
+32031,6366,32,,031,County,Washoe County,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,320312020
+32510,944,32,,510,County,Carson City County,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,325102020
+06000,478040,06,,000,State,CA,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,060002020
+32000,38663,32,,000,State,NV,P12_018N,Male: 60 and 61 years,Age,2020,dec/dhc,2020,320002020
+39900,9447,00,,000,MSA,Reno-Sparks MSA,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,399002020
+40900,40960,00,,000,MSA,Sacramento MSA,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,409002020
+488,162545,00,,000,MSA,Sanfranciso CMSA,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,4882020
+06017,4751,06,,017,County,El Dorado County,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,060172020
+06061,7326,06,,061,County,Placer County,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,060612020
+32005,1488,32,,005,County,Douglas County,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,320052020
+32031,9312,32,,031,County,Washoe County,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,320312020
+32510,1240,32,,510,County,Carson City County,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,325102020
+06000,656912,06,,000,State,CA,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,060002020
+32000,54658,32,,000,State,NV,P12_019N,Male: 62 to 64 years,Age,2020,dec/dhc,2020,320002020
+39900,5994,00,,000,MSA,Reno-Sparks MSA,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,399002020
+40900,25657,00,,000,MSA,Sacramento MSA,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,409002020
+488,100321,00,,000,MSA,Sanfranciso CMSA,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,4882020
+06017,3009,06,,017,County,El Dorado County,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,060172020
+06061,4538,06,,061,County,Placer County,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,060612020
+32005,1023,32,,005,County,Douglas County,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,320052020
+32031,5898,32,,031,County,Washoe County,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,320312020
+32510,853,32,,510,County,Carson City County,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,325102020
+06000,406633,06,,000,State,CA,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,060002020
+32000,35251,32,,000,State,NV,P12_020N,Male: 65 and 66 years,Age,2020,dec/dhc,2020,320002020
+39900,8108,00,,000,MSA,Reno-Sparks MSA,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,399002020
+40900,33948,00,,000,MSA,Sacramento MSA,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,409002020
+488,130583,00,,000,MSA,Sanfranciso CMSA,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,4882020
+06017,4219,06,,017,County,El Dorado County,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,060172020
+06061,6484,06,,061,County,Placer County,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,060612020
+32005,1374,32,,005,County,Douglas County,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,320052020
+32031,7989,32,,031,County,Washoe County,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,320312020
+32510,1157,32,,510,County,Carson City County,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,325102020
+06000,523093,06,,000,State,CA,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,060002020
+32000,46634,32,,000,State,NV,P12_021N,Male: 67 to 69 years,Age,2020,dec/dhc,2020,320002020
+39900,11916,00,,000,MSA,Reno-Sparks MSA,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,399002020
+40900,48306,00,,000,MSA,Sacramento MSA,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,409002020
+488,184314,00,,000,MSA,Sanfranciso CMSA,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,4882020
+06017,5901,06,,017,County,El Dorado County,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,060172020
+06061,10216,06,,061,County,Placer County,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,060612020
+32005,2151,32,,005,County,Douglas County,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,320052020
+32031,11706,32,,031,County,Washoe County,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,320312020
+32510,1698,32,,510,County,Carson City County,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,325102020
+06000,727873,06,,000,State,CA,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,060002020
+32000,69689,32,,000,State,NV,P12_022N,Male: 70 to 74 years,Age,2020,dec/dhc,2020,320002020
+39900,7628,00,,000,MSA,Reno-Sparks MSA,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,399002020
+40900,30160,00,,000,MSA,Sacramento MSA,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,409002020
+488,117911,00,,000,MSA,Sanfranciso CMSA,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,4882020
+06017,3558,06,,017,County,El Dorado County,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,060172020
+06061,7073,06,,061,County,Placer County,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,060612020
+32005,1466,32,,005,County,Douglas County,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,320052020
+32031,7520,32,,031,County,Washoe County,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,320312020
+32510,1152,32,,510,County,Carson City County,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,325102020
+06000,469870,06,,000,State,CA,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,060002020
+32000,45329,32,,000,State,NV,P12_023N,Male: 75 to 79 years,Age,2020,dec/dhc,2020,320002020
+39900,4214,00,,000,MSA,Reno-Sparks MSA,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,399002020
+40900,19008,00,,000,MSA,Sacramento MSA,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,409002020
+488,74890,00,,000,MSA,Sanfranciso CMSA,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,4882020
+06017,2067,06,,017,County,El Dorado County,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,060172020
+06061,4605,06,,061,County,Placer County,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,060612020
+32005,869,32,,005,County,Douglas County,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,320052020
+32031,4156,32,,031,County,Washoe County,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,320312020
+32510,669,32,,510,County,Carson City County,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,325102020
+06000,297328,06,,000,State,CA,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,060002020
+32000,25932,32,,000,State,NV,P12_024N,Male: 80 to 84 years,Age,2020,dec/dhc,2020,320002020
+39900,2930,00,,000,MSA,Reno-Sparks MSA,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,399002020
+40900,17666,00,,000,MSA,Sacramento MSA,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,409002020
+488,69236,00,,000,MSA,Sanfranciso CMSA,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,4882020
+06017,1699,06,,017,County,El Dorado County,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,060172020
+06061,4130,06,,061,County,Placer County,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,060612020
+32005,641,32,,005,County,Douglas County,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,320052020
+32031,2899,32,,031,County,Washoe County,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,320312020
+32510,538,32,,510,County,Carson City County,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,325102020
+06000,272299,06,,000,State,CA,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,060002020
+32000,17366,32,,000,State,NV,P12_025N,Male: 85 years and over,Age,2020,dec/dhc,2020,320002020
+39900,242672,00,,000,MSA,Reno-Sparks MSA,P12_026N,Female: Total,Age,2020,dec/dhc,2020,399002020
+40900,1226532,00,,000,MSA,Sacramento MSA,P12_026N,Female: Total,Age,2020,dec/dhc,2020,409002020
+488,4895369,00,,000,MSA,Sanfranciso CMSA,P12_026N,Female: Total,Age,2020,dec/dhc,2020,4882020
+06017,96356,06,,017,County,El Dorado County,P12_026N,Female: Total,Age,2020,dec/dhc,2020,060172020
+06061,207797,06,,061,County,Placer County,P12_026N,Female: Total,Age,2020,dec/dhc,2020,060612020
+32005,24710,32,,005,County,Douglas County,P12_026N,Female: Total,Age,2020,dec/dhc,2020,320052020
+32031,240607,32,,031,County,Washoe County,P12_026N,Female: Total,Age,2020,dec/dhc,2020,320312020
+32510,28526,32,,510,County,Carson City County,P12_026N,Female: Total,Age,2020,dec/dhc,2020,325102020
+06000,19989220,06,,000,State,CA,P12_026N,Female: Total,Age,2020,dec/dhc,2020,060002020
+32000,1550880,32,,000,State,NV,P12_026N,Female: Total,Age,2020,dec/dhc,2020,320002020
+39900,12859,00,,000,MSA,Reno-Sparks MSA,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,399002020
+40900,65547,00,,000,MSA,Sacramento MSA,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,409002020
+488,251835,00,,000,MSA,Sanfranciso CMSA,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,4882020
+06017,4120,06,,017,County,El Dorado County,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,060172020
+06061,10034,06,,061,County,Placer County,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,060612020
+32005,873,32,,005,County,Douglas County,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,320052020
+32031,12788,32,,031,County,Washoe County,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,320312020
+32510,1405,32,,510,County,Carson City County,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,325102020
+06000,1046636,06,,000,State,CA,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,060002020
+32000,84795,32,,000,State,NV,P12_027N,Female: Under 5 years,Age,2020,dec/dhc,2020,320002020
+39900,13845,00,,000,MSA,Reno-Sparks MSA,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,399002020
+40900,74103,00,,000,MSA,Sacramento MSA,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,409002020
+488,276054,00,,000,MSA,Sanfranciso CMSA,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,4882020
+06017,5172,06,,017,County,El Dorado County,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,060172020
+06061,12493,06,,061,County,Placer County,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,060612020
+32005,1055,32,,005,County,Douglas County,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,320052020
+32031,13772,32,,031,County,Washoe County,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,320312020
+32510,1526,32,,510,County,Carson City County,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,325102020
+06000,1170426,06,,000,State,CA,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,060002020
+32000,93627,32,,000,State,NV,P12_028N,Female: 5 to 9 years,Age,2020,dec/dhc,2020,320002020
+39900,14710,00,,000,MSA,Reno-Sparks MSA,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,399002020
+40900,79330,00,,000,MSA,Sacramento MSA,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,409002020
+488,297232,00,,000,MSA,Sanfranciso CMSA,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,4882020
+06017,6070,06,,017,County,El Dorado County,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,060172020
+06061,13972,06,,061,County,Placer County,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,060612020
+32005,1208,32,,005,County,Douglas County,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,320052020
+32031,14589,32,,031,County,Washoe County,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,320312020
+32510,1654,32,,510,County,Carson City County,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,325102020
+06000,1274773,06,,000,State,CA,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,060002020
+32000,100117,32,,000,State,NV,P12_029N,Female: 10 to 14 years,Age,2020,dec/dhc,2020,320002020
+39900,8566,00,,000,MSA,Reno-Sparks MSA,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,399002020
+40900,46722,00,,000,MSA,Sacramento MSA,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,409002020
+488,178135,00,,000,MSA,Sanfranciso CMSA,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,4882020
+06017,3687,06,,017,County,El Dorado County,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,060172020
+06061,8252,06,,061,County,Placer County,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,060612020
+32005,754,32,,005,County,Douglas County,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,320052020
+32031,8499,32,,031,County,Washoe County,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,320312020
+32510,947,32,,510,County,Carson City County,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,325102020
+06000,763804,06,,000,State,CA,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,060002020
+32000,57936,32,,000,State,NV,P12_030N,Female: 15 to 17 years,Age,2020,dec/dhc,2020,320002020
+39900,6741,00,,000,MSA,Reno-Sparks MSA,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,399002020
+40900,31623,00,,000,MSA,Sacramento MSA,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,409002020
+488,118935,00,,000,MSA,Sanfranciso CMSA,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,4882020
+06017,1944,06,,017,County,El Dorado County,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,060172020
+06061,4562,06,,061,County,Placer County,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,060612020
+32005,437,32,,005,County,Douglas County,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,320052020
+32031,6709,32,,031,County,Washoe County,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,320312020
+32510,600,32,,510,County,Carson City County,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,325102020
+06000,527021,06,,000,State,CA,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,060002020
+32000,36673,32,,000,State,NV,P12_031N,Female: 18 and 19 years,Age,2020,dec/dhc,2020,320002020
+39900,3413,00,,000,MSA,Reno-Sparks MSA,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,399002020
+40900,16669,00,,000,MSA,Sacramento MSA,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,409002020
+488,58322,00,,000,MSA,Sanfranciso CMSA,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,4882020
+06017,916,06,,017,County,El Dorado County,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,060172020
+06061,2174,06,,061,County,Placer County,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,060612020
+32005,185,32,,005,County,Douglas County,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,320052020
+32031,3396,32,,031,County,Washoe County,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,320312020
+32510,255,32,,510,County,Carson City County,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,325102020
+06000,272599,06,,000,State,CA,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,060002020
+32000,18303,32,,000,State,NV,P12_032N,Female: 20 years,Age,2020,dec/dhc,2020,320002020
+39900,3561,00,,000,MSA,Reno-Sparks MSA,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,399002020
+40900,15611,00,,000,MSA,Sacramento MSA,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,409002020
+488,56486,00,,000,MSA,Sanfranciso CMSA,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,4882020
+06017,813,06,,017,County,El Dorado County,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,060172020
+06061,1964,06,,061,County,Placer County,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,060612020
+32005,169,32,,005,County,Douglas County,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,320052020
+32031,3549,32,,031,County,Washoe County,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,320312020
+32510,290,32,,510,County,Carson City County,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,325102020
+06000,264239,06,,000,State,CA,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,060002020
+32000,18702,32,,000,State,NV,P12_033N,Female: 21 years,Age,2020,dec/dhc,2020,320002020
+39900,10414,00,,000,MSA,Reno-Sparks MSA,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,399002020
+40900,45943,00,,000,MSA,Sacramento MSA,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,409002020
+488,177525,00,,000,MSA,Sanfranciso CMSA,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,4882020
+06017,2425,06,,017,County,El Dorado County,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,060172020
+06061,5544,06,,061,County,Placer County,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,060612020
+32005,427,32,,005,County,Douglas County,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,320052020
+32031,10369,32,,031,County,Washoe County,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,320312020
+32510,914,32,,510,County,Carson City County,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,325102020
+06000,790260,06,,000,State,CA,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,060002020
+32000,57573,32,,000,State,NV,P12_034N,Female: 22 to 24 years,Age,2020,dec/dhc,2020,320002020
+39900,16802,00,,000,MSA,Reno-Sparks MSA,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,399002020
+40900,80348,00,,000,MSA,Sacramento MSA,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,409002020
+488,345369,00,,000,MSA,Sanfranciso CMSA,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,4882020
+06017,4017,06,,017,County,El Dorado County,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,060172020
+06061,9624,06,,061,County,Placer County,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,060612020
+32005,909,32,,005,County,Douglas County,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,320052020
+32031,16719,32,,031,County,Washoe County,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,320312020
+32510,1650,32,,510,County,Carson City County,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,325102020
+06000,1425982,06,,000,State,CA,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,060002020
+32000,106315,32,,000,State,NV,P12_035N,Female: 25 to 29 years,Age,2020,dec/dhc,2020,320002020
+39900,16535,00,,000,MSA,Reno-Sparks MSA,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,399002020
+40900,83259,00,,000,MSA,Sacramento MSA,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,409002020
+488,371862,00,,000,MSA,Sanfranciso CMSA,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,4882020
+06017,4967,06,,017,County,El Dorado County,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,060172020
+06061,11403,06,,061,County,Placer County,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,060612020
+32005,1209,32,,005,County,Douglas County,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,320052020
+32031,16446,32,,031,County,Washoe County,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,320312020
+32510,1702,32,,510,County,Carson City County,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,325102020
+06000,1435674,06,,000,State,CA,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,060002020
+32000,108966,32,,000,State,NV,P12_036N,Female: 30 to 34 years,Age,2020,dec/dhc,2020,320002020
+39900,15673,00,,000,MSA,Reno-Sparks MSA,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,399002020
+40900,83934,00,,000,MSA,Sacramento MSA,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,409002020
+488,359539,00,,000,MSA,Sanfranciso CMSA,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,4882020
+06017,5773,06,,017,County,El Dorado County,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,060172020
+06061,13736,06,,061,County,Placer County,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,060612020
+32005,1217,32,,005,County,Douglas County,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,320052020
+32031,15587,32,,031,County,Washoe County,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,320312020
+32510,1626,32,,510,County,Carson City County,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,325102020
+06000,1386356,06,,000,State,CA,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,060002020
+32000,106481,32,,000,State,NV,P12_037N,Female: 35 to 39 years,Age,2020,dec/dhc,2020,320002020
+39900,14176,00,,000,MSA,Reno-Sparks MSA,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,399002020
+40900,76720,00,,000,MSA,Sacramento MSA,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,409002020
+488,327673,00,,000,MSA,Sanfranciso CMSA,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,4882020
+06017,5599,06,,017,County,El Dorado County,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,060172020
+06061,13296,06,,061,County,Placer County,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,060612020
+32005,1180,32,,005,County,Douglas County,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,320052020
+32031,14073,32,,031,County,Washoe County,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,320312020
+32510,1464,32,,510,County,Carson City County,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,325102020
+06000,1283703,06,,000,State,CA,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,060002020
+32000,98813,32,,000,State,NV,P12_038N,Female: 40 to 44 years,Age,2020,dec/dhc,2020,320002020
+39900,13855,00,,000,MSA,Reno-Sparks MSA,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,399002020
+40900,73629,00,,000,MSA,Sacramento MSA,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,409002020
+488,317239,00,,000,MSA,Sanfranciso CMSA,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,4882020
+06017,5673,06,,017,County,El Dorado County,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,060172020
+06061,13173,06,,061,County,Placer County,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,060612020
+32005,1250,32,,005,County,Douglas County,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,320052020
+32031,13740,32,,031,County,Washoe County,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,320312020
+32510,1627,32,,510,County,Carson City County,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,325102020
+06000,1260434,06,,000,State,CA,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,060002020
+32000,98486,32,,000,State,NV,P12_039N,Female: 45 to 49 years,Age,2020,dec/dhc,2020,320002020
+39900,14796,00,,000,MSA,Reno-Sparks MSA,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,399002020
+40900,75551,00,,000,MSA,Sacramento MSA,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,409002020
+488,314099,00,,000,MSA,Sanfranciso CMSA,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,4882020
+06017,6621,06,,017,County,El Dorado County,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,060172020
+06061,13400,06,,061,County,Placer County,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,060612020
+32005,1479,32,,005,County,Douglas County,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,320052020
+32031,14633,32,,031,County,Washoe County,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,320312020
+32510,1740,32,,510,County,Carson City County,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,325102020
+06000,1266135,06,,000,State,CA,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,060002020
+32000,97796,32,,000,State,NV,P12_040N,Female: 50 to 54 years,Age,2020,dec/dhc,2020,320002020
+39900,16188,00,,000,MSA,Reno-Sparks MSA,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,399002020
+40900,80396,00,,000,MSA,Sacramento MSA,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,409002020
+488,315724,00,,000,MSA,Sanfranciso CMSA,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,4882020
+06017,7995,06,,017,County,El Dorado County,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,060172020
+06061,14267,06,,061,County,Placer County,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,060612020
+32005,2180,32,,005,County,Douglas County,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,320052020
+32031,16009,32,,031,County,Washoe County,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,320312020
+32510,2069,32,,510,County,Carson City County,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,325102020
+06000,1286009,06,,000,State,CA,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,060002020
+32000,100693,32,,000,State,NV,P12_041N,Female: 55 to 59 years,Age,2020,dec/dhc,2020,320002020
+39900,6592,00,,000,MSA,Reno-Sparks MSA,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,399002020
+40900,32133,00,,000,MSA,Sacramento MSA,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,409002020
+488,122663,00,,000,MSA,Sanfranciso CMSA,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,4882020
+06017,3392,06,,017,County,El Dorado County,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,060172020
+06061,5696,06,,061,County,Placer County,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,060612020
+32005,981,32,,005,County,Douglas County,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,320052020
+32031,6499,32,,031,County,Washoe County,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,320312020
+32510,916,32,,510,County,Carson City County,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,325102020
+06000,504162,06,,000,State,CA,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,060002020
+32000,39758,32,,000,State,NV,P12_042N,Female: 60 and 61 years,Age,2020,dec/dhc,2020,320002020
+39900,9505,00,,000,MSA,Reno-Sparks MSA,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,399002020
+40900,46320,00,,000,MSA,Sacramento MSA,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,409002020
+488,173226,00,,000,MSA,Sanfranciso CMSA,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,4882020
+06017,4967,06,,017,County,El Dorado County,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,060172020
+06061,8330,06,,061,County,Placer County,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,060612020
+32005,1537,32,,005,County,Douglas County,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,320052020
+32031,9374,32,,031,County,Washoe County,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,320312020
+32510,1267,32,,510,County,Carson City County,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,325102020
+06000,710939,06,,000,State,CA,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,060002020
+32000,57587,32,,000,State,NV,P12_043N,Female: 62 to 64 years,Age,2020,dec/dhc,2020,320002020
+39900,6387,00,,000,MSA,Reno-Sparks MSA,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,399002020
+40900,29389,00,,000,MSA,Sacramento MSA,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,409002020
+488,109288,00,,000,MSA,Sanfranciso CMSA,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,4882020
+06017,3235,06,,017,County,El Dorado County,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,060172020
+06061,5410,06,,061,County,Placer County,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,060612020
+32005,1046,32,,005,County,Douglas County,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,320052020
+32031,6282,32,,031,County,Washoe County,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,320312020
+32510,863,32,,510,County,Carson City County,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,325102020
+06000,448262,06,,000,State,CA,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,060002020
+32000,37734,32,,000,State,NV,P12_044N,Female: 65 and 66 years,Age,2020,dec/dhc,2020,320002020
+39900,8494,00,,000,MSA,Reno-Sparks MSA,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,399002020
+40900,39707,00,,000,MSA,Sacramento MSA,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,409002020
+488,147650,00,,000,MSA,Sanfranciso CMSA,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,4882020
+06017,4303,06,,017,County,El Dorado County,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,060172020
+06061,7673,06,,061,County,Placer County,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,060612020
+32005,1462,32,,005,County,Douglas County,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,320052020
+32031,8383,32,,031,County,Washoe County,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,320312020
+32510,1201,32,,510,County,Carson City County,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,325102020
+06000,593087,06,,000,State,CA,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,060002020
+32000,51102,32,,000,State,NV,P12_045N,Female: 67 to 69 years,Age,2020,dec/dhc,2020,320002020
+39900,12399,00,,000,MSA,Reno-Sparks MSA,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,399002020
+40900,56728,00,,000,MSA,Sacramento MSA,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,409002020
+488,214533,00,,000,MSA,Sanfranciso CMSA,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,4882020
+06017,6033,06,,017,County,El Dorado County,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,060172020
+06061,11875,06,,061,County,Placer County,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,060612020
+32005,2110,32,,005,County,Douglas County,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,320052020
+32031,12220,32,,031,County,Washoe County,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,320312020
+32510,1773,32,,510,County,Carson City County,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,325102020
+06000,848350,06,,000,State,CA,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,060002020
+32000,75167,32,,000,State,NV,P12_046N,Female: 70 to 74 years,Age,2020,dec/dhc,2020,320002020
+39900,7870,00,,000,MSA,Reno-Sparks MSA,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,399002020
+40900,38173,00,,000,MSA,Sacramento MSA,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,409002020
+488,145676,00,,000,MSA,Sanfranciso CMSA,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,4882020
+06017,3898,06,,017,County,El Dorado County,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,060172020
+06061,8815,06,,061,County,Placer County,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,060612020
+32005,1486,32,,005,County,Douglas County,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,320052020
+32031,7768,32,,031,County,Washoe County,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,320312020
+32510,1291,32,,510,County,Carson City County,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,325102020
+06000,580860,06,,000,State,CA,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,060002020
+32000,49885,32,,000,State,NV,P12_047N,Female: 75 to 79 years,Age,2020,dec/dhc,2020,320002020
+39900,4729,00,,000,MSA,Reno-Sparks MSA,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,399002020
+40900,25477,00,,000,MSA,Sacramento MSA,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,409002020
+488,99405,00,,000,MSA,Sanfranciso CMSA,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,4882020
+06017,2307,06,,017,County,El Dorado County,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,060172020
+06061,5785,06,,061,County,Placer County,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,060612020
+32005,794,32,,005,County,Douglas County,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,320052020
+32031,4674,32,,031,County,Washoe County,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,320312020
+32510,838,32,,510,County,Carson City County,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,325102020
+06000,397230,06,,000,State,CA,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,060002020
+32000,29034,32,,000,State,NV,P12_048N,Female: 80 to 84 years,Age,2020,dec/dhc,2020,320002020
+39900,4562,00,,000,MSA,Reno-Sparks MSA,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,399002020
+40900,29220,00,,000,MSA,Sacramento MSA,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,409002020
+488,116899,00,,000,MSA,Sanfranciso CMSA,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,4882020
+06017,2429,06,,017,County,El Dorado County,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,060172020
+06061,6319,06,,061,County,Placer County,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,060612020
+32005,762,32,,005,County,Douglas County,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,320052020
+32031,4529,32,,031,County,Washoe County,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,320312020
+32510,908,32,,510,County,Carson City County,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,325102020
+06000,452279,06,,000,State,CA,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,060002020
+32000,25337,32,,000,State,NV,P12_049N,Female: 85 years and over,Age,2020,dec/dhc,2020,320002020
