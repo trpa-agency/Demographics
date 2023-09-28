@@ -1,0 +1,67 @@
+variable_code,Granular Category,Broad Category,,,,,,,
+B01001_002E,Male: Total,Total_Population,,,,,,,
+B01001_003E,Male: Under 5 years,Age_Under_18,,,,,Total_Population,,"'Total_Population',"
+B01001_004E,Male: 5 to 9 years,Age_Under_18,,,,,Total_Households,,"'Total_Households',"
+B01001_005E,Male: 10 to 14 years,Age_Under_18,,,,,Total_Disability_Population,,"'Total_Disability_Population',"
+B01001_006E,Male: 15 to 17 years,Age_Under_18,,,,,Age_Under_18,,"'Age_Under_18',"
+B01001_007E,Male: 18 and 19 years,Age_18_to_65,,,,,Age_18_to_65,,"'Age_18_to_65',"
+B01001_008E,Male: 20 years,Age_18_to_65,,,,,Age_65_and_Over,,"'Age_65_and_Over',"
+B01001_009E,Male: 21 years,Age_18_to_65,,,,,With_Disability,,"'With_Disability',"
+B01001_010E,Male: 22 to 24 years,Age_18_to_65,,,,,Vehicle_Available_0,,"'Vehicle_Available_0',"
+B01001_011E,Male: 25 to 29 years,Age_18_to_65,,,,,Vehicle_Available_1,,"'Vehicle_Available_1',"
+B01001_012E,Male: 30 to 34 years,Age_18_to_65,,,,,Vehicle_Available_2,,"'Vehicle_Available_2',"
+B01001_013E,Male: 35 to 39 years,Age_18_to_65,,,,,Vehicle_Available_3,,"'Vehicle_Available_3',"
+B01001_014E,Male: 40 to 44 years,Age_18_to_65,,,,,Vehicle_Available_4,,"'Vehicle_Available_4',"
+B01001_015E,Male: 45 to 49 years,Age_18_to_65,,,,,Vehicle_Available_5,,"'Vehicle_Available_5',"
+B01001_016E,Male: 50 to 54 years,Age_18_to_65,,,,,White_Alone,,"'White_Alone',"
+B01001_017E,Male: 55 to 59 years,Age_18_to_65,,,,,BIPOC,,"'BIPOC',"
+B01001_018E,Male: 60 and 61 years,Age_18_to_65,,,,,,,
+B01001_019E,Male: 62 to 64 years,Age_18_to_65,,,,,,,
+B01001_020E,Male: 65 and 66 years,Age_65_and_Over,,,,,,,
+B01001_021E,Male: 67 to 69 years,Age_65_and_Over,,,,,,,
+B01001_022E,Male: 70 to 74 years,Age_65_and_Over,,,,,,,
+B01001_023E,Male: 75 to 79 years,Age_65_and_Over,,,,,,,
+B01001_024E,Male: 80 to 84 years,Age_65_and_Over,,,,,,,
+B01001_025E,Male: 85 years and over,Age_65_and_Over,,,,,,,
+B01001_026E,Female: Total,Total_Population,,,,,,,
+B01001_027E,Female: Under 5 years,Age_Under_18,,,,,,,
+B01001_028E,Female: 5 to 9 years,Age_Under_18,,,,,,,
+B01001_029E,Female: 10 to 14 years,Age_Under_18,,,,,,,
+B01001_030E,Female: 15 to 17 years,Age_Under_18,,,,,,,
+B01001_031E,Female: 18 and 19 years,Age_18_to_65,,,,,,,
+B01001_032E,Female: 20 years,Age_18_to_65,,,,,,,
+B01001_033E,Female: 21 years,Age_18_to_65,,,,,,,
+B01001_034E,Female: 22 to 24 years,Age_18_to_65,,,,,,,
+B01001_035E,Female: 25 to 29 years,Age_18_to_65,,,,,,,
+B01001_036E,Female: 30 to 34 years,Age_18_to_65,,,,,,,
+B01001_037E,Female: 35 to 39 years,Age_18_to_65,,,,,,,
+B01001_038E,Female: 40 to 44 years,Age_18_to_65,,,,,,,
+B01001_039E,Female: 45 to 49 years,Age_18_to_65,,,,,,,
+B01001_040E,Female: 50 to 54 years,Age_18_to_65,,,,,,,
+B01001_041E,Female: 55 to 59 years,Age_18_to_65,,,,,,,
+B01001_042E,Female: 60 and 61 years,Age_18_to_65,,,,,,,
+B01001_043E,Female: 62 to 64 years,Age_18_to_65,,,,,,,
+B01001_044E,Female: 65 and 66 years,Age_65_and_Over,,,,,,,
+B01001_045E,Female: 67 to 69 years,Age_65_and_Over,,,,,,,
+B01001_046E,Female: 70 to 74 years,Age_65_and_Over,,,,,,,
+B01001_047E,Female: 75 to 79 years,Age_65_and_Over,,,,,,,
+B01001_048E,Female: 80 to 84 years,Age_65_and_Over,,,,,,,
+B01001_049E,Female: 85 years and over,Age_65_and_Over,,,,,,,
+B23024_001E,Total Disability Population,Total_Disability_Population,,,,,,,
+B23024_003E,Income below povety with disability,With_Disability,,,,,,,
+B23024_018E,Income above poverty with disability,With_Disability,,,,,,,
+"Household Vehicle Numbers: B25044_003E, B25044_010E",No Vehicle Available,Vehicle_Available_0,,,,,,,
+"Household Vehicle Numbers: B25044_004E, B25044_011E",1 Vehicle Available,Vehicle_Available_1,,,,,,,
+"Household Vehicle Numbers: B25044_005E, B25044_012E",2 Vehicles Available,Vehicle_Available_2,,,,,,,
+"Household Vehicle Numbers: B25044_006E, B25044_013E",3 Vehicles Available,Vehicle_Available_3,,,,,,,
+"Household Vehicle Numbers: B25044_007E, B25044_014E",4 Vehicles Available,Vehicle_Available_4,,,,,,,
+"Household Vehicle Numbers: B25044_008E, B25044_015E",5 Vehicles Available,Vehicle_Available_5,,,,,,,
+B03002_003E,Total population:  Not Hispanic or Latino; White alone,White_Alone,,,,,,,
+B03002_004E,Total population:  Not Hispanic or Latino; Black or African American alone,BIPOC,,,,,,,
+B03002_005E,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,BIPOC,,,,,,,
+B03002_006E,Total population:  Not Hispanic or Latino; Asian alone,BIPOC,,,,,,,
+B03002_007E,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,BIPOC,,,,,,,
+B03002_008E,Total population:  Not Hispanic or Latino; Some other race alone,BIPOC,,,,,,,
+B03002_009E,Total population:  Not Hispanic or Latino; Two or more races,BIPOC,,,,,,,
+B03002_012E,Total population:  Hispanic or Latino,BIPOC,,,,,,,
+B19001_001E,Total Households,Total_Households,,,,,,,
