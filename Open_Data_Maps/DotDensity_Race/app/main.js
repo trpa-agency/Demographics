@@ -118,7 +118,7 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                         outline: null,
                         referenceScale: 5777900,
                         legendOptions: {
-                            unit: "people"
+                            unit: "person"
                         },
                         attributes: [
                             {
