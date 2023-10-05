@@ -123,27 +123,27 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                         attributes: [
                             {
                                 field: "B03002_003E",
-                                color: "#f23c3f",
+                                color: "#297D7D",
                                 label: "White (non-Hispanic)"
                             },
                             {
                                 field: "B03002_012E",
-                                color: "#e8ca0d",
+                                color: "#EA6044",
                                 label: "Hispanic"
                             },
                             {
                                 field: "B03002_004E",
-                                color: "#00b6f1",
+                                color: "#85A5CC",
                                 label: "Black or African American"
                             },
                             {
                                 field: "B03002_006E",
-                                color: "#32ef94",
+                                color: "#496491",
                                 label: "Asian"
                             },
                             {
                                 field: "B03002_005E",
-                                color: "#ff7fe9",
+                                color: "#F0C602",
                                 label: "American Indian/Alaskan Native"
                             },
                             {
@@ -158,7 +158,7 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                             },
                             {
                                 field: "B03002_009E",
-                                color: "#96f7ef",
+                                color: "#92c46D",
                                 label: "Two or more races"
                             }
                         ]
