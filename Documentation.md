@@ -31,3 +31,10 @@
     3.	Those values are joined to the values in the lookup list on census variable code. 
     4.	This dataframe is then grouped by the new category name from the lookup list with a new variable code name that includes all the census variable code names that were combined to produce the new grouping. 
     5.	This is then manually appended to census_demographics.
+
+# How to use our census data in arcpro
+## Data structure
+    1. Tahoe Census Geography is a polygon featue class that covers geometries from block to census tract going back to 1990 clipped to the Tahoe basin
+    2. Census Data is a table with downloaded census values at various geometries. Each row has a variable name, variable code (from the census), along with a TRPAID which is the GEOID for that geometry added to the appropriate census geometry year for it to be joined to. These are generated as part of the download script
+    3. In order to use the data in arcpro you first need to determine what geometry and year you want to visualize and use a definition query to narrow Tahoe Census Geography and Census Data down to just the data of interest. For example if you wanted to visualize household incomes over 200k for 2021 at the census tract level you would...
+    4. You may need to create multiple layers from the census data table if you want to visualize multiple variables.
