@@ -1,0 +1,50 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Occupied Housing Units: Owner Occupied,B25003_002,Housing Units,American Community Survey,acs/acs5,B25003_002,2022,2020,tract
+Occupied Housing Units: Renter Occupied,B25003_003,Housing Units,American Community Survey,acs/acs5,B25003_003,2022,2020,tract
+Over 50%,B25070_010,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_010,2022,2020,tract
+Owner Occupied: American Indian And Alaska Native Alone Householder,B25003C_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003C_00,2022,2020,tract
+Owner Occupied: Asian Alone Householder,B25003D_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003D_00,2022,2020,tract
+Owner Occupied: Black Or African American Alone Householder,B25003B_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003B_00,2022,2020,tract
+Owner Occupied: Householder 25 To 34 Years,B25007_004,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_004,2022,2020,tract
+Owner Occupied: Householder 35 To 44 Years,B25007_005,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_005,2022,2020,tract
+Owner Occupied: Householder 45 To 54 Years,B25007_006,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_006,2022,2020,tract
+Owner Occupied: Householder 55 To 59 Years,B25007_007,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_007,2022,2020,tract
+Owner Occupied: Householder 60 To 64 Years,B25007_008,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_008,2022,2020,tract
+Owner Occupied: Householder 65 To 74 Years,B25007_009,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_009,2022,2020,tract
+Owner Occupied: Householder 75 To 84 Years,B25007_010,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_010,2022,2020,tract
+Owner Occupied: Householder 85 Years And Over,B25007_011,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_011,2022,2020,tract
+Owner Occupied: Native Hawaiian And Other Pacific Islander Alone Householder,B25003E_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003E_00,2022,2020,tract
+Owner Occupied: Some Other Race Alone Householder,B25003F_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003F_00,2022,2020,tract
+Owner Occupied: White Alone Householder,B25003A_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003A_00,2022,2020,tract
+Poverty Status of Households Above Poverty level,B17017_003,Poverty Status,American Community Survey,acs/acs5,B17017_003,2022,2020,tract
+Poverty Status of Households Below Poverty level,B17017_002,Poverty Status,American Community Survey,acs/acs5,B17017_002,2022,2020,tract
+Poverty Status of Households Total,B17017_001,Poverty Status,American Community Survey,acs/acs5,B17017_001,2022,2020,tract
+Poverty Status of Individuals Total,B17021_001,Poverty Status,American Community Survey,acs/acs5,B17021_001,2022,2020,tract
+Renter Occupied: American Indian And Alaska Native Alone Householder,B25003C_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003C_00,2022,2020,tract
+Renter Occupied: Asian Alone Householder,B25003D_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003D_00,2022,2020,tract
+Renter Occupied: Black Or African American Alone Householder,B25003B_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003B_00,2022,2020,tract
+Renter Occupied: Householder 15 To 24 Years,B25007_013,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_013,2022,2020,tract
+Renter Occupied: Householder 25 To 34 Years,B25007_014,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_014,2022,2020,tract
+Renter Occupied: Householder 35 To 44 Years,B25007_015,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_015,2022,2020,tract
+Renter Occupied: Householder 45 To 54 Years,B25007_016,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_016,2022,2020,tract
+Renter Occupied: Householder 55 To 59 Years,B25007_017,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_017,2022,2020,tract
+Renter Occupied: Householder 60 To 64 Years,B25007_018,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_018,2022,2020,tract
+Renter Occupied: Householder 65 To 74 Years,B25007_019,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_019,2022,2020,tract
+Renter Occupied: Householder 75 To 84 Years,B25007_020,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_020,2022,2020,tract
+Renter Occupied: Householder 85 Years And Over,B25007_021,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_021,2022,2020,tract
+Renter Occupied: Native Hawaiian And Other Pacific Islander Alone Householder,B25003E_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003E_00,2022,2020,tract
+Renter Occupied: Some Other Race Alone Householder,B25003F_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003F_00,2022,2020,tract
+Renter Occupied: Total,B25007_012,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_012,2022,2020,tract
+Renter Occupied: White Alone Householder,B25003A_00,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003A_00,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Not at  All""  (18 to 64)",B16004_040,Language,American Community Survey,acs/acs5,B16004_040,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Not at  All""  (5 to 17)",B16004_018,Language,American Community Survey,acs/acs5,B16004_018,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Not at  All""  (65 years and over)",B16004_062,Language,American Community Survey,acs/acs5,B16004_062,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Very Well""  (18 to 64)",B16004_037,Language,American Community Survey,acs/acs5,B16004_037,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Very Well""  (5 to 17)",B16004_015,Language,American Community Survey,acs/acs5,B16004_015,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Very Well""  (65 years and over)",B16004_059,Language,American Community Survey,acs/acs5,B16004_059,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Well""  (18 to 64)",B16004_038,Language,American Community Survey,acs/acs5,B16004_038,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Well""  (5 to 17)",B16004_016,Language,American Community Survey,acs/acs5,B16004_016,2022,2020,tract
+"Speak Asian and Pacific Island languages - Speak English ""Well""  (65 years and over)",B16004_060,Language,American Community Survey,acs/acs5,B16004_060,2022,2020,tract
+"Speak Asian and Pacific Island languages- Speak English ""Not Well""  (18 to 64)",B16004_039,Language,American Community Survey,acs/acs5,B16004_039,2022,2020,tract
+"Speak Asian and Pacific Island languages- Speak English ""Not Well""  (5 to 17)",B16004_017,Language,American Community Survey,acs/acs5,B16004_017,2022,2020,tract
+"Speak Asian and Pacific Island languages- Speak English ""Not Well""  (65 years and over)",B16004_061,Language,American Community Survey,acs/acs5,B16004_061,2022,2020,tract

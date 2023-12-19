@@ -1,0 +1,52 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+"Speak Spanish - Speak English ""Well""  (65 years and over)",B16004_050,Language,American Community Survey,acs/acs5,B16004_050,2022,2020,block group
+"Speak Spanish - Speak English ""Not Well""  (65 years and over)",B16004_051,Language,American Community Survey,acs/acs5,B16004_051,2022,2020,block group
+"Speak Spanish - Speak English ""Not at  All""  (65 years and over)",B16004_052,Language,American Community Survey,acs/acs5,B16004_052,2022,2020,block group
+"Speak other Indo-European languages - Speak English ""Very Well""  (65 years and over)",B16004_054,Language,American Community Survey,acs/acs5,B16004_054,2022,2020,block group
+"Speak other Indo-European languages - Speak English ""Well""  (65 years and over)",B16004_055,Language,American Community Survey,acs/acs5,B16004_055,2022,2020,block group
+"Speak other Indo-European languages - Speak English ""Not Well""  (65 years and over)",B16004_056,Language,American Community Survey,acs/acs5,B16004_056,2022,2020,block group
+"Speak other Indo-European languages - Speak English ""Not at  All""  (65 years and over)",B16004_057,Language,American Community Survey,acs/acs5,B16004_057,2022,2020,block group
+"Speak Asian and Pacific Island languages - Speak English ""Very Well""  (65 years and over)",B16004_059,Language,American Community Survey,acs/acs5,B16004_059,2022,2020,block group
+"Speak Asian and Pacific Island languages - Speak English ""Well""  (65 years and over)",B16004_060,Language,American Community Survey,acs/acs5,B16004_060,2022,2020,block group
+"Speak Asian and Pacific Island languages- Speak English ""Not Well""  (65 years and over)",B16004_061,Language,American Community Survey,acs/acs5,B16004_061,2022,2020,block group
+"Speak Asian and Pacific Island languages - Speak English ""Not at  All""  (65 years and over)",B16004_062,Language,American Community Survey,acs/acs5,B16004_062,2022,2020,block group
+"Speak other languages - Speak English ""Very Well""  (65 years and over)",B16004_064,Language,American Community Survey,acs/acs5,B16004_064,2022,2020,block group
+"Speak other languages - Speak English ""Well""  (65 years and over)",B16004_065,Language,American Community Survey,acs/acs5,B16004_065,2022,2020,block group
+"Speak other languages - Speak English ""Not Well""  (65 years and over)",B16004_066,Language,American Community Survey,acs/acs5,B16004_066,2022,2020,block group
+"Speak other languages - Speak English ""Not at  All""  (65 years and over)",B16004_067,Language,American Community Survey,acs/acs5,B16004_067,2022,2020,block group
+Poverty Status of Households Total,B17017_001,Poverty Status,American Community Survey,acs/acs5,B17017_001,2022,2020,block group
+Poverty Status of Households Below Poverty level,B17017_002,Poverty Status,American Community Survey,acs/acs5,B17017_002,2022,2020,block group
+Poverty Status of Households Above Poverty level,B17017_003,Poverty Status,American Community Survey,acs/acs5,B17017_003,2022,2020,block group
+Poverty Status of Individuals Total,B17021_001,Poverty Status,American Community Survey,acs/acs5,B17021_001,2022,2020,block group
+Below Poverty Status (Individuals),B17021_002,Poverty Status,American Community Survey,acs/acs5,B17021_002,2022,2020,block group
+Above Poverty Status (Individuals),B17021_019,Poverty Status,American Community Survey,acs/acs5,B17021_019,2022,2020,block group
+Total Households,B19001_001,Total Households,American Community Survey,acs/acs5,B19001_001,2022,2020,block group
+Household SNAP Receipents,B22010_002,SNAP,American Community Survey,acs/acs5,B22010_002,2022,2020,block group
+Household SNAP Receipents with Disability,B22010_003,SNAP,American Community Survey,acs/acs5,B22010_003,2022,2020,block group
+Household SNAP Receipents without Disability,B22010_004,SNAP,American Community Survey,acs/acs5,B22010_004,2022,2020,block group
+Household No SNAP,B22010_005,SNAP,American Community Survey,acs/acs5,B22010_005,2022,2020,block group
+Household No SNAP with Disability,B22010_006,SNAP,American Community Survey,acs/acs5,B22010_006,2022,2020,block group
+Household No SNAP without Disability,B22010_007,SNAP,American Community Survey,acs/acs5,B22010_007,2022,2020,block group
+Total Disability Population,B23024_001,Disability By Work,American Community Survey,acs/acs5,B23024_001,2022,2020,block group
+Income below povety with disability,B23024_003,Disability By Work,American Community Survey,acs/acs5,B23024_003,2022,2020,block group
+Income above poverty with disability,B23024_018,Disability By Work,American Community Survey,acs/acs5,B23024_018,2022,2020,block group
+Total Housing Units,B25001_001,Housing Units,American Community Survey,acs/acs5,B25001_001,2022,2020,block group
+Total Housing Units: Occupied,B25002_002,Housing Units,American Community Survey,acs/acs5,B25002_002,2022,2020,block group
+Total Housing Units: Vacant,B25002_003,Housing Units,American Community Survey,acs/acs5,B25002_003,2022,2020,block group
+Occupied Housing Units: Owner Occupied,B25003_002,Housing Units,American Community Survey,acs/acs5,B25003_002,2022,2020,block group
+Occupied Housing Units: Renter Occupied,B25003_003,Housing Units,American Community Survey,acs/acs5,B25003_003,2022,2020,block group
+Total Households Vehicles Available,B25044_001,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_001,2022,2020,block group
+Total Owner Occupied Households Vehicle Available,B25044_002,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_002,2022,2020,block group
+Total Owner Occupied Households No Vehicle Available,B25044_003,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_003,2022,2020,block group
+Total Owner Occupied Households 1 Vehicle Available,B25044_004,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_004,2022,2020,block group
+Total Owner Occupied Households 2 Vehicles Available,B25044_005,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_005,2022,2020,block group
+Total Owner Occupied Households 3 Vehicles Available,B25044_006,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_006,2022,2020,block group
+Total Owner Occupied Households 4 Vehicles Available,B25044_007,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_007,2022,2020,block group
+Total Owner Occupied Households 5 or more Vehicles Available,B25044_008,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_008,2022,2020,block group
+Total Renter Occupied Households Vehicle Available,B25044_009,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_009,2022,2020,block group
+Total Renter Occupied Households No Vehicle Available,B25044_010,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_010,2022,2020,block group
+Total Renter Occupied Households 1 Vehicle Available,B25044_011,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_011,2022,2020,block group
+Total Renter Occupied Households 2 Vehicles Available,B25044_012,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_012,2022,2020,block group
+Total Renter Occupied Households 3 Vehicles Available,B25044_013,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_013,2022,2020,block group
+Total Renter Occupied Households 4 Vehicles Available,B25044_014,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_014,2022,2020,block group
+Total Renter Occupied Households 5 or more Vehicles Available,B25044_015,Tenure by Vehicles Available,American Community Survey,acs/acs5,B25044_015,2022,2020,block group

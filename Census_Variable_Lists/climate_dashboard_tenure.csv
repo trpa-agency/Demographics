@@ -1,0 +1,48 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total: White Alone Householder,B25003A_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003A_001,2021,2020,tract
+Owner Occupied: White Alone Householder,B25003A_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003A_002,2021,2020,tract
+Renter Occupied: White Alone Householder,B25003A_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003A_003,2021,2020,tract
+Total: Black Or African American Alone Householder,B25003B_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003B_001,2021,2020,tract
+Owner Occupied: Black Or African American Alone Householder,B25003B_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003B_002,2021,2020,tract
+Renter Occupied: Black Or African American Alone Householder,B25003B_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003B_003,2021,2020,tract
+Total: American Indian And Alaska Native Alone Householder,B25003C_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003C_001,2021,2020,tract
+Owner Occupied: American Indian And Alaska Native Alone Householder,B25003C_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003C_002,2021,2020,tract
+Renter Occupied: American Indian And Alaska Native Alone Householder,B25003C_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003C_003,2021,2020,tract
+Total: Asian Alone Householder,B25003D_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003D_001,2021,2020,tract
+Owner Occupied: Asian Alone Householder,B25003D_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003D_002,2021,2020,tract
+Renter Occupied: Asian Alone Householder,B25003D_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003D_003,2021,2020,tract
+Total: Native Hawaiian And Other Pacific Islander Alone Householder,B25003E_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003E_001,2021,2020,tract
+Owner Occupied: Native Hawaiian And Other Pacific Islander Alone Householder,B25003E_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003E_002,2021,2020,tract
+Renter Occupied: Native Hawaiian And Other Pacific Islander Alone Householder,B25003E_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003E_003,2021,2020,tract
+Total: Some Other Race Alone Householder,B25003F_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003F_001,2021,2020,tract
+Owner Occupied: Some Other Race Alone Householder,B25003F_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003F_002,2021,2020,tract
+Renter Occupied: Some Other Race Alone Householder,B25003F_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003F_003,2021,2020,tract
+Total: Two Or More Races Householder,B25003G_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_001,2021,2020,tract
+Owner Occupied: Two Or More Races Householder,B25003G_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_002,2021,2020,tract
+Renter Occupied: Two Or More Races Householder,B25003G_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_003,2021,2020,tract
+"Total: White Alone, Not Hispanic Or Latino Householder",B25003H_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003H_001,2021,2020,tract
+"Owner Occupied: White Alone, Not Hispanic Or Latino Householder",B25003H_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003H_002,2021,2020,tract
+"Renter Occupied: White Alone, Not Hispanic Or Latino Householder",B25003H_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003H_003,2021,2020,tract
+Total: Hispanic Or Latino Householder,B25003I_001,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003I_001,2021,2020,tract
+Owner Occupied: Hispanic Or Latino Householder,B25003I_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003I_002,2021,2020,tract
+Renter Occupied: Hispanic Or Latino Householder,B25003I_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003I_003,2021,2020,tract
+Owner Occupied: Total,B25007_002E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_002E,2021,2020,tract
+Owner Occupied: Householder 15 To 24 Years,B25007_003E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_003E,2021,2020,tract
+Owner Occupied: Householder 25 To 34 Years,B25007_004E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_004E,2021,2020,tract
+Owner Occupied: Householder 35 To 44 Years,B25007_005E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_005E,2021,2020,tract
+Owner Occupied: Householder 45 To 54 Years,B25007_006E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_006E,2021,2020,tract
+Owner Occupied: Householder 55 To 59 Years,B25007_007E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_007E,2021,2020,tract
+Owner Occupied: Householder 60 To 64 Years,B25007_008E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_008E,2021,2020,tract
+Owner Occupied: Householder 65 To 74 Years,B25007_009E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_009E,2021,2020,tract
+Owner Occupied: Householder 75 To 84 Years,B25007_010E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_010E,2021,2020,tract
+Owner Occupied: Householder 85 Years And Over,B25007_011E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_011E,2021,2020,tract
+Renter Occupied: Total,B25007_012E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_012E,2021,2020,tract
+Renter Occupied: Householder 15 To 24 Years,B25007_013E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_013E,2021,2020,tract
+Renter Occupied: Householder 25 To 34 Years,B25007_014E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_014E,2021,2020,tract
+Renter Occupied: Householder 35 To 44 Years,B25007_015E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_015E,2021,2020,tract
+Renter Occupied: Householder 45 To 54 Years,B25007_016E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_016E,2021,2020,tract
+Renter Occupied: Householder 55 To 59 Years,B25007_017E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_017E,2021,2020,tract
+Renter Occupied: Householder 60 To 64 Years,B25007_018E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_018E,2021,2020,tract
+Renter Occupied: Householder 65 To 74 Years,B25007_019E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_019E,2021,2020,tract
+Renter Occupied: Householder 75 To 84 Years,B25007_020E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_020E,2021,2020,tract
+Renter Occupied: Householder 85 Years And Over,B25007_021E,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_021E,2021,2020,tract

@@ -1,0 +1,50 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Speak Only English (18 to 64),B16004_025,Language,American Community Survey,acs/acs5,B16004_025,2022,2020,tract
+Speak Only English (5 to 17),B16004_003,Language,American Community Survey,acs/acs5,B16004_003,2022,2020,tract
+Speak Only English (65 years and over),B16004_047,Language,American Community Survey,acs/acs5,B16004_047,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not at  All""  (18 to 64)",B16004_035,Language,American Community Survey,acs/acs5,B16004_035,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not at  All""  (5 to 17)",B16004_013,Language,American Community Survey,acs/acs5,B16004_013,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not at  All""  (65 years and over)",B16004_057,Language,American Community Survey,acs/acs5,B16004_057,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not Well""  (18 to 64)",B16004_034,Language,American Community Survey,acs/acs5,B16004_034,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not Well""  (5 to 17)",B16004_012,Language,American Community Survey,acs/acs5,B16004_012,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Not Well""  (65 years and over)",B16004_056,Language,American Community Survey,acs/acs5,B16004_056,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Very Well""  (18 to 64)",B16004_032,Language,American Community Survey,acs/acs5,B16004_032,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Very Well""  (5 to 17)",B16004_010,Language,American Community Survey,acs/acs5,B16004_010,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Very Well""  (65 years and over)",B16004_054,Language,American Community Survey,acs/acs5,B16004_054,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Well""  (18 to 64)",B16004_033,Language,American Community Survey,acs/acs5,B16004_033,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Well""  (5 to 17)",B16004_011,Language,American Community Survey,acs/acs5,B16004_011,2022,2020,tract
+"Speak other Indo-European languages - Speak English ""Well""  (65 years and over)",B16004_055,Language,American Community Survey,acs/acs5,B16004_055,2022,2020,tract
+"Speak other languages - Speak English ""Not at  All""  (18 to 64)",B16004_045,Language,American Community Survey,acs/acs5,B16004_045,2022,2020,tract
+"Speak other languages - Speak English ""Not at  All""  (5 to 17)",B16004_023,Language,American Community Survey,acs/acs5,B16004_023,2022,2020,tract
+"Speak other languages - Speak English ""Not at  All""  (65 years and over)",B16004_067,Language,American Community Survey,acs/acs5,B16004_067,2022,2020,tract
+"Speak other languages - Speak English ""Not Well""  (18 to 64)",B16004_044,Language,American Community Survey,acs/acs5,B16004_044,2022,2020,tract
+"Speak other languages - Speak English ""Not Well""  (5 to 17)",B16004_022,Language,American Community Survey,acs/acs5,B16004_022,2022,2020,tract
+"Speak other languages - Speak English ""Not Well""  (65 years and over)",B16004_066,Language,American Community Survey,acs/acs5,B16004_066,2022,2020,tract
+"Speak other languages - Speak English ""Very Well""  (18 to 64)",B16004_042,Language,American Community Survey,acs/acs5,B16004_042,2022,2020,tract
+"Speak other languages - Speak English ""Very Well""  (5 to 17)",B16004_020,Language,American Community Survey,acs/acs5,B16004_020,2022,2020,tract
+"Speak other languages - Speak English ""Very Well""  (65 years and over)",B16004_064,Language,American Community Survey,acs/acs5,B16004_064,2022,2020,tract
+"Speak other languages - Speak English ""Well""  (18 to 64)",B16004_043,Language,American Community Survey,acs/acs5,B16004_043,2022,2020,tract
+"Speak other languages - Speak English ""Well""  (5 to 17)",B16004_021,Language,American Community Survey,acs/acs5,B16004_021,2022,2020,tract
+"Speak other languages - Speak English ""Well""  (65 years and over)",B16004_065,Language,American Community Survey,acs/acs5,B16004_065,2022,2020,tract
+"Speak Spanish - Speak English ""Not at  All""  (18 to 64)",B16004_030,Language,American Community Survey,acs/acs5,B16004_030,2022,2020,tract
+"Speak Spanish - Speak English ""Not at  All""  (5 to 17)",B16004_008,Language,American Community Survey,acs/acs5,B16004_008,2022,2020,tract
+"Speak Spanish - Speak English ""Not at  All""  (65 years and over)",B16004_052,Language,American Community Survey,acs/acs5,B16004_052,2022,2020,tract
+"Speak Spanish - Speak English ""Not Well""  (18 to 64)",B16004_029,Language,American Community Survey,acs/acs5,B16004_029,2022,2020,tract
+"Speak Spanish - Speak English ""Not Well""  (5 to 17)",B16004_007,Language,American Community Survey,acs/acs5,B16004_007,2022,2020,tract
+"Speak Spanish - Speak English ""Not Well""  (65 years and over)",B16004_051,Language,American Community Survey,acs/acs5,B16004_051,2022,2020,tract
+"Speak Spanish - Speak English ""Very Well""  (18 to 64)",B16004_027,Language,American Community Survey,acs/acs5,B16004_027,2022,2020,tract
+"Speak Spanish - Speak English ""Very Well""  (5 to 17)",B16004_005,Language,American Community Survey,acs/acs5,B16004_005,2022,2020,tract
+"Speak Spanish - Speak English ""Very Well""  (65 years and over)",B16004_049,Language,American Community Survey,acs/acs5,B16004_049,2022,2020,tract
+"Speak Spanish - Speak English ""Well""  (18 to 64)",B16004_028,Language,American Community Survey,acs/acs5,B16004_028,2022,2020,tract
+"Speak Spanish - Speak English ""Well""  (5 to 17)",B16004_006,Language,American Community Survey,acs/acs5,B16004_006,2022,2020,tract
+"Speak Spanish - Speak English ""Well""  (65 years and over)",B16004_050,Language,American Community Survey,acs/acs5,B16004_050,2022,2020,tract
+Speak Spanish Total (18 to 64),B16004_026,Language,American Community Survey,acs/acs5,B16004_026,2022,2020,tract
+Speak Spanish Total (5 to 17),B16004_004,Language,American Community Survey,acs/acs5,B16004_004,2022,2020,tract
+Speak Spanish Total (65 years and over),B16004_048,Language,American Community Survey,acs/acs5,B16004_048,2022,2020,tract
+Total,B19052_001,Employment,American Community Survey,acs/acs5,B19052_001,2022,2020,tract
+Total,B08119_019,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_019,2022,2020,tract
+Total,B08119_010,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_010,2022,2020,tract
+Total,B08119_028,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_028,2022,2020,tract
+Total,B08119_046,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_046,2022,2020,tract
+Total,B08119_037,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_037,2022,2020,tract
+Total,B08119_055,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_055,2022,2020,tract
