@@ -1,0 +1,50 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Male: Total,B01001_002,Age,American Community Survey,acs/acs5,B01001_002,2022,2020,block group
+Male: Under 5 years,B01001_003,Age,American Community Survey,acs/acs5,B01001_003,2022,2020,block group
+Male: 5 to 9 years,B01001_004,Age,American Community Survey,acs/acs5,B01001_004,2022,2020,block group
+Male: 10 to 14 years,B01001_005,Age,American Community Survey,acs/acs5,B01001_005,2022,2020,block group
+Male: 15 to 17 years,B01001_006,Age,American Community Survey,acs/acs5,B01001_006,2022,2020,block group
+Male: 18 and 19 years,B01001_007,Age,American Community Survey,acs/acs5,B01001_007,2022,2020,block group
+Male: 20 years,B01001_008,Age,American Community Survey,acs/acs5,B01001_008,2022,2020,block group
+Male: 21 years,B01001_009,Age,American Community Survey,acs/acs5,B01001_009,2022,2020,block group
+Male: 22 to 24 years,B01001_010,Age,American Community Survey,acs/acs5,B01001_010,2022,2020,block group
+Male: 25 to 29 years,B01001_011,Age,American Community Survey,acs/acs5,B01001_011,2022,2020,block group
+Male: 30 to 34 years,B01001_012,Age,American Community Survey,acs/acs5,B01001_012,2022,2020,block group
+Male: 35 to 39 years,B01001_013,Age,American Community Survey,acs/acs5,B01001_013,2022,2020,block group
+Male: 40 to 44 years,B01001_014,Age,American Community Survey,acs/acs5,B01001_014,2022,2020,block group
+Male: 45 to 49 years,B01001_015,Age,American Community Survey,acs/acs5,B01001_015,2022,2020,block group
+Male: 50 to 54 years,B01001_016,Age,American Community Survey,acs/acs5,B01001_016,2022,2020,block group
+Male: 55 to 59 years,B01001_017,Age,American Community Survey,acs/acs5,B01001_017,2022,2020,block group
+Male: 60 and 61 years,B01001_018,Age,American Community Survey,acs/acs5,B01001_018,2022,2020,block group
+Male: 62 to 64 years,B01001_019,Age,American Community Survey,acs/acs5,B01001_019,2022,2020,block group
+Male: 65 and 66 years,B01001_020,Age,American Community Survey,acs/acs5,B01001_020,2022,2020,block group
+Male: 67 to 69 years,B01001_021,Age,American Community Survey,acs/acs5,B01001_021,2022,2020,block group
+Male: 70 to 74 years,B01001_022,Age,American Community Survey,acs/acs5,B01001_022,2022,2020,block group
+Male: 75 to 79 years,B01001_023,Age,American Community Survey,acs/acs5,B01001_023,2022,2020,block group
+Male: 80 to 84 years,B01001_024,Age,American Community Survey,acs/acs5,B01001_024,2022,2020,block group
+Male: 85 years and over,B01001_025,Age,American Community Survey,acs/acs5,B01001_025,2022,2020,block group
+Female: Total,B01001_026,Age,American Community Survey,acs/acs5,B01001_026,2022,2020,block group
+Female: Under 5 years,B01001_027,Age,American Community Survey,acs/acs5,B01001_027,2022,2020,block group
+Female: 5 to 9 years,B01001_028,Age,American Community Survey,acs/acs5,B01001_028,2022,2020,block group
+Female: 10 to 14 years,B01001_029,Age,American Community Survey,acs/acs5,B01001_029,2022,2020,block group
+Female: 15 to 17 years,B01001_030,Age,American Community Survey,acs/acs5,B01001_030,2022,2020,block group
+Female: 18 and 19 years,B01001_031,Age,American Community Survey,acs/acs5,B01001_031,2022,2020,block group
+Female: 20 years,B01001_032,Age,American Community Survey,acs/acs5,B01001_032,2022,2020,block group
+Female: 21 years,B01001_033,Age,American Community Survey,acs/acs5,B01001_033,2022,2020,block group
+Female: 22 to 24 years,B01001_034,Age,American Community Survey,acs/acs5,B01001_034,2022,2020,block group
+Female: 25 to 29 years,B01001_035,Age,American Community Survey,acs/acs5,B01001_035,2022,2020,block group
+Female: 30 to 34 years,B01001_036,Age,American Community Survey,acs/acs5,B01001_036,2022,2020,block group
+Female: 35 to 39 years,B01001_037,Age,American Community Survey,acs/acs5,B01001_037,2022,2020,block group
+Female: 40 to 44 years,B01001_038,Age,American Community Survey,acs/acs5,B01001_038,2022,2020,block group
+Female: 45 to 49 years,B01001_039,Age,American Community Survey,acs/acs5,B01001_039,2022,2020,block group
+Female: 50 to 54 years,B01001_040,Age,American Community Survey,acs/acs5,B01001_040,2022,2020,block group
+Female: 55 to 59 years,B01001_041,Age,American Community Survey,acs/acs5,B01001_041,2022,2020,block group
+Female: 60 and 61 years,B01001_042,Age,American Community Survey,acs/acs5,B01001_042,2022,2020,block group
+Female: 62 to 64 years,B01001_043,Age,American Community Survey,acs/acs5,B01001_043,2022,2020,block group
+Female: 65 and 66 years,B01001_044,Age,American Community Survey,acs/acs6,B01001_044,2022,2020,block group
+Female: 67 to 69 years,B01001_045,Age,American Community Survey,acs/acs7,B01001_045,2022,2020,block group
+Female: 70 to 74 years,B01001_046,Age,American Community Survey,acs/acs8,B01001_046,2022,2020,block group
+Female: 75 to 79 years,B01001_047,Age,American Community Survey,acs/acs9,B01001_047,2022,2020,block group
+Female: 80 to 84 years,B01001_048,Age,American Community Survey,acs/acs10,B01001_048,2022,2020,block group
+Female: 85 years and over,B01001_049,Age,American Community Survey,acs/acs11,B01001_049,2022,2020,block group
+Total population:  Not Hispanic or Latino; White alone,B03002_003,Race,American Community Survey,acs/acs12,B03002_003,2022,2020,block group

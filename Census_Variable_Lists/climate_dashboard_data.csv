@@ -1,0 +1,65 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Heating Methods,B25040_001,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_001,2022,2020,tract
+Utility gas,B25040_002,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_002,2022,2020,tract
+"Bottled, tank, or LP gas",B25040_003,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_003,2022,2020,tract
+Electricity,B25040_004,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_004,2022,2020,tract
+"Fuel oil, kerosene, etc.",B25040_005,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_005,2022,2020,tract
+Coal or coke,B25040_006,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_006,2022,2020,tract
+Wood,B25040_007,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_007,2022,2020,tract
+Solar energy,B25040_008,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_008,2022,2020,tract
+Other fuel,B25040_009,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_009,2022,2020,tract
+No fuel used,B25040_010,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_010,2022,2020,tract
+Total,B08119_010,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_010,2022,2020,tract
+"$1 to $9,999",B08119_011,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_011,2022,2020,tract
+"$10,000 to $14,999",B08119_012,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_012,2022,2020,tract
+"$15,000 to $24,999",B08119_013,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_013,2022,2020,tract
+"$25,000 to $34,999",B08119_014,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_014,2022,2020,tract
+"$35,000 to $49,999",B08119_015,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_015,2022,2020,tract
+"$50,000 to $64,999",B08119_016,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_016,2022,2020,tract
+"$65,000 to $74,999",B08119_017,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_017,2022,2020,tract
+"$75,000 or more",B08119_018,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_018,2022,2020,tract
+Total,B08119_019,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_019,2022,2020,tract
+"$1 to $9,999",B08119_020,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_020,2022,2020,tract
+"$10,000 to $14,999",B08119_021,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_021,2022,2020,tract
+"$15,000 to $24,999",B08119_022,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_022,2022,2020,tract
+"$25,000 to $34,999",B08119_023,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_023,2022,2020,tract
+"$35,000 to $49,999",B08119_024,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_024,2022,2020,tract
+"$50,000 to $64,999",B08119_025,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_025,2022,2020,tract
+"$65,000 to $74,999",B08119_026,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_026,2022,2020,tract
+"$75,000 or more",B08119_027,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_027,2022,2020,tract
+Total,B08119_028,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_028,2022,2020,tract
+"$1 to $9,999",B08119_029,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_029,2022,2020,tract
+"$10,000 to $14,999",B08119_030,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_030,2022,2020,tract
+"$15,000 to $24,999",B08119_031,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_031,2022,2020,tract
+"$25,000 to $34,999",B08119_032,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_032,2022,2020,tract
+"$35,000 to $49,999",B08119_033,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_033,2022,2020,tract
+"$50,000 to $64,999",B08119_034,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_034,2022,2020,tract
+"$65,000 to $74,999",B08119_035,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_035,2022,2020,tract
+"$75,000 or more",B08119_036,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_036,2022,2020,tract
+Total,B08119_037,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_037,2022,2020,tract
+"$1 to $9,999",B08119_038,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_038,2022,2020,tract
+"$10,000 to $14,999",B08119_039,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_039,2022,2020,tract
+"$15,000 to $24,999",B08119_040,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_040,2022,2020,tract
+"$25,000 to $34,999",B08119_041,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_041,2022,2020,tract
+"$35,000 to $49,999",B08119_042,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_042,2022,2020,tract
+"$50,000 to $64,999",B08119_043,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_043,2022,2020,tract
+"$65,000 to $74,999",B08119_044,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_044,2022,2020,tract
+"$75,000 or more",B08119_045,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_045,2022,2020,tract
+Total,B08119_046,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_046,2022,2020,tract
+"$1 to $9,999",B08119_047,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_047,2022,2020,tract
+"$10,000 to $14,999",B08119_048,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_048,2022,2020,tract
+"$15,000 to $24,999",B08119_049,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_049,2022,2020,tract
+"$25,000 to $34,999",B08119_050,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_050,2022,2020,tract
+"$35,000 to $49,999",B08119_051,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_051,2022,2020,tract
+"$50,000 to $64,999",B08119_052,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_052,2022,2020,tract
+"$65,000 to $74,999",B08119_053,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_053,2022,2020,tract
+"$75,000 or more",B08119_054,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_054,2022,2020,tract
+Total,B08119_055,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_055,2022,2020,tract
+"$1 to $9,999",B08119_056,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_056,2022,2020,tract
+"$10,000 to $14,999",B08119_057,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_057,2022,2020,tract
+"$15,000 to $24,999",B08119_058,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_058,2022,2020,tract
+"$25,000 to $34,999",B08119_059,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_059,2022,2020,tract
+"$35,000 to $49,999",B08119_060,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_060,2022,2020,tract
+"$50,000 to $64,999",B08119_061,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_061,2022,2020,tract
+"$65,000 to $74,999",B08119_062,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_062,2022,2020,tract
+"$75,000 or more",B08119_063,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_063,2022,2020,tract

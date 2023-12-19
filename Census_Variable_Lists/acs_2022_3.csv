@@ -1,0 +1,50 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Female: Under 5 years,B01001_027,Age,American Community Survey,acs/acs5,B01001_027,2022,2020,tract
+Household No SNAP,B22010_005,SNAP,American Community Survey,acs/acs5,B22010_005,2022,2020,tract
+Household No SNAP with Disability,B22010_006,SNAP,American Community Survey,acs/acs5,B22010_006,2022,2020,tract
+Household No SNAP without Disability,B22010_007,SNAP,American Community Survey,acs/acs5,B22010_007,2022,2020,tract
+Household SNAP Receipents,B22010_002,SNAP,American Community Survey,acs/acs5,B22010_002,2022,2020,tract
+Household SNAP Receipents with Disability,B22010_003,SNAP,American Community Survey,acs/acs5,B22010_003,2022,2020,tract
+Household SNAP Receipents without Disability,B22010_004,SNAP,American Community Survey,acs/acs5,B22010_004,2022,2020,tract
+Income above poverty with disability,B23024_018,Disability By Work,American Community Survey,acs/acs5,B23024_018,2022,2020,tract
+Income below povety with disability,B23024_003,Disability By Work,American Community Survey,acs/acs5,B23024_003,2022,2020,tract
+Language Spoken at Home Total,B16004_001,Language,American Community Survey,acs/acs5,B16004_001,2022,2020,tract
+Language Spoken at Home Total (18 to 64),B16004_024,Language,American Community Survey,acs/acs5,B16004_024,2022,2020,tract
+Language Spoken at Home Total (5 to 17),B16004_002,Language,American Community Survey,acs/acs5,B16004_002,2022,2020,tract
+Language Spoken at Home Total (65 years and over),B16004_046,Language,American Community Survey,acs/acs5,B16004_046,2022,2020,tract
+"Less than $10,000",B19001_002,Household Income,American Community Survey,acs/acs5,B19001_002,2022,2020,tract
+Less than 10%,B25070_002,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_002,2022,2020,tract
+Living in a place,B08008_002,Workers by Place of Work,American Community Survey,acs/acs5,B08008_002,2022,2020,tract
+Living in a place: Worked in place of residence,B08008_003,Workers by Place of Work,American Community Survey,acs/acs5,B08008_003,2022,2020,tract
+Living in a place: Worked outside place of residence,B08008_004,Workers by Place of Work,American Community Survey,acs/acs5,B08008_004,2022,2020,tract
+Male: 10 to 14 years,B01001_005,Age,American Community Survey,acs/acs5,B01001_005,2022,2020,tract
+Male: 15 to 17 years,B01001_006,Age,American Community Survey,acs/acs5,B01001_006,2022,2020,tract
+Male: 18 and 19 years,B01001_007,Age,American Community Survey,acs/acs5,B01001_007,2022,2020,tract
+Male: 20 years,B01001_008,Age,American Community Survey,acs/acs5,B01001_008,2022,2020,tract
+Male: 21 years,B01001_009,Age,American Community Survey,acs/acs5,B01001_009,2022,2020,tract
+Male: 22 to 24 years,B01001_010,Age,American Community Survey,acs/acs5,B01001_010,2022,2020,tract
+Male: 25 to 29 years,B01001_011,Age,American Community Survey,acs/acs5,B01001_011,2022,2020,tract
+Male: 30 to 34 years,B01001_012,Age,American Community Survey,acs/acs5,B01001_012,2022,2020,tract
+Male: 35 to 39 years,B01001_013,Age,American Community Survey,acs/acs5,B01001_013,2022,2020,tract
+Male: 40 to 44 years,B01001_014,Age,American Community Survey,acs/acs5,B01001_014,2022,2020,tract
+Male: 45 to 49 years,B01001_015,Age,American Community Survey,acs/acs5,B01001_015,2022,2020,tract
+Male: 5 to 9 years,B01001_004,Age,American Community Survey,acs/acs5,B01001_004,2022,2020,tract
+Male: 50 to 54 years,B01001_016,Age,American Community Survey,acs/acs5,B01001_016,2022,2020,tract
+Male: 55 to 59 years,B01001_017,Age,American Community Survey,acs/acs5,B01001_017,2022,2020,tract
+Male: 60 and 61 years,B01001_018,Age,American Community Survey,acs/acs5,B01001_018,2022,2020,tract
+Male: 62 to 64 years,B01001_019,Age,American Community Survey,acs/acs5,B01001_019,2022,2020,tract
+Male: 65 and 66 years,B01001_020,Age,American Community Survey,acs/acs5,B01001_020,2022,2020,tract
+Male: 67 to 69 years,B01001_021,Age,American Community Survey,acs/acs5,B01001_021,2022,2020,tract
+Male: 70 to 74 years,B01001_022,Age,American Community Survey,acs/acs5,B01001_022,2022,2020,tract
+Male: 75 to 79 years,B01001_023,Age,American Community Survey,acs/acs5,B01001_023,2022,2020,tract
+Male: 80 to 84 years,B01001_024,Age,American Community Survey,acs/acs5,B01001_024,2022,2020,tract
+Male: 85 years and over,B01001_025,Age,American Community Survey,acs/acs5,B01001_025,2022,2020,tract
+Male: Total,B01001_002,Age,American Community Survey,acs/acs5,B01001_002,2022,2020,tract
+Male: Under 5 years,B01001_003,Age,American Community Survey,acs/acs5,B01001_003,2022,2020,tract
+Median Gross Rent,B25063_001,Rent (Median),American Community Survey,acs/acs5,B25063_001,2022,2020,tract
+Median home value,B25075_001,Home Value (Median),American Community Survey,acs/acs5,B25075_001,2022,2020,tract
+Median Home Value,B25077_001,Home Values (Median),American Community Survey,acs/acs5,B25077_001,2022,2020,tract
+Median Household Income,B06011_001,Income (Median),American Community Survey,acs/acs5,B06011_001,2022,2020,tract
+No wage or salary income,B19052_003,Employment,American Community Survey,acs/acs5,B19052_003,2022,2020,tract
+Not Computed,B25070_011,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_011,2022,2020,tract
+Not living in a place,B08008_005,Workers by Place of Work,American Community Survey,acs/acs5,B08008_005,2022,2020,tract
