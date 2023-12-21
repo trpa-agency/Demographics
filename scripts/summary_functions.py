@@ -1,4 +1,5 @@
 import pandas as pd
+from arcgis.features import FeatureLayer
 
 def create_or_append_df(df, summary_df):
     if df.empty:
@@ -96,7 +97,8 @@ def calculate_median_value(df, bin_column, sort_column, count_column, category_f
     return summary_df
 
 def categorize_values(census_df, category_csv, category_column, grouping_prefix):
-    categories = pd.read_csv(category_csv)    
+    categories = pd.read_csv(category_csv)
+    census_df = census_df.loc[census_df['variable_code'].isin(categories['variable_code'])]    
     census_df['value'] = census_df['value'].astype(float)
     joined_data = census_df.merge(categories, on = 'variable_code', how = 'left')
     joined_data.sort_values(by='variable_code', inplace=True)
@@ -155,3 +157,8 @@ def sum_multiple_variables(df, variable_list, variable_category):
         summed_df = sum_across_levels(df,variable, variable_category)
         df_values = create_or_append_df(df_values, summed_df)
     return df_values
+
+def categorize_values_yearly (df, year, grouping_csv, category_column, grouping_prefix):
+    variables = pd.read_csv(grouping_csv)
+    df_filtered = df.loc[(df['variable_code'].isin(variables['variable_code']))&(df['year_sample']==year)]
+    categorized_df = categorize_values(df,grouping_csv,category_column,grouping_prefix)
