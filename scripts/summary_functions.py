@@ -126,6 +126,11 @@ def categorize_values(census_df, category_csv, category_column, grouping_prefix)
     grouped_data= grouped_data[columns_to_keep]
     return grouped_data
 
+def calculate_sum_and_margin_of_error(group):
+    sum_of_values = group['value'].sum()
+    total_moe = group['Value'].apply(lambda x: x**2).sum()**0.5
+    return pd.Series({'value':sum_of_values,'MarginOfError':total_moe})
+
 def sum_across_levels(df, variable_name, category_name):
     filtered_df = df.loc[(df['variable_name']==variable_name)]
     basin_summary = filtered_df.groupby([ 'dataset', 'sample_level', 'variable_name', 'variable_code', 'year_sample'], as_index=False).sum(['value'])
@@ -138,6 +143,35 @@ def sum_across_levels(df, variable_name, category_name):
     north_south_summary['Geography'] = north_south_summary['north_south']
     state_summary['Geography'] = state_summary['state_name']
     columns_to_keep = ['variable_code','variable_name', 'value', 'Geography', 'year_sample', 'dataset', 'sample_level']
+    basin_summary= basin_summary[columns_to_keep]
+    county_summary = county_summary[columns_to_keep]
+    north_south_summary = north_south_summary[columns_to_keep]
+    state_summary = state_summary[columns_to_keep]
+    combined_summary = pd.concat([basin_summary, county_summary, north_south_summary, state_summary], ignore_index=True)
+    #if neighborhood_yn == 'Yes':
+    #    neighborhood_summary = filtered_df.groupby(['dataset', 'sample_level', 'variable_name', 'variable_code', 'year_sample', 'NEIGHBORHOOD'], as_index=False).sum(['value'])
+        #basin_summary.rename(columns = {'variable_code': 'Code', 'year_sample': 'Year'})
+    #    neighborhood_summary['Geography'] = neighborhood_summary['NEIGHBORHOOD']
+    #    combined_summary = pd.concat([combined_summary, neighborhood_summary], ignore_index=True)
+    combined_summary['Category'] = category_name
+    return combined_summary
+
+def sum_across_levels_moe(df, variable_name, category_name):
+    filtered_df = df.loc[(df['variable_name']==variable_name)]
+    grouping_variables_basin = [ 'dataset', 'sample_level', 'variable_name', 'variable_code', 'year_sample']
+    grouping_variables_county = grouping_variables_basin + ['county_name']
+    grouping_variables_north_south = grouping_variables_basin + ['north_south']
+    grouping_variables_state = grouping_variables_basin + ['state_name']
+    basin_summary = filtered_df.groupby(grouping_variables_basin, as_index=False).apply(calculate_sum_and_margin_of_error)
+    county_summary = filtered_df.groupby(grouping_variables_county, as_index=False).apply(calculate_sum_and_margin_of_error)
+    north_south_summary = filtered_df.groupby(grouping_variables_north_south, as_index=False).apply(calculate_sum_and_margin_of_error)
+    state_summary = filtered_df.groupby(grouping_variables_state, as_index=False).apply(calculate_sum_and_margin_of_error)
+    #basin_summary.rename(columns = {'variable_code': 'Code', 'year_sample': 'Year'})
+    basin_summary['Geography'] = 'Basin'
+    county_summary['Geography'] = county_summary['county_name'] 
+    north_south_summary['Geography'] = north_south_summary['north_south']
+    state_summary['Geography'] = state_summary['state_name']
+    columns_to_keep = ['variable_code','variable_name', 'value', 'MarginOfError', 'Geography', 'year_sample', 'dataset', 'sample_level']
     basin_summary= basin_summary[columns_to_keep]
     county_summary = county_summary[columns_to_keep]
     north_south_summary = north_south_summary[columns_to_keep]
