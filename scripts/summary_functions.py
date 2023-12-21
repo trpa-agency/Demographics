@@ -128,7 +128,7 @@ def categorize_values(census_df, category_csv, category_column, grouping_prefix)
 
 def calculate_sum_and_margin_of_error(group):
     sum_of_values = group['value'].sum()
-    total_moe = group['Value'].apply(lambda x: x**2).sum()**0.5
+    total_moe = group['MarginOfError'].apply(lambda x: x**2).sum()**0.5
     return pd.Series({'value':sum_of_values,'MarginOfError':total_moe})
 
 def sum_across_levels(df, variable_name, category_name):
