@@ -132,6 +132,7 @@ def calculate_sum_and_margin_of_error(group):
     total_moe = group['MarginOfError'].apply(lambda x: x**2).sum()**0.5
     return pd.Series({'value':sum_of_values,'MarginOfError':total_moe})
 
+
 def sum_across_levels(df, variable_name, category_name):
     filtered_df = df.loc[(df['variable_name']==variable_name)]
     basin_summary = filtered_df.groupby([ 'dataset', 'sample_level', 'variable_name', 'variable_code', 'year_sample'], as_index=False).sum(['value'])
@@ -197,3 +198,71 @@ def categorize_values_yearly (df, year, grouping_csv, category_column, grouping_
     variables = pd.read_csv(grouping_csv)
     df_filtered = df.loc[(df['variable_code'].isin(variables['variable_code']))&(df['year_sample']==year)]
     categorized_df = categorize_values(df,grouping_csv,category_column,grouping_prefix)
+
+
+def calculate_median_value_with_moe(df, bin_column, sort_column, count_column, category_field, category,grouping_variables, cumulative_sorting_variables, design_factor):
+        # Create a new DataFrame to avoid modifying the original one
+    #change value to count column
+    #Do we need to handle excluding non-tahoe things here or should we do it in the input?
+    summary_df = df.copy()
+    summary_df[count_column]=summary_df[count_column].astype(int)
+    #summary_df=summary_df.loc[summary_df[count_column]!='510']
+    summary_df = summary_df.groupby(grouping_variables)[count_column].sum()
+    summary_df = summary_df.reset_index()
+    #This handles -6666 values that they sometimes add for unknown data
+    summary_df = summary_df.loc[summary_df[count_column]>=0]
+    
+    
+    summary_df= summary_df.loc[summary_df[category_field]==category]
+    # Sort the DataFrame based on the variable name column
+    # This depends on the fact that census variables start with the lowest value and go up 
+    #This needs to all be rethought to have some kind of window function to handle multiple years
+    summary_df.sort_values(by=sort_column, inplace=True)
+    summary_df = summary_df.reset_index()
+    
+    # Extract lower and upper limits from bin categories
+    #This uses regex to find numbers and removes commas to make numbers numbers 
+    pattern = r'(\d+[\d,]*)'
+    summary_df['temp'] = summary_df[bin_column].str.replace(',', '').str.findall(pattern)
+    #Looks for values that have two numbers and puts empty placeholders for the ones that only have one (upper and lower)
+    summary_df[['Lower', 'Upper']] = summary_df['temp'].apply(lambda x: pd.Series(x[:2]) if len(x) == 2 else pd.Series([None, None]))
+    summary_df['Lower'] = summary_df['Lower'].astype(float)
+    summary_df['Upper'] = summary_df['Upper'].astype(float)
+    # Handle first category
+    
+    first_upper = float(summary_df['temp'].iloc[0][0])
+    low_variable_name = summary_df[bin_column].iloc[0]
+
+    summary_df.loc[summary_df[bin_column]==low_variable_name,'Lower'] = 0  # Set lower value to 0
+    summary_df.loc[summary_df[bin_column]==low_variable_name,'Upper'] = first_upper
+
+    
+    # Handle last category
+    
+    last_lower = float(summary_df['temp'].iloc[-1][0])
+    upper_variable_name = summary_df[bin_column].iloc[-1]
+    summary_df.loc[summary_df[bin_column]==upper_variable_name,'Lower'] = last_lower
+    summary_df.loc[summary_df[bin_column]==upper_variable_name,'Upper'] = np.inf  # Set upper value to infinity
+    summary_df[count_column]= summary_df[count_column].astype(float)   
+    # Calculate cumulative count
+    cumulative_grouping_variables = grouping_variables
+
+    cumulative_grouping_variables.remove(bin_column)
+    cumulative_grouping_variables.remove(sort_column)
+
+    #Update this to be parameterized
+    
+    summary_df.sort_values(by=cumulative_sorting_variables, inplace=True)
+    summary_df = summary_df.reset_index()
+    summary_df['cumulative_sum'] = summary_df.groupby(cumulative_grouping_variables, as_index=False)[count_column].cumsum()
+    summary_df['TotalSum'] = summary_df.groupby(cumulative_grouping_variables, as_index=False)[count_column].transform('sum')
+    summary_df['previous_cumulative'] = summary_df['cumulative_sum'].shift()
+
+    summary_df = summary_df.loc[summary_df['cumulative_sum']>=(summary_df['TotalSum']/2)].groupby(cumulative_grouping_variables, as_index=False).first()
+
+    summary_df['cumulative_difference'] = summary_df['TotalSum']  / 2 - summary_df['previous_cumulative']
+    summary_df['interpolation_ratio'] = summary_df['cumulative_difference'] /  (summary_df['cumulative_sum']- summary_df['previous_cumulative'])
+    summary_df['median_value'] = summary_df['Lower'] + summary_df['interpolation_ratio'] * (summary_df['Upper'] - summary_df['Lower'])
+    summary_df['StandardError']=design_factor*((95/(5*summary_df['TotalSum']))*(50**2))**.5
+    
+    return summary_df
