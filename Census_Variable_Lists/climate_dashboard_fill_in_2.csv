@@ -1,0 +1,5 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied: Two Or More Races Householder,B25003G_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_003,2021,2020,tract
+Owner Occupied: Two Or More Races Householder,B25003G_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_002,2021,2020,tract
+Renter Occupied: Two Or More Races Householder,B25003G_003,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_003,2022,2020,tract
+Owner Occupied: Two Or More Races Householder,B25003G_002,Tenure By Race Of Householder,American Community Survey,acs/acs5,B25003G_002,2022,2020,tract
