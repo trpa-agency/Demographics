@@ -1,0 +1,9 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Employees,EMP,Employment,County Business Patterns,cbp,EMP,2021,2020,ZIP CODE
+Total Employees,EMP,Employment,County Business Patterns,cbp,EMP,2020,2020,ZIP CODE
+Total Employees,EMP,Employment,County Business Patterns,cbp,EMP,2019,2010,ZIP CODE
+Total Employees,EMP,Employment,County Business Patterns,cbp,EMP,2018,2010,ZIP CODE
+Number of Establishments,ESTAB,Businesses,County Business Patterns,cbp,ESTAB,2021,2020,ZIP CODE
+Number of Establishments,ESTAB,Businesses,County Business Patterns,cbp,ESTAB,2020,2020,ZIP CODE
+Number of Establishments,ESTAB,Businesses,County Business Patterns,cbp,ESTAB,2019,2010,ZIP CODE
+Number of Establishments,ESTAB,Businesses,County Business Patterns,cbp,ESTAB,2018,2010,ZIP CODE

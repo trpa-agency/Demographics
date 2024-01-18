@@ -1,0 +1,9 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+"$1 to $9,999",B08119_056,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_056,2021,2020,tract
+"$10,000 to $14,999",B08119_057,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_057,2021,2020,tract
+"$15,000 to $24,999",B08119_058,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_058,2021,2020,tract
+"$25,000 to $34,999",B08119_059,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_059,2021,2020,tract
+"$35,000 to $49,999",B08119_060,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_060,2021,2020,tract
+"$50,000 to $64,999",B08119_061,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_061,2021,2020,tract
+"$65,000 to $74,999",B08119_062,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_062,2021,2020,tract
+"$75,000 or more",B08119_063,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_063,2021,2020,tract

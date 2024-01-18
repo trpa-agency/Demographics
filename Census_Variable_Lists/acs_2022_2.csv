@@ -1,0 +1,50 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+"$60,000 to $74,999",B19001_012,Household Income,American Community Survey,acs/acs5,B19001_012,2022,2020,tract
+"$65,000 to $74,999",B08119_026,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_026,2022,2020,tract
+"$65,000 to $74,999",B08119_017,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_017,2022,2020,tract
+"$65,000 to $74,999",B08119_035,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_035,2022,2020,tract
+"$65,000 to $74,999",B08119_053,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_053,2022,2020,tract
+"$65,000 to $74,999",B08119_044,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_044,2022,2020,tract
+"$65,000 to $74,999",B08119_062,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_062,2022,2020,tract
+"$75,000 or more",B08119_027,"Transportation Mode: Car, truck, or van - carpooled",American Community Survey,acs/acs5,B08119_027,2022,2020,tract
+"$75,000 or more",B08119_018,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_018,2022,2020,tract
+"$75,000 or more",B08119_036,Transportation Mode: Public transportation (excluding taxicab),American Community Survey,acs/acs5,B08119_036,2022,2020,tract
+"$75,000 or more",B08119_054,"Transportation Mode: Taxicab, motorcycle, bicycle, or other means",American Community Survey,acs/acs5,B08119_054,2022,2020,tract
+"$75,000 or more",B08119_045,Transportation Mode: Walked,American Community Survey,acs/acs5,B08119_045,2022,2020,tract
+"$75,000 or more",B08119_063,Transportation Mode: Worked from home,American Community Survey,acs/acs5,B08119_063,2022,2020,tract
+"$75,000 to $99,999",B19001_013,Household Income,American Community Survey,acs/acs5,B19001_013,2022,2020,tract
+100 to 149 percent of the poverty level,B06012_003,Poverty,American Community Survey,acs/acs5,B06012_003,2022,2020,tract
+10-14.9%,B25070_003,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_003,2022,2020,tract
+15-19.9%,B25070_004,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_004,2022,2020,tract
+20-24.9%,B25070_005,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_005,2022,2020,tract
+25-29.9%,B25070_006,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_006,2022,2020,tract
+30-34.9%,B25070_007,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_007,2022,2020,tract
+35-39.9%,B25070_008,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_008,2022,2020,tract
+40-49.9%,B25070_009,Gross Rent as Percentage of Household Income,American Community Survey,acs/acs5,B25070_009,2022,2020,tract
+Above Poverty Status (Individuals),B17021_019,Poverty Status,American Community Survey,acs/acs5,B17021_019,2022,2020,tract
+At or Above 150 percent of the poverty level,B06012_004,Poverty,American Community Survey,acs/acs5,B06012_004,2022,2020,tract
+Below 100 percent of Poverty Threshold,B06012_002,Poverty,American Community Survey,acs/acs5,B06012_002,2022,2020,tract
+Below Poverty Status (Individuals),B17021_002,Poverty Status,American Community Survey,acs/acs5,B17021_002,2022,2020,tract
+Female: 10 to 14 years,B01001_029,Age,American Community Survey,acs/acs5,B01001_029,2022,2020,tract
+Female: 15 to 17 years,B01001_030,Age,American Community Survey,acs/acs5,B01001_030,2022,2020,tract
+Female: 18 and 19 years,B01001_031,Age,American Community Survey,acs/acs5,B01001_031,2022,2020,tract
+Female: 20 years,B01001_032,Age,American Community Survey,acs/acs5,B01001_032,2022,2020,tract
+Female: 21 years,B01001_033,Age,American Community Survey,acs/acs5,B01001_033,2022,2020,tract
+Female: 22 to 24 years,B01001_034,Age,American Community Survey,acs/acs5,B01001_034,2022,2020,tract
+Female: 25 to 29 years,B01001_035,Age,American Community Survey,acs/acs5,B01001_035,2022,2020,tract
+Female: 30 to 34 years,B01001_036,Age,American Community Survey,acs/acs5,B01001_036,2022,2020,tract
+Female: 35 to 39 years,B01001_037,Age,American Community Survey,acs/acs5,B01001_037,2022,2020,tract
+Female: 40 to 44 years,B01001_038,Age,American Community Survey,acs/acs5,B01001_038,2022,2020,tract
+Female: 45 to 49 years,B01001_039,Age,American Community Survey,acs/acs5,B01001_039,2022,2020,tract
+Female: 5 to 9 years,B01001_028,Age,American Community Survey,acs/acs5,B01001_028,2022,2020,tract
+Female: 50 to 54 years,B01001_040,Age,American Community Survey,acs/acs5,B01001_040,2022,2020,tract
+Female: 55 to 59 years,B01001_041,Age,American Community Survey,acs/acs5,B01001_041,2022,2020,tract
+Female: 60 and 61 years,B01001_042,Age,American Community Survey,acs/acs5,B01001_042,2022,2020,tract
+Female: 62 to 64 years,B01001_043,Age,American Community Survey,acs/acs5,B01001_043,2022,2020,tract
+Female: 65 and 66 years,B01001_044,Age,American Community Survey,acs/acs5,B01001_044,2022,2020,tract
+Female: 67 to 69 years,B01001_045,Age,American Community Survey,acs/acs5,B01001_045,2022,2020,tract
+Female: 70 to 74 years,B01001_046,Age,American Community Survey,acs/acs5,B01001_046,2022,2020,tract
+Female: 75 to 79 years,B01001_047,Age,American Community Survey,acs/acs5,B01001_047,2022,2020,tract
+Female: 80 to 84 years,B01001_048,Age,American Community Survey,acs/acs5,B01001_048,2022,2020,tract
+Female: 85 years and over,B01001_049,Age,American Community Survey,acs/acs5,B01001_049,2022,2020,tract
+Female: Total,B01001_026,Age,American Community Survey,acs/acs5,B01001_026,2022,2020,tract
