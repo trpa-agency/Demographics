@@ -1,0 +1,4 @@
+Variable_Name,Variable_Code,Noise_Flag
+Total Employees,EMP,EMP_N_F
+Total First Quarter Payroll,PAYQTR1,PAYQTR1_N_F
+Annual Payroll,PAYANN,PAYANN_N_F
