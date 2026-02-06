@@ -1,4 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Below 100 percent of Poverty Threshold,B06012_002,Poverty,American Community Survey,acs/acs5,B06012_002,2020,2020,tract
-100 to 149 percent of the poverty level,B06012_003,Poverty,American Community Survey,acs/acs5,B06012_003,2020,2020,tract
-At or Above 150 percent of the poverty level,B06012_004,Poverty,American Community Survey,acs/acs5,B06012_004,2020,2020,tract

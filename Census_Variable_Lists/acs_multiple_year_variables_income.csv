@@ -1,3 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Worked From Home,B08119_055,Employment,American Community Survey,acs/acs5,B08119_055,2020,2020,tract
-"Worked from home More than $75,000",B08119_063,Employment,American Community Survey,acs/acs5,B08119_063,2020,2020,tract

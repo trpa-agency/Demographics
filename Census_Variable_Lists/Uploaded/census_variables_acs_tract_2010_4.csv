@@ -1,5 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-"$200,000 or more",B19001_017,Household Income,American Community Survey,acs/acs5,B19001_017,2010,2010,tract
-"Less than $10,000",B19001_002,Household Income,American Community Survey,acs/acs5,B19001_002,2010,2010,tract
-Median Household Income,B06011_001,Income (Median),American Community Survey,acs/acs5,B06011_001,2010,2010,tract
-Total Household Income,B19001_001,Income (Median),American Community Survey,acs/acs5,B19001_001,2010,2010,tract

@@ -1,9 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Renter Occupied: Householder 25 To 34 Years,B25007_014,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_014,2021,2020,tract
-Renter Occupied: Householder 35 To 44 Years,B25007_015,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_015,2021,2020,tract
-Renter Occupied: Householder 45 To 54 Years,B25007_016,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_016,2021,2020,tract
-Renter Occupied: Householder 55 To 59 Years,B25007_017,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_017,2021,2020,tract
-Renter Occupied: Householder 60 To 64 Years,B25007_018,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_018,2021,2020,tract
-Renter Occupied: Householder 65 To 74 Years,B25007_019,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_019,2021,2020,tract
-Renter Occupied: Householder 75 To 84 Years,B25007_020,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_020,2021,2020,tract
-Renter Occupied: Householder 85 Years And Over,B25007_021,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_021,2021,2020,tract

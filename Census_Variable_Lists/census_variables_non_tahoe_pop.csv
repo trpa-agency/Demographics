@@ -1,4 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Total Population,DP1_0001C,Population,Dec,dec/dp,DP1_0001C,2020,2020,tract
-Total Population,P001001,Population,dec/sf1,dec/sf1,P001001,2010,2010,tract
-Total Population,P001001,Population,dec,dec/sf1,P001001,2000,2000,tract

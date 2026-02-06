@@ -1,7 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Coal or coke,B25040_006,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_006,2021,2020,tract
-Wood,B25040_007,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_007,2021,2020,tract
-Solar energy,B25040_008,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_008,2021,2020,tract
-Other fuel,B25040_009,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_009,2021,2020,tract
-No fuel used,B25040_010,HOUSE HEATING FUEL,American Community Survey,acs/acs5,B25040_010,2021,2020,tract
-Total,B08119_010,"Transportation Mode: Car, truck, or van - drove alone",American Community Survey,acs/acs5,B08119_010,2021,2020,tract

@@ -1,6 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Total Population,P001001,Population,dec/sf1,dec/sf1,P001001,2010,2010,block
-Total Housing Units,H001001,Housing Units,dec/sf1,dec/sf1,H001001,2010,2010,block
-Occupied Units,H003002,Housing Units,dec/sf1,dec/sf1,H003002,2010,2010,block
-Vacant Units,H003003,Housing Units,dec/sf1,dec/sf1,H003003,2010,2010,block
-"For seasonal, recreational, or occasional use",H005006,Housing Units,dec/sf1,dec/sf1,H005006,2010,2010,block
