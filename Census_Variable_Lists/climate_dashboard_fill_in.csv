@@ -1,3 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Owner Occupied: Total,B25007_002,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_002,2022,2020,tract
-Owner Occupied: Householder 15 To 24 Years,B25007_003,Tenure By Age Of Householder,American Community Survey,acs/acs5,B25007_003,2022,2020,tract

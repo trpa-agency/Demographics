@@ -1,7 +1,0 @@
-Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Female: 65 and 66 years,B01001_044,Age,American Community Survey,acs/acs5,B01001_044,2022,2020,block group
-Female: 67 to 69 years,B01001_045,Age,American Community Survey,acs/acs5,B01001_045,2022,2020,block group
-Female: 70 to 74 years,B01001_046,Age,American Community Survey,acs/acs5,B01001_046,2022,2020,block group
-Female: 75 to 79 years,B01001_047,Age,American Community Survey,acs/acs5,B01001_047,2022,2020,block group
-Female: 80 to 84 years,B01001_048,Age,American Community Survey,acs/acs5,B01001_048,2022,2020,block group
-Female: 85 years and over,B01001_049,Age,American Community Survey,acs/acs5,B01001_049,2022,2020,block group
