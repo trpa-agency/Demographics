@@ -11,103 +11,58 @@ from urllib3.util.retry import Retry
 import os
 
 
-def census_download_wrapper(variables_df, year, tahoe_geometry, census_api_key, census_geom_year):
-    dfs = []
+# get feature service as dataframe
+def get_fs_as_df(url: str):
+    layer = FeatureLayer(url, gis=GIS()) 
+    return pd.DataFrame.spatial.from_layer(layer)
 
-    for index, row in variables_df.iterrows():
-        print(index)
+# Gets data from the TRPA server
+def get_fs_data(service_url):
+    feature_layer = FeatureLayer(service_url)
+    query_result = feature_layer.query()
+    # Convert the query result to a list of dictionaries
+    feature_list = query_result.features
+    # Create a pandas DataFrame from the list of dictionaries
+    all_data = pd.DataFrame([feature.attributes for feature in feature_list])
+    # return data frame
+    return all_data
 
-        df = get_variable_data(
-            year=year,
-            dataset=row['dataset'],
-            geometry_return=row['sample_level'],
-            variable=row['variable_code'],
-            variablename=row['variable_name'],
-            census_api_key=census_api_key,
-            census_geom_year=census_geom_year,
-            tahoe_geometry=tahoe_geometry,
-            variable_category=row['variable_category']
-        )
+def get_tahoe_geometry(
+    service_url='https://maps.trpa.org/server/rest/services/Demographics/MapServer/27',
+    geometry_fields=None
+):
+    """
+    Query a FeatureLayer and return selected fields as a pandas DataFrame.
+    """
+    if geometry_fields is None:
+        geometry_fields = ['YEAR', 'STATE', 'GEOGRAPHY', 'GEOID', 'TRPAID', 'NEIGHBORHOOD']
 
-        if not df.empty:
-            dfs.append(df)
+    feature_layer = FeatureLayer(service_url)
+    
+    query_result = feature_layer.query(
+        out_fields=",".join(geometry_fields)
+    )
+    
+    feature_list = query_result.features
+    
+    tahoe_geometry = pd.DataFrame(
+        [feature.attributes for feature in feature_list]
+    )
+    
+    return tahoe_geometry
 
-    if not dfs:
-        return pd.DataFrame()
-
-    return pd.concat(dfs, ignore_index=True)
-def get_existing_variables(year, dataset, feature_layer_url):
-    #returns unique variable, variable_name, category and sample level of all existing variables
-    #Need to figure out how to handle ones we post-process - maybe this should be a field in the table? Currently it's variable_category
-    data = get_fs_as_df(feature_layer_url)
-    data = data[data['year_sample']==year]
-    data = data[data['dataset']==dataset]
-    existing_vars = data[['variable_code', 'variable_name', 'variable_category', 'sample_level','dataset']].drop_duplicates()
-    existing_vars['variable_code'] = existing_vars['variable_code'].str[:-1]
-    return existing_vars
-
-def census_download_wrapper_checkpointed(
-    variables_df,
-    year,
-    checkpoint_dir,
-    final_output_csv,
-    tahoe_geometry,
-    census_geom_year=2020,
-    session=SESSION
-    ):
-    os.makedirs(checkpoint_dir, exist_ok=True)
-
-    completed = {
-        f.replace(".csv", "")
-        for f in os.listdir(checkpoint_dir)
-        if f.endswith(".csv")
-    }
-
-    all_dfs = []
-
-    for index, row in variables_df.iterrows():
-        checkpoint_name = f"{year}_{row['variable_code']}_{row['sample_level']}"
-        checkpoint_path = os.path.join(checkpoint_dir, f"{checkpoint_name}.csv")
-
-        if checkpoint_name in completed:
-            print(f"Skipping completed: {checkpoint_name}")
-            df = pd.read_csv(checkpoint_path, dtype=str)
-            all_dfs.append(df)
-            continue
-
-        print(f"Processing {checkpoint_name}")
-
-        try:
-            df = get_variable_data(
-                year=year,
-                dataset=row['dataset'],
-                geometry_return=row['sample_level'],
-                variable=row['variable_code'],
-                variablename=row['variable_name'],
-                census_api_key=census_api_key,
-                census_geom_year=census_geom_year,
-                tahoe_geometry=tahoe_geometry,
-                variable_category=row['variable_category']
-            )
-
-            if df.empty:
-                print(f"No data returned for {checkpoint_name}")
-                continue
-
-            df.to_csv(checkpoint_path, index=False)
-            all_dfs.append(df)
-
-        except Exception as e:
-            print(f"FAILED {checkpoint_name}")
-            raise
-
-    if not all_dfs:
-        return pd.DataFrame()
-
-    final_df = pd.concat(all_dfs, ignore_index=True)
-    final_df.to_csv(final_output_csv, index=False)
-
-    return final_df
+#This gets the result of the get request and does some data wrangling to make it fit our structure
+def get_request_census(request_url, sample_level, geo_name, session):
+    response = session.get(request_url)
+    print(response.status_code)
+    df = pd.DataFrame(response.json())
+    #The json returns column names in the first row
+    df.columns = df.iloc[0]
+    df = df[1:]
+    df['sample_level']=sample_level
+    df['Geo_Name']=geo_name
+    #Might as well add counties and states at this stage
+    return df
 
 def get_variable_data(
     year,
@@ -118,7 +73,8 @@ def get_variable_data(
     census_api_key,
     census_geom_year,
     tahoe_geometry,
-    variable_category
+    variable_category,
+    session
 ):
     county_states = {
         '06': ['017', '061'],
@@ -153,7 +109,7 @@ def get_variable_data(
 
             for attempt in range(3):
                 try:
-                    response = SESSION.get(request_url, timeout=60)
+                    response = session.get(request_url, timeout=60)
                     break
                 except requests.exceptions.ConnectionError:
                     if attempt == 2:
@@ -245,6 +201,107 @@ def get_variable_data(
     )
 
     return df_total
+
+# This doesn't handle getting disconnected by the census server
+def census_download_wrapper(variables_df, year, tahoe_geometry, census_api_key, census_geom_year):
+    dfs = []
+
+    for index, row in variables_df.iterrows():
+        print(index)
+
+        df = get_variable_data(
+            year=year,
+            dataset=row['dataset'],
+            geometry_return=row['sample_level'],
+            variable=row['variable_code'],
+            variablename=row['variable_name'],
+            census_api_key=census_api_key,
+            census_geom_year=census_geom_year,
+            tahoe_geometry=tahoe_geometry,
+            variable_category=row['variable_category']
+        )
+
+        if not df.empty:
+            dfs.append(df)
+
+    if not dfs:
+        return pd.DataFrame()
+
+    return pd.concat(dfs, ignore_index=True)
+def get_existing_variables(year, dataset, feature_layer_url):
+    #returns unique variable, variable_name, category and sample level of all existing variables
+    #Need to figure out how to handle ones we post-process - maybe this should be a field in the table? Currently it's variable_category
+    data = get_fs_as_df(feature_layer_url)
+    data = data[data['year_sample']==year]
+    data = data[data['dataset']==dataset]
+    existing_vars = data[['variable_code', 'variable_name', 'variable_category', 'sample_level','dataset']].drop_duplicates()
+    existing_vars['variable_code'] = existing_vars['variable_code'].str[:-1]
+    return existing_vars
+
+def census_download_wrapper_checkpointed(
+    variables_df,
+    year,
+    checkpoint_dir,
+    final_output_csv,
+    tahoe_geometry,
+    session,
+    census_geom_year=2020,    
+    census_api_key=None
+    ):
+    os.makedirs(checkpoint_dir, exist_ok=True)
+
+    completed = {
+        f.replace(".csv", "")
+        for f in os.listdir(checkpoint_dir)
+        if f.endswith(".csv")
+    }
+
+    all_dfs = []
+
+    for index, row in variables_df.iterrows():
+        checkpoint_name = f"{year}_{row['variable_code']}_{row['sample_level']}"
+        checkpoint_path = os.path.join(checkpoint_dir, f"{checkpoint_name}.csv")
+
+        if checkpoint_name in completed:
+            print(f"Skipping completed: {checkpoint_name}")
+            df = pd.read_csv(checkpoint_path, dtype=str)
+            all_dfs.append(df)
+            continue
+
+        print(f"Processing {checkpoint_name}")
+
+        try:
+            df = get_variable_data(
+                year=year,
+                dataset=row['dataset'],
+                geometry_return=row['sample_level'],
+                variable=row['variable_code'],
+                variablename=row['variable_name'],
+                census_api_key=census_api_key,
+                census_geom_year=census_geom_year,
+                tahoe_geometry=tahoe_geometry,
+                variable_category=row['variable_category']
+            )
+
+            if df.empty:
+                print(f"No data returned for {checkpoint_name}")
+                continue
+
+            df.to_csv(checkpoint_path, index=False)
+            all_dfs.append(df)
+
+        except Exception as e:
+            print(f"FAILED {checkpoint_name}")
+            raise
+
+    if not all_dfs:
+        return pd.DataFrame()
+
+    final_df = pd.concat(all_dfs, ignore_index=True)
+    final_df.to_csv(final_output_csv, index=False)
+
+    return final_df
+
 def make_session():
     retry = Retry(
         total=5,
@@ -266,27 +323,6 @@ def make_session():
 
     return session
 
-
-SESSION = make_session()
-
-
-# get feature service as dataframe
-def get_fs_as_df(url: str):
-    layer = FeatureLayer(url, gis=GIS()) 
-    return pd.DataFrame.spatial.from_layer(layer)
-
-#This gets the result of the get request and does some data wrangling to make it fit our structure
-def get_request_census(request_url, sample_level, geo_name):
-    response = SESSION.get(request_url)
-    print(response.status_code)
-    df = pd.DataFrame(response.json())
-    #The json returns column names in the first row
-    df.columns = df.iloc[0]
-    df = df[1:]
-    df['sample_level']=sample_level
-    df['Geo_Name']=geo_name
-    #Might as well add counties and states at this stage
-    return df
 
 def get_non_tahoe_data(year,dataset, variable, variablename, census_api_key, census_geom_year, variable_category):
     base_url = 'https://api.census.gov/data'
@@ -342,13 +378,3 @@ def get_non_tahoe_data(year,dataset, variable, variablename, census_api_key, cen
     #         request_url= f'{base_url}/{year}/{dataset}?get=GEO_ID,{variable}&for={statistical_region_url}:{urban_center_code}&key={census_api_key}'
     #         df = get_request_census(request_url,'MSA',urban_center)
     #         df_total = create_or_append_df(df_total,df)
-# Gets data from the TRPA server
-def get_fs_data(service_url):
-    feature_layer = FeatureLayer(service_url)
-    query_result = feature_layer.query()
-    # Convert the query result to a list of dictionaries
-    feature_list = query_result.features
-    # Create a pandas DataFrame from the list of dictionaries
-    all_data = pd.DataFrame([feature.attributes for feature in feature_list])
-    # return data frame
-    return all_data
